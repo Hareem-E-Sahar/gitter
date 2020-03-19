@@ -1,0 +1,3448 @@
+[
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jamespeerless",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1205661?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1205661?v=4&s=60",
+   "displayName": "James Peerless",
+   "gv": "4",
+   "id": "53c53762107e137846ba6b28",
+   "url": "/jamespeerless",
+   "username": "jamespeerless",
+   "v": 4
+  },
+  "html": "Hey-- I&#39;m trying to see if a user already has a conversation with a certain person so I can reply to that thread instead of creating a new conversation.  Original idea was to loop through receipts_for(current_user) and try to find one where the message recipient or sender is the current target recipient and reply to that one? Is there a better way to do this?",
+  "id": "540e6aadaa04d686484a891c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2014-09-09T02:49:17.287Z",
+  "text": "Hey-- I'm trying to see if a user already has a conversation with a certain person so I can reply to that thread instead of creating a new conversation.  Original idea was to loop through receipts_for(current_user) and try to find one where the message recipient or sender is the current target recipient and reply to that one? Is there a better way to do this?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/jamespeerless",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1205661?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1205661?v=4&s=60",
+   "displayName": "James Peerless",
+   "gv": "4",
+   "id": "53c53762107e137846ba6b28",
+   "url": "/jamespeerless",
+   "username": "jamespeerless",
+   "v": 4
+  },
+  "html": "actually, im just finding a current_conversation by iterating over current_user.mailbox.conversations and finding the one (if it exists) with a participant who is the target recipient.. pretty straight forward",
+  "id": "540e6c71581cf52b78da3430",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 2,
+  "sent": "2014-09-09T02:56:49.853Z",
+  "text": "actually, im just finding a current_conversation by iterating over current_user.mailbox.conversations and finding the one (if it exists) with a participant who is the target recipient.. pretty straight forward",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jamespeerless\" class=\"mention\">@jamespeerless</span> check out the reply method on the messageable model <a href=\"https://github.com/mailboxer/mailboxer/blob/master/lib/mailboxer/models/messageable.rb\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://github.com/mailboxer/mailboxer/blob/master/lib/mailboxer/models/messageable.rb</a>",
+  "id": "540ef1dc00ff3463380d2dd4",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jamespeerless",
+    "userId": "53c53762107e137846ba6b28"
+   }
+  ],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2014-09-09T12:26:04.794Z",
+  "text": "@jamespeerless check out the reply method on the messageable model https://github.com/mailboxer/mailboxer/blob/master/lib/mailboxer/models/messageable.rb",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/mailboxer/mailboxer/blob/master/lib/mailboxer/models/messageable.rb"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jamespeerless\" class=\"mention\">@jamespeerless</span> I missunderstood your question. As far as I can see, the way your are doing it is probably the best way for now.",
+  "id": "540efe71224412d4621f8087",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jamespeerless",
+    "userId": "53c53762107e137846ba6b28"
+   }
+  ],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2014-09-09T13:19:45.398Z",
+  "text": "@jamespeerless I missunderstood your question. As far as I can see, the way your are doing it is probably the best way for now.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/trigun0x2",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3936336?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3936336?v=4&s=60",
+   "displayName": "Jeffrey Tong",
+   "gv": "4",
+   "id": "53b4f6d6107e137846ba5647",
+   "url": "/trigun0x2",
+   "username": "trigun0x2",
+   "v": 9
+  },
+  "html": "hey",
+  "id": "542ee326e61141f0108e55ba",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-03T17:55:50.473Z",
+  "text": "hey",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "hello",
+  "id": "542ef281e61141f0108e59e4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:01:21.388Z",
+  "text": "hello",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/trigun0x2",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3936336?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3936336?v=4&s=60",
+   "displayName": "Jeffrey Tong",
+   "gv": "4",
+   "id": "53b4f6d6107e137846ba5647",
+   "url": "/trigun0x2",
+   "username": "trigun0x2",
+   "v": 9
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"searsaw\" class=\"mention\">@searsaw</span> hey I figured it out. Haha, I was going to ask how to change the subject for notification emails",
+  "id": "542ef2a2bd4fb4ef106e8b5c",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "searsaw",
+    "userId": "53b199ee107e137846ba4f29",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:01:54.134Z",
+  "text": "@searsaw hey I figured it out. Haha, I was going to ask how to change the subject for notification emails",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "To overwrite any of the mailer stuff, you have to bring it into your local.",
+  "id": "542ef3371fe261154f572c33",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:04:23.051Z",
+  "text": "To overwrite any of the mailer stuff, you have to bring it into your local.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "there is a generator for it",
+  "id": "542ef33a1fe261154f572c34",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:04:26.901Z",
+  "text": "there is a generator for it",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "however, there are a few issues all saying that part of it is broken",
+  "id": "542ef349bd4fb4ef106e8b6b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:04:41.723Z",
+  "text": "however, there are a few issues all saying that part of it is broken",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2014-10-03T19:05:14.240Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "here is one that found a workaround <span data-link-type=\"issue\" data-issue=\"306\" class=\"issue\">#306</span>",
+  "id": "542ef34e315966906c42d4ea",
+  "issues": [
+   {
+    "number": "306"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:04:46.400Z",
+  "text": "here is one that found a workaround #306",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "editedAt": "2014-10-03T19:05:18.256Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "",
+  "id": "542ef34fbd4fb4ef106e8b6d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:04:47.002Z",
+  "text": "",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "I need to go through and fix stuff like this but am swamped, as are the other maintainers. if you find anything like this and want to submit a pull request, please do and i will pull it in as soon as i can.",
+  "id": "542ef39d315966906c42d500",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-03T19:06:05.965Z",
+  "text": "I need to go through and fix stuff like this but am swamped, as are the other maintainers. if you find anything like this and want to submit a pull request, please do and i will pull it in as soon as i can.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/trigun0x2",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3936336?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3936336?v=4&s=60",
+   "displayName": "Jeffrey Tong",
+   "gv": "4",
+   "id": "53b4f6d6107e137846ba5647",
+   "url": "/trigun0x2",
+   "username": "trigun0x2",
+   "v": 9
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"searsaw\" class=\"mention\">@searsaw</span> I actually just changed the locale.",
+  "id": "542f41a01fe261154f57345a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "searsaw",
+    "userId": "53b199ee107e137846ba4f29",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-04T00:38:56.919Z",
+  "text": "@searsaw I actually just changed the locale.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/remware",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/689273?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/689273?v=4&s=60",
+   "displayName": "Remberto Martinez",
+   "gv": "4",
+   "id": "54327ac4163965c9bc20919e",
+   "url": "/remware",
+   "username": "remware",
+   "v": 5
+  },
+  "html": "Is it possible to localize the model mailboxer::message ?",
+  "id": "54327c3052dc738f6cb974b6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-06T11:25:36.713Z",
+  "text": "Is it possible to localize the model mailboxer::message ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/remware",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/689273?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/689273?v=4&s=60",
+   "displayName": "Remberto Martinez",
+   "gv": "4",
+   "id": "54327ac4163965c9bc20919e",
+   "url": "/remware",
+   "username": "remware",
+   "v": 5
+  },
+  "html": "I am trying in the code to use Mailboxer::Message.model_name.human and then add in to en.yml the entries under activerecord -&gt; models -&gt; mailboxer  -&gt; message but that does not work, any suggestions ?",
+  "id": "54327ccabd4fb4ef106edc6e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-06T11:28:10.443Z",
+  "text": "I am trying in the code to use Mailboxer::Message.model_name.human and then add in to en.yml the entries under activerecord -> models -> mailboxer  -> message but that does not work, any suggestions ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/Loschcode",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6666570?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6666570?v=4&s=60",
+   "displayName": "Laurent Schaffner",
+   "gv": "4",
+   "id": "543f5ea5db8155e6700cc019",
+   "url": "/Loschcode",
+   "username": "Loschcode",
+   "v": 3
+  },
+  "html": "hi everyone, is there a priority system within mailboxer ? (alert, warning, ...)",
+  "id": "543f5ed6804463c157ddb192",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-16T05:59:50.983Z",
+  "text": "hi everyone, is there a priority system within mailboxer ? (alert, warning, ...)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "there is currently no feature like this, but it\u2019s a good idea for a future feature",
+  "id": "543fd39a9a9417c428ab6d15",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-16T14:18:02.116Z",
+  "text": "there is currently no feature like this, but it\u2019s a good idea for a future feature",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/pakerimus",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1610369?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1610369?v=3&s=60",
+   "displayName": "pakerimus",
+   "gv": "3",
+   "id": "54402dd7db8155e6700cc36c",
+   "url": "/pakerimus",
+   "username": "pakerimus",
+   "v": 1
+  },
+  "html": "hello world! Is there a plan to make this gem oracle compatible?",
+  "id": "54402e4c7d2272c659136e9f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-10-16T20:45:00.999Z",
+  "text": "hello world! Is there a plan to make this gem oracle compatible?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "not as of currently.",
+  "id": "544030a8b7a4f087741c30a5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-16T20:55:04.699Z",
+  "text": "not as of currently.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/u/johan010",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=60",
+   "displayName": "Johan Baaij",
+   "id": "541145ea163965c9bc203ec9",
+   "url": "/johan010",
+   "username": "johan010",
+   "v": 2
+  },
+  "html": "hi. Is it possible to set the notified_object for notifications of the type Mailboxer::Message?",
+  "id": "545288c833b27bd12c404a65",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-30T18:51:52.012Z",
+  "text": "hi. Is it possible to set the notified_object for notifications of the type Mailboxer::Message?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/u/johan010",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=60",
+   "displayName": "Johan Baaij",
+   "id": "541145ea163965c9bc203ec9",
+   "url": "/johan010",
+   "username": "johan010",
+   "v": 2
+  },
+  "html": "also, i was wondering what the notifcation_code column does?",
+  "id": "545289253e1557d6669e0cbf",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-30T18:53:25.314Z",
+  "text": "also, i was wondering what the notifcation_code column does?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2014-10-30T19:05:03.775Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "<p>I don\u2019t believe there is a way to attach an object to a message.  Not formally that is.  However, the <code>send_message</code> method on the <code>Messageable</code> object returns the receipt for the sender\u2019s message.  So you could do something like:</p><pre><code class=\"ruby\">something = <span class=\"constant\">SomeObject</span>.new\nreceipt = user.send_message(put, params, here)\nreceipt.message.notified_object = something\nreceipt.save!</code></pre><p>I haven\u2019t tested this, but I believe it will work for ya.</p>",
+  "id": "54528b823e1557d6669e0ce6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-30T19:03:30.351Z",
+  "text": "I don\u2019t believe there is a way to attach an object to a message.  Not formally that is.  However, the `send_message` method on the `Messageable` object returns the receipt for the sender\u2019s message.  So you could do something like:\n\n```ruby\nsomething = SomeObject.new\nreceipt = user.send_message(put, params, here)\nreceipt.message.notified_object = something\nreceipt.save!\n```\n\nI haven\u2019t tested this, but I believe it will work for ya.",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/u/johan010",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=60",
+   "displayName": "Johan Baaij",
+   "id": "541145ea163965c9bc203ec9",
+   "url": "/johan010",
+   "username": "johan010",
+   "v": 2
+  },
+  "html": "right! that looks great, thanks heaps :)",
+  "id": "54528c263e1557d6669e0cf2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-30T19:06:14.690Z",
+  "text": "right! that looks great, thanks heaps :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/u/johan010",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1690878?v=3&s=60",
+   "displayName": "Johan Baaij",
+   "id": "541145ea163965c9bc203ec9",
+   "url": "/johan010",
+   "username": "johan010",
+   "v": 2
+  },
+  "html": "will let you know if it works",
+  "id": "54528c3c33b27bd12c404a8b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-10-30T19:06:36.659Z",
+  "text": "will let you know if it works",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/Random-Primate",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4970073?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4970073?v=3&s=60",
+   "displayName": "Jose Torres",
+   "gv": "3",
+   "id": "545e6875db8155e6700d2c40",
+   "url": "/Random-Primate",
+   "username": "Random-Primate",
+   "v": 1
+  },
+  "html": "Hey guys, I\u2019m getting an undefined error in my implementation for which I need some help with but wanted to check what\u2019s protocol around here first. Done my due diligence elsewhere as well.",
+  "id": "5468152ed82fffb63234afe0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2014-11-16T03:08:30.175Z",
+  "text": "Hey guys, I\u2019m getting an undefined error in my implementation for which I need some help with but wanted to check what\u2019s protocol around here first. Done my due diligence elsewhere as well.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "Hey Guys, Face a blocker issue which has been happened for others too: <a href=\"http://stackoverflow.com/questions/18503114/some-times-getting-activerecordassociationtypemismatch-error\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://stackoverflow.com/questions/18503114/some-times-getting-activerecordassociationtypemismatch-error</a>",
+  "id": "548435113b2e96fc627d2e72",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T11:08:01.372Z",
+  "text": "Hey Guys, Face a blocker issue which has been happened for others too: http://stackoverflow.com/questions/18503114/some-times-getting-activerecordassociationtypemismatch-error",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://stackoverflow.com/questions/18503114/some-times-getting-activerecordassociationtypemismatch-error"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "editedAt": "2014-12-07T11:09:00.054Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "and interesting that it randomly succeed",
+  "id": "5484353d7af58c8e42df4323",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T11:08:45.562Z",
+  "text": "and interesting that it randomly succeed",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "Appreciate any help",
+  "id": "54843550cc90a1234ab218ed",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T11:09:04.514Z",
+  "text": "Appreciate any help",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "It turns out that it happens due to monkey patches by other gems like pry_stack-explorer and ..., I&#39;m not sure, but it&#39;s been resolved when I added pry_rescue gem",
+  "id": "548437cc3b2e96fc627d2e8a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T11:19:40.660Z",
+  "text": "It turns out that it happens due to monkey patches by other gems like pry_stack-explorer and ..., I'm not sure, but it's been resolved when I added pry_rescue gem",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "and I was wrong again, cause it happens but less often",
+  "id": "548456c1cc90a1234ab21a5d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T13:31:45.083Z",
+  "text": "and I was wrong again, cause it happens but less often",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "I think it&#39;s a bug, there is a method in message.rb which calls build_receipt in notifincation.rb which accepts a notification object but caller send it a message object",
+  "id": "5484d20c3b2e96fc627d38db",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T22:17:48.916Z",
+  "text": "I think it's a bug, there is a method in message.rb which calls build_receipt in notifincation.rb which accepts a notification object but caller send it a message object",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/jzinedine",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/503810?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/503810?v=3&s=60",
+   "displayName": "Jahangir Zinedine",
+   "id": "53a52143a9176b500d1cecc7",
+   "url": "/jzinedine",
+   "username": "jzinedine",
+   "v": 1
+  },
+  "html": "here is the link to build_receipt call from message.rb: <a href=\"https://github.com/mailboxer/mailboxer/blob/master/app/models/mailboxer/message.rb#L29\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://github.com/mailboxer/mailboxer/blob/master/app/models/mailboxer/message.rb#L29</a>",
+  "id": "5484d2ab7af58c8e42df4d79",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2014-12-07T22:20:27.926Z",
+  "text": "here is the link to build_receipt call from message.rb: https://github.com/mailboxer/mailboxer/blob/master/app/models/mailboxer/message.rb#L29",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://github.com/mailboxer/mailboxer/blob/master/app/models/mailboxer/message.rb#L29"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/jcoyne",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/92044?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/92044?v=4&s=60",
+   "displayName": "Justin Coyne",
+   "gv": "4",
+   "id": "53c98413107e137846ba7218",
+   "url": "/jcoyne",
+   "username": "jcoyne",
+   "v": 4
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"searsaw\" class=\"mention\">@searsaw</span> can you take a look at <span data-link-type=\"issue\" data-issue=\"325\" data-issue-repo=\"mailboxer/mailboxer\" class=\"issue\">mailboxer/mailboxer#325</span>",
+  "id": "54997bf955c5c3522f735414",
+  "issues": [
+   {
+    "number": "325",
+    "repo": "mailboxer/mailboxer"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "searsaw",
+    "userId": "53b199ee107e137846ba4f29",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2014-12-23T14:28:09.783Z",
+  "text": "@searsaw can you take a look at https://github.com/mailboxer/mailboxer/pull/325",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2014-12-23T15:55:58.285Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/u/searsaw",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3712883?v=3&s=60",
+   "displayName": "Alex Sears",
+   "id": "53b199ee107e137846ba4f29",
+   "url": "/searsaw",
+   "username": "searsaw",
+   "v": 3
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"jcoyne\" class=\"mention\">@jcoyne</span> did it finally pass? I was just about to look into it but saw you merged it in.",
+  "id": "5499907f1874bf66591383f9",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "jcoyne",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2014-12-23T15:55:43.465Z",
+  "text": "@jcoyne did it finally pass? I was just about to look into it but saw you merged it in.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/jcoyne",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/92044?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/92044?v=4&s=60",
+   "displayName": "Justin Coyne",
+   "gv": "4",
+   "id": "53c98413107e137846ba7218",
+   "url": "/jcoyne",
+   "username": "jcoyne",
+   "v": 4
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"searsaw\" class=\"mention\">@searsaw</span> Yea, sorry, I would have waited for you, had I known you were actually going to be around today.",
+  "id": "5499919c1874bf6659138425",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "searsaw",
+    "userId": "53b199ee107e137846ba4f29",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-12-23T16:00:28.995Z",
+  "text": "@searsaw Yea, sorry, I would have waited for you, had I known you were actually going to be around today.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/jcoyne",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/92044?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/92044?v=4&s=60",
+   "displayName": "Justin Coyne",
+   "gv": "4",
+   "id": "53c98413107e137846ba7218",
+   "url": "/jcoyne",
+   "username": "jcoyne",
+   "v": 4
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"searsaw\" class=\"mention\">@searsaw</span> I&#39;ll let you merge this one: <span data-link-type=\"issue\" data-issue=\"327\" data-issue-repo=\"mailboxer/mailboxer\" class=\"issue\">mailboxer/mailboxer#327</span>",
+  "id": "5499927455c5c3522f7355c6",
+  "issues": [
+   {
+    "number": "327",
+    "repo": "mailboxer/mailboxer"
+   }
+  ],
+  "mentions": [
+   {
+    "screenName": "searsaw",
+    "userId": "53b199ee107e137846ba4f29",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-12-23T16:04:04.361Z",
+  "text": "@searsaw I'll let you merge this one: https://github.com/mailboxer/mailboxer/pull/327",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/jcoyne",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/92044?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/92044?v=4&s=60",
+   "displayName": "Justin Coyne",
+   "gv": "4",
+   "id": "53c98413107e137846ba7218",
+   "url": "/jcoyne",
+   "username": "jcoyne",
+   "v": 4
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"searsaw\" class=\"mention\">@searsaw</span> okay, rails 4.2 support is all done.",
+  "id": "5499a8cf1874bf665913877b",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "searsaw",
+    "userId": "53b199ee107e137846ba4f29",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2014-12-23T17:39:27.770Z",
+  "text": "@searsaw okay, rails 4.2 support is all done.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ninabreznik",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1076427?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1076427?v=4&s=60",
+   "displayName": "Nina Breznik",
+   "gv": "4",
+   "id": "53ef78c7107e137846baae89",
+   "url": "/ninabreznik",
+   "username": "ninabreznik",
+   "v": 146
+  },
+  "html": "<p>Heyho, people:) I have problems with message_mailer (new_message_email &amp; reply_message_email). I&#39;m using Mandrillapp.</p><p>The problem I am having is, that I change html and text for those 2 emails and I translate them into my language, but when I check my email, text is still in english. How do I change that?</p><p>Thanks a lot for help:)</p>",
+  "id": "54c06ae16d594c7010d660e6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2015-01-22T03:13:37.477Z",
+  "text": "Heyho, people:) I have problems with message_mailer (new_message_email & reply_message_email). I'm using Mandrillapp.\n\nThe problem I am having is, that I change html and text for those 2 emails and I translate them into my language, but when I check my email, text is still in english. How do I change that?\n\nThanks a lot for help:)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/u/keithmattix",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1531662?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1531662?v=3&s=60",
+   "displayName": "Keith Mattix",
+   "id": "54d9ff3715522ed4b3dbd727",
+   "url": "/keithmattix",
+   "username": "keithmattix"
+  },
+  "html": "Hi there, I&#39;ve been looking through the issues, but I did not see anyway to change the storage for messages to something like firebase or some other external data storage. Does something like that exist? If not, would it be hard to implement?",
+  "id": "54f3d568ed4498740b8fb389",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2015-03-02T03:13:44.095Z",
+  "text": "Hi there, I've been looking through the issues, but I did not see anyway to change the storage for messages to something like firebase or some other external data storage. Does something like that exist? If not, would it be hard to implement?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/sethwebster",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/680625?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/680625?v=3&s=60",
+   "displayName": "Seth Webster",
+   "gv": "3",
+   "id": "5508d3f015522ed4b3dd6bb7",
+   "url": "/sethwebster",
+   "username": "sethwebster",
+   "v": 1
+  },
+  "html": "Greetings.",
+  "id": "5508d3ff77c8d5b10f4fa6eb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T01:25:19.508Z",
+  "text": "Greetings.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/sethwebster",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/680625?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/680625?v=3&s=60",
+   "displayName": "Seth Webster",
+   "gv": "3",
+   "id": "5508d3f015522ed4b3dd6bb7",
+   "url": "/sethwebster",
+   "username": "sethwebster",
+   "v": 1
+  },
+  "html": "Is there an upgrade path from 0.6.5 to current?",
+  "id": "5508d41318b0c31d20df2d57",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T01:25:39.378Z",
+  "text": "Is there an upgrade path from 0.6.5 to current?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/danbartlett",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=60",
+   "displayName": "Dan Bartlett",
+   "gv": "3",
+   "id": "534ffad15e986b0712f038b8",
+   "url": "/danbartlett",
+   "username": "danbartlett",
+   "v": 7
+  },
+  "html": "Hi all",
+  "id": "55094e37056b32f15d92d85c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T10:06:47.595Z",
+  "text": "Hi all",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/jhliberty",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/449321?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/449321?v=4&s=60",
+   "displayName": "John-Henry Liberty",
+   "gv": "4",
+   "id": "54b94c5cdb8155e6700ec090",
+   "url": "/jhliberty",
+   "username": "jhliberty",
+   "v": 114
+  },
+  "html": "hello",
+  "id": "550950e539d0314d518d2583",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T10:18:13.504Z",
+  "text": "hello",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/danbartlett",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=60",
+   "displayName": "Dan Bartlett",
+   "gv": "3",
+   "id": "534ffad15e986b0712f038b8",
+   "url": "/danbartlett",
+   "username": "danbartlett",
+   "v": 7
+  },
+  "html": "Does anyone know of a reason why Mailboxer::Notification.id and Mailboxer::Receipt.id would go out of sync? I know they&#39;re not foreign keys, but they have been in sync up until recently. And then lots of things broke because we were finding notifications by receipt id! (notification = Mailboxer::Notification.find_by(id: receipt.id)",
+  "id": "55095165056b32f15d92d8a4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T10:20:21.394Z",
+  "text": "Does anyone know of a reason why Mailboxer::Notification.id and Mailboxer::Receipt.id would go out of sync? I know they're not foreign keys, but they have been in sync up until recently. And then lots of things broke because we were finding notifications by receipt id! (notification = Mailboxer::Notification.find_by(id: receipt.id)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/danbartlett",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=60",
+   "displayName": "Dan Bartlett",
+   "gv": "3",
+   "id": "534ffad15e986b0712f038b8",
+   "url": "/danbartlett",
+   "username": "danbartlett",
+   "v": 7
+  },
+  "html": "we pass the notification data on to GCM for push notifications and the result is that everyone gets notified about the previous notification event (which usually has nothing to do with them...). Horrible to get to the bottom of. I see now we shouldn&#39;t find notifications by Mailboxer::Notification.find_by(id: receipt.id), but I am concerned that there are differences between the total numbers of receipts and notifications",
+  "id": "550951f677c8d5b10f4faefb",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T10:22:46.843Z",
+  "text": "we pass the notification data on to GCM for push notifications and the result is that everyone gets notified about the previous notification event (which usually has nothing to do with them...). Horrible to get to the bottom of. I see now we shouldn't find notifications by Mailboxer::Notification.find_by(id: receipt.id), but I am concerned that there are differences between the total numbers of receipts and notifications",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/jhliberty",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/449321?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/449321?v=4&s=60",
+   "displayName": "John-Henry Liberty",
+   "gv": "4",
+   "id": "54b94c5cdb8155e6700ec090",
+   "url": "/jhliberty",
+   "username": "jhliberty",
+   "v": 114
+  },
+  "html": "Hmm maybe someone turned off notifications? ",
+  "id": "55095494056b32f15d92d8f0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T10:33:56.746Z",
+  "text": "Hmm maybe someone turned off notifications? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/danbartlett",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=60",
+   "displayName": "Dan Bartlett",
+   "gv": "3",
+   "id": "534ffad15e986b0712f038b8",
+   "url": "/danbartlett",
+   "username": "danbartlett",
+   "v": 7
+  },
+  "html": "How so? Notifications are default for all users, no way to turn off really",
+  "id": "550954ff056b32f15d92d8fe",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2015-03-18T10:35:43.483Z",
+  "text": "How so? Notifications are default for all users, no way to turn off really",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/danbartlett",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=60",
+   "displayName": "Dan Bartlett",
+   "gv": "3",
+   "id": "534ffad15e986b0712f038b8",
+   "url": "/danbartlett",
+   "username": "danbartlett",
+   "v": 7
+  },
+  "html": "and i don&#39;t think that would create notifications without receipts or vice versa",
+  "id": "5509551d39d0314d518d25da",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-03-18T10:36:13.952Z",
+  "text": "and i don't think that would create notifications without receipts or vice versa",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/danbartlett",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1884651?v=3&s=60",
+   "displayName": "Dan Bartlett",
+   "gv": "3",
+   "id": "534ffad15e986b0712f038b8",
+   "url": "/danbartlett",
+   "username": "danbartlett",
+   "v": 7
+  },
+  "html": "i suspect we&#39;ve just delete a notifcation or receipt somewhere manually, without clearing out it&#39;s partner",
+  "id": "5509553437a5026370f1d947",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-03-18T10:36:36.696Z",
+  "text": "i suspect we've just delete a notifcation or receipt somewhere manually, without clearing out it's partner",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/StephenKrewson",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3647804?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3647804?v=3&s=60",
+   "displayName": "Stephen Krewson",
+   "gv": "3",
+   "id": "550a0c8c15522ed4b3dd7933",
+   "url": "/StephenKrewson",
+   "username": "StephenKrewson"
+  },
+  "html": "any advice for setting up mailboxer with mongodb? I&#39;m getting lots of ActiveRecord connection_not_established errors.",
+  "id": "550a0ce4da48226922859b8b",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-03-18T23:40:20.565Z",
+  "text": "any advice for setting up mailboxer with mongodb? I'm getting lots of ActiveRecord connection_not_established errors.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/StephenKrewson",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3647804?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3647804?v=3&s=60",
+   "displayName": "Stephen Krewson",
+   "gv": "3",
+   "id": "550a0c8c15522ed4b3dd7933",
+   "url": "/StephenKrewson",
+   "username": "StephenKrewson"
+  },
+  "html": "<span data-link-type=\"issue\" data-issue=\"27\" data-issue-repo=\"mailboxer/mailboxer\" class=\"issue\">mailboxer/mailboxer#27</span> (never mind! disappointing...)",
+  "id": "550a10f9056b32f15d92ecd3",
+  "issues": [
+   {
+    "number": "27",
+    "repo": "mailboxer/mailboxer"
+   }
+  ],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-03-18T23:57:45.705Z",
+  "text": "https://github.com/mailboxer/mailboxer/issues/27 (never mind! disappointing...)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/tapalilov",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/940649?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/940649?v=4&s=60",
+   "displayName": "Georgi Tapalilov",
+   "gv": "4",
+   "id": "533ee8af5e986b0712f013d0",
+   "url": "/tapalilov",
+   "username": "tapalilov",
+   "v": 10
+  },
+  "html": "Hey, guys. How to fetch all unreaded messages ?",
+  "id": "551a8b6346daaace53d59a15",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-03-31T11:56:19.542Z",
+  "text": "Hey, guys. How to fetch all unreaded messages ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/diegoviola",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/4371?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/4371?v=4&s=60",
+   "displayName": "Diego Viola",
+   "gv": "4",
+   "id": "54e1126c15522ed4b3dc0bf4",
+   "url": "/diegoviola",
+   "username": "diegoviola",
+   "v": 4
+  },
+  "html": "hi",
+  "id": "553a9047dcf9be9c3da2ab77",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-04-24T18:49:43.986Z",
+  "text": "hi",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/diegoviola",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/4371?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/4371?v=4&s=60",
+   "displayName": "Diego Viola",
+   "gv": "4",
+   "id": "54e1126c15522ed4b3dc0bf4",
+   "url": "/diegoviola",
+   "username": "diegoviola",
+   "v": 4
+  },
+  "html": "I need to implement this gem on a rails app, is there a tutorial?",
+  "id": "553a9050bbb1d1e506c15946",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-04-24T18:49:52.058Z",
+  "text": "I need to implement this gem on a rails app, is there a tutorial?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2015-05-04T18:40:06.193Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/stefanvermaas",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1470863?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1470863?v=4&s=60",
+   "displayName": "Stefan Vermaas",
+   "gv": "4",
+   "id": "5547bc0715522ed4b3dfebcb",
+   "url": "/stefanvermaas",
+   "username": "stefanvermaas",
+   "v": 2
+  },
+  "html": "Did anyone managed to make this gem work in the latest rails version (4.2.1)? I&#39;m getting errors about the foreign keys.",
+  "id": "5547bcdb5b12f7f26b6ab3da",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-05-04T18:39:23.119Z",
+  "text": "Did anyone managed to make this gem work in the latest rails version (4.2.1)? I'm getting errors about the foreign keys.",
+  "unread": false,
+  "urls": [],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/vishnuvntcr",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1990209?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1990209?v=3&s=60",
+   "displayName": "VISHNU VN",
+   "gv": "3",
+   "id": "555c1c0515522ed4b3e0a6b3",
+   "url": "/vishnuvntcr",
+   "username": "vishnuvntcr"
+  },
+  "html": "Is there any way to upload multiple attachment to a mesage?",
+  "id": "555c1c336bec1f5f0370f701",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2015-05-20T05:31:31.817Z",
+  "text": "Is there any way to upload multiple attachment to a mesage?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/chrisyeung1121",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3488583?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3488583?v=4&s=60",
+   "displayName": "chrisyeung1121",
+   "gv": "4",
+   "id": "556f5ec315522ed4b3e160ab",
+   "url": "/chrisyeung1121",
+   "username": "chrisyeung1121",
+   "v": 2
+  },
+  "html": "<blockquote>\ncool</blockquote>\n",
+  "id": "556f5f06813c577e1cf52cfe",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-06-03T20:09:42.172Z",
+  "text": "> cool",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/chrisyeung1121",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3488583?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3488583?v=4&s=60",
+   "displayName": "chrisyeung1121",
+   "gv": "4",
+   "id": "556f5ec315522ed4b3e160ab",
+   "url": "/chrisyeung1121",
+   "username": "chrisyeung1121",
+   "v": 2
+  },
+  "html": "<em>refile</em>",
+  "id": "556f5f17f40a067d1c9b57f4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-06-03T20:09:59.610Z",
+  "text": "_refile_",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/claudiug",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/969118?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/969118?v=4&s=60",
+   "displayName": "claudiucancode",
+   "gv": "4",
+   "id": "529c6a9aed5ab0b3bf04d3d4",
+   "url": "/claudiug",
+   "username": "claudiug",
+   "v": 8
+  },
+  "html": "hello guys, I&#39;m trying mailboxer but I have an error when I try to migrate. Using rails 3 and ruby 1.9.3",
+  "id": "558bbfec461e01f542c8876f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-06-25T08:46:36.866Z",
+  "text": "hello guys, I'm trying mailboxer but I have an error when I try to migrate. Using rails 3 and ruby 1.9.3",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/claudiug",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/969118?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/969118?v=4&s=60",
+   "displayName": "claudiucancode",
+   "gv": "4",
+   "id": "529c6a9aed5ab0b3bf04d3d4",
+   "url": "/claudiug",
+   "username": "claudiug",
+   "v": 8
+  },
+  "html": "<p>error: ake aborted!<br>StandardError: An error has occurred, this and all later migrations canceled:</p><p>PG::SyntaxError: ERROR:  syntax error at or near &quot;{&quot;<br>LINE 4:                 REFERENCES {:name=&gt;&quot;receipts_on_notification...</p>",
+  "id": "558bbffa38e37bf74261d8e4",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-06-25T08:46:50.018Z",
+  "text": "error: ake aborted!\nStandardError: An error has occurred, this and all later migrations canceled:\n\nPG::SyntaxError: ERROR:  syntax error at or near \"{\"\nLINE 4:                 REFERENCES {:name=>\"receipts_on_notification...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/claudiug",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/969118?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/969118?v=4&s=60",
+   "displayName": "claudiucancode",
+   "gv": "4",
+   "id": "529c6a9aed5ab0b3bf04d3d4",
+   "url": "/claudiug",
+   "username": "claudiug",
+   "v": 8
+  },
+  "html": "execute(&quot;ALTER TABLE mailboxer_receipts\\n                ADD CONSTRAINT fk_mailboxer_receipts_mailboxer_notifications\\n                FOREIGN KEY (mailboxer_notifications)\\n                REFERENCES {:name=&gt;\\&quot;receipts_on_notification_id\\&quot;, :column=&gt;\\&quot;notification_id\\&quot;}(id) \\n                ON UPDATE NO ACTION \\n                ON DELETE NO AC",
+  "id": "558bc009461e01f542c88776",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2015-06-25T08:47:05.644Z",
+  "text": "execute(\"ALTER TABLE mailboxer_receipts\\n                ADD CONSTRAINT fk_mailboxer_receipts_mailboxer_notifications\\n                FOREIGN KEY (mailboxer_notifications)\\n                REFERENCES {:name=>\\\"receipts_on_notification_id\\\", :column=>\\\"notification_id\\\"}(id) \\n                ON UPDATE NO ACTION \\n                ON DELETE NO AC",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/claudiug",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/969118?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/969118?v=4&s=60",
+   "displayName": "claudiucancode",
+   "gv": "4",
+   "id": "529c6a9aed5ab0b3bf04d3d4",
+   "url": "/claudiug",
+   "username": "claudiug",
+   "v": 8
+  },
+  "html": "found it: /Users/bender/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/rails_on_pg-0.0.1/lib/rails_on_pg/foreign_keys.rb",
+  "id": "558bc858ad7e376201fe901c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2015-06-25T09:22:32.891Z",
+  "text": "found it: /Users/bender/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/rails_on_pg-0.0.1/lib/rails_on_pg/foreign_keys.rb",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/claudiug",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/969118?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/969118?v=4&s=60",
+   "displayName": "claudiucancode",
+   "gv": "4",
+   "id": "529c6a9aed5ab0b3bf04d3d4",
+   "url": "/claudiug",
+   "username": "claudiug",
+   "v": 8
+  },
+  "html": "sorry: rails_on_pg  :)",
+  "id": "558bc8648762506301760b89",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2015-06-25T09:22:44.842Z",
+  "text": "sorry: rails_on_pg  :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/JCDJulian",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/8650521?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/8650521?v=3&s=60",
+   "displayName": "Julian",
+   "gv": "3",
+   "id": "5587698115522ed4b3e251c6",
+   "url": "/JCDJulian",
+   "username": "JCDJulian"
+  },
+  "html": "Hi all. I have Mailboxer set up on my app. Everything works great. But I&#39;m still trying to figure out how to send an email to a user whenever they receive a message.",
+  "id": "55bbdf3a8deffbc44d8e01e0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2015-07-31T20:48:58.262Z",
+  "text": "Hi all. I have Mailboxer set up on my app. Everything works great. But I'm still trying to figure out how to send an email to a user whenever they receive a message.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/JCDJulian",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/8650521?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/8650521?v=3&s=60",
+   "displayName": "Julian",
+   "gv": "3",
+   "id": "5587698115522ed4b3e251c6",
+   "url": "/JCDJulian",
+   "username": "JCDJulian"
+  },
+  "html": "I understand that you set   config.uses_emails = true, but where do you set the config settings for where the email will come from and SMTP settings for it?",
+  "id": "55bbdf76dcea60b379fed903",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2015-07-31T20:49:58.646Z",
+  "text": "I understand that you set   config.uses_emails = true, but where do you set the config settings for where the email will come from and SMTP settings for it?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/JCDJulian",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/8650521?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/8650521?v=3&s=60",
+   "displayName": "Julian",
+   "gv": "3",
+   "id": "5587698115522ed4b3e251c6",
+   "url": "/JCDJulian",
+   "username": "JCDJulian"
+  },
+  "html": "Never mind! I figured it out. Trying to set up Action Mailer now",
+  "id": "55bbe094dcea60b379fed933",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2015-07-31T20:54:44.703Z",
+  "text": "Never mind! I figured it out. Trying to set up Action Mailer now",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/rolandobrown",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4044968?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4044968?v=3&s=60",
+   "displayName": "Rolando Brown",
+   "gv": "3",
+   "id": "55e5a73f0fc9f982beaf49e5",
+   "url": "/rolandobrown",
+   "username": "rolandobrown",
+   "v": 1
+  },
+  "html": "Hi everyone. Beautiful gem. Thank you.",
+  "id": "55eddcf8760979e727e8f89f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-09-07T18:52:40.373Z",
+  "text": "Hi everyone. Beautiful gem. Thank you.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/rolandobrown",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4044968?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4044968?v=3&s=60",
+   "displayName": "Rolando Brown",
+   "gv": "3",
+   "id": "55e5a73f0fc9f982beaf49e5",
+   "url": "/rolandobrown",
+   "username": "rolandobrown",
+   "v": 1
+  },
+  "html": "Curious if anyone has tried to add publish_on functional to their mailboxer, so that you can schedule a message to be delivered in the future.",
+  "id": "55eddd1796450ece4d87d05e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2015-09-07T18:53:11.245Z",
+  "text": "Curious if anyone has tried to add publish_on functional to their mailboxer, so that you can schedule a message to be delivered in the future.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/mikecx",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/467469?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/467469?v=4&s=60",
+   "displayName": "Michael Carey",
+   "gv": "4",
+   "id": "56141d4dd33f749381a87b3c",
+   "url": "/mikecx",
+   "username": "mikecx",
+   "v": 1
+  },
+  "html": "Can the body of a message contain html and is their anything required for sanitization before hand?",
+  "id": "56141d799a2cfa1347ac5ec6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2015-10-06T19:14:01.698Z",
+  "text": "Can the body of a message contain html and is their anything required for sanitization before hand?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/mallikarjunayaddala",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/12093403?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/12093403?v=3&s=60",
+   "displayName": "mallikarjunayaddala",
+   "gv": "3",
+   "id": "562da99b16b6c7089cb83de9",
+   "url": "/mallikarjunayaddala",
+   "username": "mallikarjunayaddala"
+  },
+  "html": "There seems to be some issues with validation of recipients, subject and body from <code>send_message</code> method",
+  "id": "562daac3d73f9e4f3b1bc601",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2015-10-26T04:23:31.968Z",
+  "text": "There seems to be some issues with validation of recipients, subject and body from `send_message` method",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/mallikarjunayaddala",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/12093403?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/12093403?v=3&s=60",
+   "displayName": "mallikarjunayaddala",
+   "gv": "3",
+   "id": "562da99b16b6c7089cb83de9",
+   "url": "/mallikarjunayaddala",
+   "username": "mallikarjunayaddala"
+  },
+  "html": "How to validate and throw error messages from mailboxer gem ?",
+  "id": "562dab115e0024c823b6f288",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2015-10-26T04:24:49.476Z",
+  "text": "How to validate and throw error messages from mailboxer gem ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/khurananick",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/2136213?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/2136213?v=3&s=60",
+   "displayName": "khurananick",
+   "gv": "3",
+   "id": "563b8f0916b6c7089cb99c39",
+   "url": "/khurananick",
+   "username": "khurananick"
+  },
+  "html": "It looks like the messages are stored in plaintext in the db. Is there an config setting to encrypt these messages, something like what attr_encrypted gem does?",
+  "id": "563b8f4121a1a36b64a58b7a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2015-11-05T17:17:53.353Z",
+  "text": "It looks like the messages are stored in plaintext in the db. Is there an config setting to encrypt these messages, something like what attr_encrypted gem does?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/txssseal",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6097836?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6097836?v=3&s=60",
+   "displayName": "Colton Seal",
+   "gv": "3",
+   "id": "56982cd2e610378809bc6293",
+   "url": "/txssseal",
+   "username": "txssseal",
+   "v": 1
+  },
+  "html": "Is there functionality to send admin messages on behalf of users",
+  "id": "56982db6c391361d48eb2af5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-01-14T23:22:30.122Z",
+  "text": "Is there functionality to send admin messages on behalf of users",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/txssseal",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/6097836?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/6097836?v=3&s=60",
+   "displayName": "Colton Seal",
+   "gv": "3",
+   "id": "56982cd2e610378809bc6293",
+   "url": "/txssseal",
+   "username": "txssseal",
+   "v": 1
+  },
+  "html": "so that when users respond it responds back to defined user",
+  "id": "56982dc6c391361d48eb2af7",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-01-14T23:22:46.024Z",
+  "text": "so that when users respond it responds back to defined user",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/Copywright",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/7808793?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/7808793?v=3&s=60",
+   "displayName": "Herbert Joseph",
+   "gv": "3",
+   "id": "5666f05916b6c7089cbde8e3",
+   "url": "/Copywright",
+   "username": "Copywright",
+   "v": 1
+  },
+  "html": "Hey! Just opened an issue asking for Sequel ORM support. Thinking of going in and translating all the AR specific code and package it as a Sequel plugin.",
+  "id": "56a188cea03e28ad1ae02b13",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2016-01-22T01:41:34.389Z",
+  "text": "Hey! Just opened an issue asking for Sequel ORM support. Thinking of going in and translating all the AR specific code and package it as a Sequel plugin.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/timvoet",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/36623?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/36623?v=3&s=60",
+   "displayName": "Tim Voet",
+   "gv": "3",
+   "id": "56ce7393e610378809c35987",
+   "url": "/timvoet",
+   "username": "timvoet"
+  },
+  "html": "I have a question.  I was looking to include images into the mailboxer messages.  The messages are inline in base64, and appear as part of the message body when i call the send message, but when the insert happens, the inline image is gone.  Is there something i am doing wrong.  I have tried with the sanitize_text and without",
+  "id": "56ce73e5bfb1cf9a7ff2e20c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-02-25T03:24:21.485Z",
+  "text": "I have a question.  I was looking to include images into the mailboxer messages.  The messages are inline in base64, and appear as part of the message body when i call the send message, but when the insert happens, the inline image is gone.  Is there something i am doing wrong.  I have tried with the sanitize_text and without",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/tracyloisel",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/48430?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/48430?v=3&s=60",
+   "displayName": "LOISEL",
+   "gv": "3",
+   "id": "56d828f1e610378809c4cb37",
+   "url": "/tracyloisel",
+   "username": "tracyloisel",
+   "v": 1
+  },
+  "html": " Hello World!",
+  "id": "56d82c94b01413547d89d1d0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2016-03-03T12:22:44.377Z",
+  "text": " Hello World!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/tracyloisel",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/48430?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/48430?v=3&s=60",
+   "displayName": "LOISEL",
+   "gv": "3",
+   "id": "56d828f1e610378809c4cb37",
+   "url": "/tracyloisel",
+   "username": "tracyloisel",
+   "v": 1
+  },
+  "html": "Congrats to the team",
+  "id": "56d82cb10bdb886502f70b03",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2016-03-03T12:23:13.148Z",
+  "text": "Congrats to the team",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/webworkio",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/15680551?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/15680551?v=3&s=60",
+   "displayName": "nodecraic",
+   "gv": "3",
+   "id": "56e5af1285d51f252ab894f7",
+   "url": "/webworkio",
+   "username": "webworkio",
+   "v": 1
+  },
+  "html": "hey, if anyone has any remote remote , designer,  DevOps  or Sysadmin jobs they can post them at <a href=\"http://webwork.io\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://webwork.io</a>",
+  "id": "56e5b377618c335373eb6dd2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2016-03-13T18:37:43.582Z",
+  "text": "hey, if anyone has any remote remote , designer,  DevOps  or Sysadmin jobs they can post them at http://webwork.io",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://webwork.io"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/kkabash15",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/16276731?v=3&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/16276731?v=3&s=60",
+   "displayName": "kkabash15",
+   "gv": "3",
+   "id": "56f3cc0a85d51f252aba86e9",
+   "url": "/kkabash15",
+   "username": "kkabash15"
+  },
+  "html": "hi, I want to send emails to users only if they didn&#39;t read some messages... How can I do it using Mailboxer? Should I add an other gem?<br>I&#39;ve tried to override the Mailboxer::MessageMailer by adding a &quot;sleep 5&quot; and a check if read(message) in methods but it doesn&#39;t seem to work...",
+  "id": "56f3ccb62873ab8d3c448096",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2016-03-24T11:17:10.191Z",
+  "text": "hi, I want to send emails to users only if they didn't read some messages... How can I do it using Mailboxer? Should I add an other gem? \nI've tried to override the Mailboxer::MessageMailer by adding a \"sleep 5\" and a check if read(message) in methods but it doesn't seem to work...",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/afamyial",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/11076980?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/11076980?v=3&s=60",
+   "displayName": "Ankit Famyial",
+   "gv": "3",
+   "id": "57272ce5c43b8c601970bebd",
+   "url": "/afamyial",
+   "username": "afamyial"
+  },
+  "html": "Hi, I just wanted to know whether this gem is still being maintained or not as I can see PRs waiting to be merged. Also, the CI build is failing for Ruby 1.9.3 because <code>mime-types-data</code> gem requires Ruby 2.0+. ",
+  "id": "57272d59e472a3e473c05279",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 10,
+  "sent": "2016-05-02T10:35:05.878Z",
+  "text": "Hi, I just wanted to know whether this gem is still being maintained or not as I can see PRs waiting to be merged. Also, the CI build is failing for Ruby 1.9.3 because `mime-types-data` gem requires Ruby 2.0+. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/atussec",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/14014310?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/14014310?v=3&s=60",
+   "displayName": "atussec",
+   "gv": "3",
+   "id": "56eabbdf85d51f252ab9505f",
+   "url": "/atussec",
+   "username": "atussec",
+   "v": 4
+  },
+  "html": "is mailboxer compatible with rails 5",
+  "id": "572f42c5f16c08510661ba4d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-05-08T13:44:37.596Z",
+  "text": "is mailboxer compatible with rails 5",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/jeremymarc",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/410677?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/410677?v=3&s=60",
+   "displayName": "Jeremy Marc",
+   "gv": "3",
+   "id": "5754f20ec43b8c6019780ab3",
+   "url": "/jeremymarc",
+   "username": "jeremymarc"
+  },
+  "html": "good question... is it compatible with rails5 ?",
+  "id": "5754f21d10972679213093de",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 13,
+  "sent": "2016-06-06T03:46:37.844Z",
+  "text": "good question... is it compatible with rails5 ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/amazing-jay",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/243354?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/243354?v=3&s=60",
+   "displayName": "Jay Crouch",
+   "gv": "3",
+   "id": "575de1ecc2f0db084a1d8311",
+   "url": "/amazing-jay",
+   "username": "amazing-jay"
+  },
+  "html": "Hi does anyone know how to tag a message/conversation with metadata? I can&#39;t find any documentation for Mailboxer that talks about adding tags or custom attributes when delivering a message.",
+  "id": "575de22497e1b2d245e227d1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 12,
+  "sent": "2016-06-12T22:28:52.366Z",
+  "text": "Hi does anyone know how to tag a message/conversation with metadata? I can't find any documentation for Mailboxer that talks about adding tags or custom attributes when delivering a message.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/LorensOnRails",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/13658224?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/13658224?v=4&s=60",
+   "displayName": "Lorens Olivares",
+   "gv": "4",
+   "id": "56420de616b6c7089cba2fa3",
+   "url": "/LorensOnRails",
+   "username": "LorensOnRails",
+   "v": 16
+  },
+  "html": "Hi Everyone, do anyone know if the mailboxer gem supports html markup?",
+  "id": "57693977a82a6b0079a7c3d1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-06-21T12:56:23.204Z",
+  "text": "Hi Everyone, do anyone know if the mailboxer gem supports html markup?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/g/u/notknownhideme_twitter",
+   "avatarUrlMedium": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png?s=128",
+   "avatarUrlSmall": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png?s=60",
+   "displayName": "Not Known",
+   "id": "5797a5ab40f3a6eec05c9318",
+   "url": "/notknownhideme_twitter",
+   "username": "notknownhideme_twitter"
+  },
+  "html": "Has any tried to use mailboxer with a tableless model? If so what steps do I need to take to get it working?",
+  "id": "5797a5d93383eb6221454a16",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-07-26T18:03:05.142Z",
+  "text": "Has any tried to use mailboxer with a tableless model? If so what steps do I need to take to get it working?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/ajazshaik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=60",
+   "displayName": "ajazshaik",
+   "gv": "3",
+   "id": "579e425f40f3a6eec05d51b0",
+   "url": "/ajazshaik",
+   "username": "ajazshaik",
+   "v": 5
+  },
+  "html": "Is  mailerbox is compatible with rails5",
+  "id": "579e42adcdc68c4904b24694",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-07-31T18:25:49.038Z",
+  "text": "Is  mailerbox is compatible with rails5",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/ajazshaik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=60",
+   "displayName": "ajazshaik",
+   "gv": "3",
+   "id": "579e425f40f3a6eec05d51b0",
+   "url": "/ajazshaik",
+   "username": "ajazshaik",
+   "v": 5
+  },
+  "html": "if it is compatible with rails 5 then what are steps to integrate",
+  "id": "579e42ff79f75971375649c2",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-07-31T18:27:11.700Z",
+  "text": "if it is compatible with rails 5 then what are steps to integrate",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/ajazshaik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=60",
+   "displayName": "ajazshaik",
+   "gv": "3",
+   "id": "579e425f40f3a6eec05d51b0",
+   "url": "/ajazshaik",
+   "username": "ajazshaik",
+   "v": 5
+  },
+  "html": "?",
+  "id": "579e435d7fd9f73e16ef1391",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-07-31T18:28:45.978Z",
+  "text": "?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/ajazshaik",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/18135790?v=3&s=60",
+   "displayName": "ajazshaik",
+   "gv": "3",
+   "id": "579e425f40f3a6eec05d51b0",
+   "url": "/ajazshaik",
+   "username": "ajazshaik",
+   "v": 5
+  },
+  "html": "is mail boxer is compatible with  rails5 , if so how to integrate ?",
+  "id": "579edbc0e56d2538041e977f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 11,
+  "sent": "2016-08-01T05:18:56.371Z",
+  "text": "is mail boxer is compatible with  rails5 , if so how to integrate ?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/arun-enquizit",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/11235392?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/11235392?v=3&s=60",
+   "displayName": "arun-enquizit",
+   "gv": "3",
+   "id": "5807c087d73408ce4f2f69fa",
+   "url": "/arun-enquizit",
+   "username": "arun-enquizit"
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"amazing-jay\" class=\"mention\">@amazing-jay</span> About the question on metadata, did you figure that out? I am trying to find the same",
+  "id": "5807c13136d642263688b94b",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "amazing-jay",
+    "userId": "575de1ecc2f0db084a1d8311",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2016-10-19T18:53:37.109Z",
+  "text": "@amazing-jay About the question on metadata, did you figure that out? I am trying to find the same",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/chalmagean_twitter",
+   "avatarUrlMedium": "https://pbs.twimg.com/profile_images/540582431930068992/xXhMP8hK.jpeg",
+   "avatarUrlSmall": "https://pbs.twimg.com/profile_images/540582431930068992/xXhMP8hK_bigger.jpeg",
+   "displayName": "Cezar Halmagean",
+   "id": "58501dc9d73408ce4f3cccba",
+   "url": "/chalmagean_twitter",
+   "username": "chalmagean_twitter"
+  },
+  "html": "Hey guys, does it make sense to use mailboxer as a public commenting system? An alternative to Disqus.",
+  "id": "58501e1fb4ffd59e3822f49a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2016-12-13T16:13:19.588Z",
+  "text": "Hey guys, does it make sense to use mailboxer as a public commenting system? An alternative to Disqus.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/g/u/chalmagean_twitter",
+   "avatarUrlMedium": "https://pbs.twimg.com/profile_images/540582431930068992/xXhMP8hK.jpeg",
+   "avatarUrlSmall": "https://pbs.twimg.com/profile_images/540582431930068992/xXhMP8hK_bigger.jpeg",
+   "displayName": "Cezar Halmagean",
+   "id": "58501dc9d73408ce4f3cccba",
+   "url": "/chalmagean_twitter",
+   "username": "chalmagean_twitter"
+  },
+  "html": "Or do you have any other recommendations?",
+  "id": "58501e44b4ffd59e3822f545",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2016-12-13T16:13:56.383Z",
+  "text": "Or do you have any other recommendations?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/aadeshere1",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4538948?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4538948?v=4&s=60",
+   "displayName": "Aadesh Shrestha",
+   "gv": "4",
+   "id": "5588b29815522ed4b3e2736d",
+   "url": "/aadeshere1",
+   "username": "aadeshere1",
+   "v": 108
+  },
+  "html": "Can mailboxer be used for system having two user models",
+  "id": "5858f29f0730ce6937e975d0",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2016-12-20T08:58:07.249Z",
+  "text": "Can mailboxer be used for system having two user models",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/alexmc6",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/321327?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/321327?v=3&s=60",
+   "displayName": "Alex McLintock",
+   "gv": "3",
+   "id": "58590684d73408ce4f3e3b9c",
+   "url": "/alexmc6",
+   "username": "alexmc6"
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"aadeshere1\" class=\"mention\">@aadeshere1</span> : I am only just starting to use mailboxer but I see from the documentation that you can have two user models. See the section on &quot;Preparing your models&quot;",
+  "id": "58590819c895451b75fb9024",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "aadeshere1",
+    "userId": "5588b29815522ed4b3e2736d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-12-20T10:29:45.532Z",
+  "text": "@aadeshere1 : I am only just starting to use mailboxer but I see from the documentation that you can have two user models. See the section on \"Preparing your models\"",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/alexmc6",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/321327?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/321327?v=3&s=60",
+   "displayName": "Alex McLintock",
+   "gv": "3",
+   "id": "58590684d73408ce4f3e3b9c",
+   "url": "/alexmc6",
+   "username": "alexmc6"
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"chalmagean_twitter\" class=\"mention\">@chalmagean_twitter</span>: I don&#39;t really think that is what mailboxer is for. I would expect there are better comments systems out there. ",
+  "id": "58596c4ac5a4e0233bac0321",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "chalmagean_twitter",
+    "userId": "58501dc9d73408ce4f3cccba",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2016-12-20T17:37:14.926Z",
+  "text": "@chalmagean_twitter: I don't really think that is what mailboxer is for. I would expect there are better comments systems out there. ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/aadeshere1",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/4538948?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/4538948?v=4&s=60",
+   "displayName": "Aadesh Shrestha",
+   "gv": "4",
+   "id": "5588b29815522ed4b3e2736d",
+   "url": "/aadeshere1",
+   "username": "aadeshere1",
+   "v": 108
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"alexmc6\" class=\"mention\">@alexmc6</span> thanks. I&#39;ll take a look once. I&#39;m still stuck on it.",
+  "id": "586b22c37a3f79ef5dcc9dd1",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "alexmc6",
+    "userId": "58590684d73408ce4f3e3b9c",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 6,
+  "sent": "2017-01-03T04:04:19.927Z",
+  "text": "@alexmc6 thanks. I'll take a look once. I'm still stuck on it.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2017-01-30T13:56:32.041Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/ben-eb",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1282980?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1282980?v=4&s=60",
+   "displayName": "Ben Briggs",
+   "gv": "4",
+   "id": "546a3f12db8155e6700d5801",
+   "url": "/ben-eb",
+   "username": "ben-eb",
+   "v": 509
+  },
+  "html": "<p>Hi guys, I&#39;m wondering how I can preview Mailboxer emails using Rails&#39; email preview functionality? I&#39;m not too sure on how to handle this. :)</p><pre><code class=\"ruby\"><span class=\"comment\"># spec/mailers/previews/devise/mailer_preview.rb</span>\n<span class=\"class\"><span class=\"keyword\">class</span> <span class=\"title\">Devise::MailerPreview</span> <span class=\"inheritance\">&lt; <span class=\"parent\">ActionMailer::Preview</span></span></span>\n\n  <span class=\"function\"><span class=\"keyword\">def</span> </span>confirmation_instructions\n    <span class=\"constant\">Devise::Mailer</span>.confirmation_instructions(<span class=\"constant\">User</span>.first, <span class=\"string\">\"faketoken\"</span>)\n  <span class=\"keyword\">end</span>\n\n  <span class=\"function\"><span class=\"keyword\">def</span> </span>reset_password_instructions\n    <span class=\"constant\">Devise::Mailer</span>.reset_password_instructions(<span class=\"constant\">User</span>.first, <span class=\"string\">\"faketoken\"</span>)\n  <span class=\"keyword\">end</span>\n<span class=\"keyword\">end</span></code></pre><p>^ this would be how I would do it with Devise</p>",
+  "id": "588f45ffc0f28dd8625f9e25",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-01-30T13:56:15.577Z",
+  "text": "Hi guys, I'm wondering how I can preview Mailboxer emails using Rails' email preview functionality? I'm not too sure on how to handle this. :)\n\n```ruby\n# spec/mailers/previews/devise/mailer_preview.rb\nclass Devise::MailerPreview < ActionMailer::Preview\n\n  def confirmation_instructions\n    Devise::Mailer.confirmation_instructions(User.first, \"faketoken\")\n  end\n\n  def reset_password_instructions\n    Devise::Mailer.reset_password_instructions(User.first, \"faketoken\")\n  end\nend\n```\n\n^ this would be how I would do it with Devise",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/naveen1336",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=60",
+   "displayName": "naveen1336",
+   "gv": "3",
+   "id": "58cb7603d73408ce4f5179f7",
+   "url": "/naveen1336",
+   "username": "naveen1336"
+  },
+  "html": "i have implemented mailboxer using this tutorial <a href=\"http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer</a>",
+  "id": "58cb7647ac314c8a1a5a93f1",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2017-03-17T05:38:15.754Z",
+  "text": "i have implemented mailboxer using this tutorial http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/naveen1336",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=60",
+   "displayName": "naveen1336",
+   "gv": "3",
+   "id": "58cb7603d73408ce4f5179f7",
+   "url": "/naveen1336",
+   "username": "naveen1336"
+  },
+  "html": "but not able to implement attachement with the mailboxer ",
+  "id": "58cb7659fe6a638b1ad49013",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2017-03-17T05:38:33.985Z",
+  "text": "but not able to implement attachement with the mailboxer ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/naveen1336",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=60",
+   "displayName": "naveen1336",
+   "gv": "3",
+   "id": "58cb7603d73408ce4f5179f7",
+   "url": "/naveen1336",
+   "username": "naveen1336"
+  },
+  "html": "is there any tutorail to add attachement with the mails using mailboxer",
+  "id": "58cb766db809ca5f4a52894d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2017-03-17T05:38:53.040Z",
+  "text": "is there any tutorail to add attachement with the mails using mailboxer",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/naveen1336",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8940514?v=3&s=60",
+   "displayName": "naveen1336",
+   "gv": "3",
+   "id": "58cb7603d73408ce4f5179f7",
+   "url": "/naveen1336",
+   "username": "naveen1336"
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"ajazshaik\" class=\"mention\">@ajazshaik</span> <a href=\"http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer\" rel=\"nofollow\" target=\"_blank\" class=\"link\">http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer</a>",
+  "id": "58cb76e2ac314c8a1a5a96d9",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "ajazshaik",
+    "userId": "579e425f40f3a6eec05d51b0",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 9,
+  "sent": "2017-03-17T05:40:50.682Z",
+  "text": "@ajazshaik http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/thestumonkey",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/435874?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/435874?v=3&s=60",
+   "displayName": "Stuart Alexander",
+   "gv": "3",
+   "id": "59102a50d73408ce4f5dcaec",
+   "url": "/thestumonkey",
+   "username": "thestumonkey"
+  },
+  "html": "I&#39;ve disabled email notifications via config.uses_emails = false so that I can handle delivery in batches.  Is it possible to turn this on for a single request?  Sometimes I want to email, and sometimes I don&#39;t?",
+  "id": "59102ab3c4d73f445a852620",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-05-08T08:22:11.549Z",
+  "text": "I've disabled email notifications via config.uses_emails = false so that I can handle delivery in batches.  Is it possible to turn this on for a single request?  Sometimes I want to email, and sometimes I don't?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/punitaojha",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/17764594?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/17764594?v=4&s=60",
+   "displayName": "Punita Ojha",
+   "gv": "4",
+   "id": "56ed9a8885d51f252ab9b33f",
+   "url": "/punitaojha",
+   "username": "punitaojha",
+   "v": 57
+  },
+  "html": "",
+  "id": "5917081fd1a7716a0ac0f3ea",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-05-13T13:20:31.221Z",
+  "text": "",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://goo.gl/eHqkHk"
+   }
+  ],
+  "v": 2
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/djl132",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/17580989?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/17580989?v=4&s=60",
+   "displayName": "Derek J Lin",
+   "gv": "4",
+   "id": "5928958ed73408ce4f6292cf",
+   "url": "/djl132",
+   "username": "djl132",
+   "v": 7
+  },
+  "html": "hmm has anyone here ever tried mailboxer with angularjs ",
+  "id": "5941c325c59bd9c4641880a3",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 7,
+  "sent": "2017-06-14T23:13:41.217Z",
+  "text": "hmm has anyone here ever tried mailboxer with angularjs ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/arael",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/587072?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/587072?v=3&s=60",
+   "displayName": "Goran Josic",
+   "gv": "3",
+   "id": "5951612fd73408ce4f6a41c3",
+   "url": "/arael",
+   "username": "arael"
+  },
+  "html": "Hi there",
+  "id": "5951614a6ae41d5d338927aa",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-06-26T19:32:26.247Z",
+  "text": "Hi there",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/arael",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/587072?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/587072?v=3&s=60",
+   "displayName": "Goran Josic",
+   "gv": "3",
+   "id": "5951612fd73408ce4f6a41c3",
+   "url": "/arael",
+   "username": "arael"
+  },
+  "html": "I have issues with the replaying to messages",
+  "id": "59516159bf7e6af22c770e6d",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-06-26T19:32:41.904Z",
+  "text": "I have issues with the replaying to messages",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/arael",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/587072?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/587072?v=3&s=60",
+   "displayName": "Goran Josic",
+   "gv": "3",
+   "id": "5951612fd73408ce4f6a41c3",
+   "url": "/arael",
+   "username": "arael"
+  },
+  "html": "I can send a message",
+  "id": "59516166ceb5bef82eb2e0b6",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-06-26T19:32:54.259Z",
+  "text": "I can send a message",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/arael",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/587072?v=3&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/587072?v=3&s=60",
+   "displayName": "Goran Josic",
+   "gv": "3",
+   "id": "5951612fd73408ce4f6a41c3",
+   "url": "/arael",
+   "username": "arael"
+  },
+  "html": "but when I try reply to a conversation",
+  "id": "5951616f57a6e9f72e00614e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 8,
+  "sent": "2017-06-26T19:33:03.775Z",
+  "text": "but when I try reply to a conversation",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/andela-marvin-kangethe",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/23258820?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/23258820?v=4&s=60",
+   "displayName": "Marvin Kang'ethe",
+   "gv": "4",
+   "id": "5978cd51d73408ce4f6ee0e9",
+   "url": "/andela-marvin-kangethe",
+   "username": "andela-marvin-kangethe",
+   "v": 1
+  },
+  "html": "Hi guys, Is it possible to have more than 2 parameters in the reply_to_conversation method?",
+  "id": "599183ffa7b406262d87d8ed",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2017-08-14T11:05:35.454Z",
+  "text": "Hi guys, Is it possible to have more than 2 parameters in the reply_to_conversation method?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/mices",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=60",
+   "displayName": "mices",
+   "gv": "4",
+   "id": "59bd6401d73408ce4f7609bb",
+   "url": "/mices",
+   "username": "mices",
+   "v": 3
+  },
+  "html": "sent message don&#39;t show in receipients inbox i don&#39;t know why",
+  "id": "59c9a16dbc4647297475eb3a",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-09-26T00:38:05.463Z",
+  "text": "sent message don't show in receipients inbox i don't know why",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/mices",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=60",
+   "displayName": "mices",
+   "gv": "4",
+   "id": "59bd6401d73408ce4f7609bb",
+   "url": "/mices",
+   "username": "mices",
+   "v": 3
+  },
+  "html": "sent message don&#39;t show in receipients inbox i don&#39;t know why  <a href=\"https://gist.github.com/mices/99cd164ea127f3bf2a2da56634ae3d7f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gist.github.com/mices/99cd164ea127f3bf2a2da56634ae3d7f</a>",
+  "id": "59c9f47d32fc8b7e403e936c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-09-26T06:32:29.788Z",
+  "text": "sent message don't show in receipients inbox i don't know why  https://gist.github.com/mices/99cd164ea127f3bf2a2da56634ae3d7f",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gist.github.com/mices/99cd164ea127f3bf2a2da56634ae3d7f"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/mices",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=60",
+   "displayName": "mices",
+   "gv": "4",
+   "id": "59bd6401d73408ce4f7609bb",
+   "url": "/mices",
+   "username": "mices",
+   "v": 3
+  },
+  "html": "What&#39;s the best mailboxer example to follow? I followed <a href=\"https://www.sitepoint.com/messaging-rails-mailboxer/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://www.sitepoint.com/messaging-rails-mailboxer/</a>  I threw this into my app but sent messages, as said in my previous message  don&#39;t appear in the recipients inbox and the insert to mailboxer_receipts shows the receiver_id the same as the sender, although the message doesn&#39;t appear in the senders inbox, it appears in the senders sent box I dunno if this is the reason messages don&#39;t appear in inbox&#39;s While the sitepoint example uses the messages_controller to create a new conversation other examples I&#39;ve found use the conversations_controller, are a little more complex, different in some ways, less appealing than the sitepoint example",
+  "id": "59ca8133f7299e8f53750ee8",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-09-26T16:32:51.108Z",
+  "text": "What's the best mailboxer example to follow? I followed https://www.sitepoint.com/messaging-rails-mailboxer/  I threw this into my app but sent messages, as said in my previous message  don't appear in the recipients inbox and the insert to mailboxer_receipts shows the receiver_id the same as the sender, although the message doesn't appear in the senders inbox, it appears in the senders sent box I dunno if this is the reason messages don't appear in inbox's While the sitepoint example uses the messages_controller to create a new conversation other examples I've found use the conversations_controller, are a little more complex, different in some ways, less appealing than the sitepoint example",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://www.sitepoint.com/messaging-rails-mailboxer/"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "whoa! I can&#39;t believe this chat exists",
+  "id": "5a123281614889d4759fc115",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2017-11-20T01:40:17.342Z",
+  "text": "whoa! I can't believe this chat exists",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "I was able to install and implement the mailboxer gem. Yay!",
+  "id": "5a123295e606d60e34e50215",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-11-20T01:40:37.267Z",
+  "text": "I was able to install and implement the mailboxer gem. Yay!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "Now I&#39;m trying to do something slightly different. Instead of having a form where i can select the user, I want the User to already be selected",
+  "id": "5a1232aecc1d527f6b8f5d25",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-11-20T01:41:02.077Z",
+  "text": "Now I'm trying to do something slightly different. Instead of having a form where i can select the user, I want the User to already be selected",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "ie, i want to go to an User profile and click a message that says &quot;Message User&quot; with a modal pop up",
+  "id": "5a1232c6982ea2653f9dd0ac",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-11-20T01:41:26.145Z",
+  "text": "ie, i want to go to an User profile and click a message that says \"Message User\" with a modal pop up",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "i got the modal to work. And the body/subject seem to go through. But the Recipient ID always stays at 1 and then the message doesn&#39;t go through",
+  "id": "5a1232e6614889d4759fc262",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-11-20T01:41:58.509Z",
+  "text": "i got the modal to work. And the body/subject seem to go through. But the Recipient ID always stays at 1 and then the message doesn't go through",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/TheMoulwhite54",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/30120944?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/30120944?v=4&s=60",
+   "displayName": "Youssef Meskini",
+   "gv": "4",
+   "id": "59c91326d73408ce4f7744a2",
+   "url": "/TheMoulwhite54",
+   "username": "TheMoulwhite54",
+   "v": 3
+  },
+  "html": "Hello :)",
+  "id": "5a29157d232e79134d1c71f5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2017-12-07T10:18:37.276Z",
+  "text": "Hello :)",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mirmulk",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/31391645?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/31391645?v=4&s=60",
+   "displayName": "mirmulk",
+   "gv": "4",
+   "id": "5a2ae3c4d73408ce4f82703d",
+   "url": "/mirmulk",
+   "username": "mirmulk"
+  },
+  "html": "hey can anyone point me to a good tutorial to get mailboxer up and running for rails 5? preferably using clearance gem for user. Thanks!",
+  "id": "5a2ae41e3a80a84b5bd37eb5",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 5,
+  "sent": "2017-12-08T19:12:30.146Z",
+  "text": "hey can anyone point me to a good tutorial to get mailboxer up and running for rails 5? preferably using clearance gem for user. Thanks!",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "<span data-link-type=\"mention\" data-screen-name=\"mirmulk\" class=\"mention\">@mirmulk</span> this one worked like a charm. Took me about 30 minutes to implement",
+  "id": "5a3701b7540c78242dd8581a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "mirmulk",
+    "userId": "5a2ae3c4d73408ce4f82703d",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-12-17T23:45:59.095Z",
+  "text": "@mirmulk this one worked like a charm. Took me about 30 minutes to implement",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "<a href=\"http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer</a>",
+  "id": "5a3701b703838b2f2a085e32",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-12-17T23:45:59.236Z",
+  "text": "http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer",
+  "unread": false,
+  "urls": [
+   {
+    "url": "http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/mikehamlick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/28663619?v=4&s=60",
+   "displayName": "mikehamlick",
+   "gv": "4",
+   "id": "59752f83d73408ce4f6e6fa6",
+   "url": "/mikehamlick",
+   "username": "mikehamlick",
+   "v": 4
+  },
+  "html": "but there&#39;s nothing about the clearance gem",
+  "id": "5a3701c4a2be466828b373ed",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2017-12-17T23:46:12.523Z",
+  "text": "but there's nothing about the clearance gem",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/kristinakellner",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/30656967?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/30656967?v=4&s=60",
+   "displayName": "kristinakellner",
+   "gv": "4",
+   "id": "5a6321e9d73408ce4f893dd8",
+   "url": "/kristinakellner",
+   "username": "kristinakellner",
+   "v": 1
+  },
+  "html": "\ud83d\ude4b",
+  "id": "5a8825dba2194eb80d759610",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-02-17T12:53:47.476Z",
+  "text": "\ud83d\ude4b",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/shrinathaithal",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/5593857?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/5593857?v=4&s=60",
+   "displayName": "Shrinath Aithal",
+   "gv": "4",
+   "id": "559b960c15522ed4b3e38a1e",
+   "url": "/shrinathaithal",
+   "username": "shrinathaithal",
+   "v": 2
+  },
+  "html": "Hello group, can someone please help me where can I find AWS SES integration for this awesome gem? ",
+  "id": "5ab1f3336f8b4b99464eca88",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-03-21T05:52:51.961Z",
+  "text": "Hello group, can someone please help me where can I find AWS SES integration for this awesome gem? ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/SunnyAforka",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/24212376?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/24212376?v=4&s=60",
+   "displayName": "SunnyAforka",
+   "gv": "4",
+   "id": "5b34c012d73408ce4f9eeea6",
+   "url": "/SunnyAforka",
+   "username": "SunnyAforka"
+  },
+  "html": "Please can someone give a clue on how to define the recipient of mailboxer to <span data-link-type=\"mention\" data-screen-name=\"user\" class=\"mention\">@user</span> of the page they are on. I dont want the user to select who to message.. i just want a current_user visiting a users page having signed in would just go into the compose box make a msg and hit sends it goes strait to the <span data-link-type=\"mention\" data-screen-name=\"user\" class=\"mention\">@user</span> of the page that the msg was typed.. Did anyone get my question please?",
+  "id": "5b34cfadaeb8fa0c0749af6a",
+  "issues": [],
+  "mentions": [
+   {
+    "screenName": "user",
+    "userIds": []
+   },
+   {
+    "screenName": "user",
+    "userIds": []
+   }
+  ],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-06-28T12:08:13.184Z",
+  "text": "Please can someone give a clue on how to define the recipient of mailboxer to @user of the page they are on. I dont want the user to select who to message.. i just want a current_user visiting a users page having signed in would just go into the compose box make a msg and hit sends it goes strait to the @user of the page that the msg was typed.. Did anyone get my question please?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/SunnyAforka",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/24212376?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/24212376?v=4&s=60",
+   "displayName": "SunnyAforka",
+   "gv": "4",
+   "id": "5b34c012d73408ce4f9eeea6",
+   "url": "/SunnyAforka",
+   "username": "SunnyAforka"
+  },
+  "html": "&lt;%= f.select(:recipients, User.all.collect {|p| [ p.name, p.id ] }, {}, { multiple: true , class: &quot;form-control&quot; })%&gt; Instead of looping through this i would like to c a functionality to enable current user message another User on that user page that i have created without having to select any user.",
+  "id": "5b34d0c00168e70c08f6347f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 4,
+  "sent": "2018-06-28T12:12:48.887Z",
+  "text": "<%= f.select(:recipients, User.all.collect {|p| [ p.name, p.id ] }, {}, { multiple: true , class: \"form-control\" })%> Instead of looping through this i would like to c a functionality to enable current user message another User on that user page that i have created without having to select any user.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/mices",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=60",
+   "displayName": "mices",
+   "gv": "4",
+   "id": "59bd6401d73408ce4f7609bb",
+   "url": "/mices",
+   "username": "mices",
+   "v": 3
+  },
+  "html": "i&#39;ve been having message come up nill in conversations show ",
+  "id": "5b8c9603c2bd5d117a0e2562",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-09-03T02:01:39.349Z",
+  "text": "i've been having message come up nill in conversations show ",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/mices",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=60",
+   "displayName": "mices",
+   "gv": "4",
+   "id": "59bd6401d73408ce4f7609bb",
+   "url": "/mices",
+   "username": "mices",
+   "v": 3
+  },
+  "html": "<a href=\"https://gist.github.com/mices/e446b5b90e0d65ad0d5a559aa15f9e9b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gist.github.com/mices/e446b5b90e0d65ad0d5a559aa15f9e9b</a>",
+  "id": "5b8d5db84be56c5918d770b9",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-09-03T16:13:44.607Z",
+  "text": "https://gist.github.com/mices/e446b5b90e0d65ad0d5a559aa15f9e9b",
+  "unread": false,
+  "urls": [
+   {
+    "url": "https://gist.github.com/mices/e446b5b90e0d65ad0d5a559aa15f9e9b"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/mices",
+   "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=128",
+   "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14654866?v=4&s=60",
+   "displayName": "mices",
+   "gv": "4",
+   "id": "59bd6401d73408ce4f7609bb",
+   "url": "/mices",
+   "username": "mices",
+   "v": 3
+  },
+  "html": "i&#39;m getting a nil value for receipt.message in conversations#show",
+  "id": "5b8d5f0560f9ee7aa4d0b967",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-09-03T16:19:17.414Z",
+  "text": "i'm getting a nil value for receipt.message in conversations#show",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/kewubenduben",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/4110071?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/4110071?v=4&s=60",
+   "displayName": "kewubenduben",
+   "gv": "4",
+   "id": "553f0fcf15522ed4b3df9c58",
+   "url": "/kewubenduben",
+   "username": "kewubenduben",
+   "v": 6
+  },
+  "html": "<p>Hi guys,</p><p>I&#39;m trying to make a filter on activeadmin for messages that will filter all messages where recipient is ID_HERE.</p><p>What&#39;s the best way to search all messages by recipient?</p>",
+  "id": "5be427e0bb8878747497f743",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 3,
+  "sent": "2018-11-08T12:11:12.003Z",
+  "text": "Hi guys,\n\nI'm trying to make a filter on activeadmin for messages that will filter all messages where recipient is ID_HERE.\n\nWhat's the best way to search all messages by recipient?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/yoshie902a",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/554292?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/554292?v=4&s=60",
+   "displayName": "yoshie902a",
+   "gv": "4",
+   "id": "5c1028bfd73408ce4fb1a415",
+   "url": "/yoshie902a",
+   "username": "yoshie902a",
+   "v": 1
+  },
+  "html": "Can you assign or create additional mailboxes besides inbox, sent and trash? For example, unread or closed",
+  "id": "5c1028e95e40952503505754",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-12-11T21:15:21.099Z",
+  "text": "Can you assign or create additional mailboxes besides inbox, sent and trash? For example, unread or closed",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/yoshie902a",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/554292?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/554292?v=4&s=60",
+   "displayName": "yoshie902a",
+   "gv": "4",
+   "id": "5c1028bfd73408ce4fb1a415",
+   "url": "/yoshie902a",
+   "username": "yoshie902a",
+   "v": 1
+  },
+  "html": "Can anyone direct me to a few good tutorial on mailboxes? Any good documentation? I have not found much.",
+  "id": "5c102929178d7860a1c00a4e",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-12-11T21:16:25.972Z",
+  "text": "Can anyone direct me to a few good tutorial on mailboxes? Any good documentation? I have not found much.",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/yoshie902a",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/554292?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/554292?v=4&s=60",
+   "displayName": "yoshie902a",
+   "gv": "4",
+   "id": "5c1028bfd73408ce4fb1a415",
+   "url": "/yoshie902a",
+   "username": "yoshie902a",
+   "v": 1
+  },
+  "html": "Is this an active forum/chat room?",
+  "id": "5c102d33f992693c7a5bd84f",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-12-11T21:33:39.435Z",
+  "text": "Is this an active forum/chat room?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/yoshie902a",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/554292?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/554292?v=4&s=60",
+   "displayName": "yoshie902a",
+   "gv": "4",
+   "id": "5c1028bfd73408ce4fb1a415",
+   "url": "/yoshie902a",
+   "username": "yoshie902a",
+   "v": 1
+  },
+  "html": "What&#39;s the purpose of this code method - def mailboxer_name<br>    self.name<br>  end",
+  "id": "5c102ebc28907a3c7b054ebc",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2018-12-11T21:40:12.551Z",
+  "text": "What's the purpose of this code method - def mailboxer_name\n    self.name\n  end",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/lioxor64",
+   "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/43208533?v=4&s=128",
+   "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/43208533?v=4&s=60",
+   "displayName": "Lioxor64",
+   "gv": "4",
+   "id": "5c9ca291d73408ce4fbc15bd",
+   "url": "/lioxor64",
+   "username": "lioxor64",
+   "v": 3
+  },
+  "html": "<p>Hello, my name is Liora and I am currently hunting open source projects for company NeuraLegion (www.neuralegion.com)<br>We just launched a free annual subscription for open source projects for our AIAST tool NexPloit.</p><p>If you are interested, please, reach us on <a href=\"mailto:opensource@neuralegion.com\" rel=\"nofollow\">opensource@neuralegion.com</a>!</p><p>Thank you for your time and consideration! If you have any questions, please do not hesitate to contact us!</p><p>Best!</p>",
+  "id": "5d1c6e8e84cbda1764be4d82",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2019-07-03T08:59:58.138Z",
+  "text": "\n\nHello, my name is Liora and I am currently hunting open source projects for company NeuraLegion (www.neuralegion.com)\nWe just launched a free annual subscription for open source projects for our AIAST tool NexPloit.\n\nIf you are interested, please, reach us on opensource@neuralegion.com!\n\nThank you for your time and consideration! If you have any questions, please do not hesitate to contact us!\n\nBest!",
+  "unread": false,
+  "urls": [
+   {
+    "url": "mailto:opensource@neuralegion.com"
+   }
+  ],
+  "v": 1
+ },
+ {
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/raddrick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/725335?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/725335?v=4&s=60",
+   "displayName": "Rick Graham",
+   "gv": "4",
+   "id": "5c34092ed73408ce4fb3f177",
+   "url": "/raddrick",
+   "username": "raddrick",
+   "v": 9
+  },
+  "html": "<p>Hey mailboxers! im setting things up but running into a snag...</p><p>I am getting:<br><code>Invalid single-table inheritance type: Mailboxer::Message is not a subclass of Mailboxer::Message</code> </p><p>when ever i call:<br><code>receipts</code> or <code>conversations</code></p><p>see that the type of the message is being set to <code>Mailboxer::Message</code> automagically...what am I missing?</p>",
+  "id": "5d22bd8921d64247ed081330",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2019-07-08T03:50:33.533Z",
+  "text": "Hey mailboxers! im setting things up but running into a snag...\n\nI am getting:\n`Invalid single-table inheritance type: Mailboxer::Message is not a subclass of Mailboxer::Message` \n\nwhen ever i call:\n`receipts` or `conversations`\n\nsee that the type of the message is being set to `Mailboxer::Message` automagically...what am I missing?",
+  "unread": false,
+  "urls": [],
+  "v": 1
+ },
+ {
+  "editedAt": "2019-07-08T04:34:06.344Z",
+  "fromUser": {
+   "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/raddrick",
+   "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/725335?v=4&s=128",
+   "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/725335?v=4&s=60",
+   "displayName": "Rick Graham",
+   "gv": "4",
+   "id": "5c34092ed73408ce4fb3f177",
+   "url": "/raddrick",
+   "username": "raddrick",
+   "v": 9
+  },
+  "html": "I added a model that inherits from <code>class Message &lt; Mailboxer::Message</code> but now my <code>receipt</code> contains no <code>message_id</code>",
+  "id": "5d22c7b6905e046c0489cc1c",
+  "issues": [],
+  "mentions": [],
+  "meta": [],
+  "readBy": 1,
+  "sent": "2019-07-08T04:33:58.251Z",
+  "text": "I added a model that inherits from `class Message < Mailboxer::Message` but now my `receipt` contains no `message_id`",
+  "unread": false,
+  "urls": [],
+  "v": 3
+ }
+]
