@@ -1,0 +1,752 @@
+displayName,username,sent,repo,number
+Jari Pennanen,Ciantic,2015-05-25T13:05:50.087Z,Microsoft/TypeScript,296
+Steve Ognibene,nycdotnet,2015-05-25T13:32:27.748Z,Microsoft/TypeScript,3203
+Tingan Ho,tinganho,2015-05-26T08:34:48.797Z,Microsoft/TypeScript,3022
+François de Campredon,fdecampredon,2015-05-27T18:14:41.289Z,Microsoft/TypeScript,1809
+Micah Zoltu,MicahZoltu,2015-05-31T22:59:48.191Z,Microsoft/TypeScript,3324
+Jari Pennanen,Ciantic,2015-06-02T15:12:24.935Z,Microsoft/TypeScript,3089
+Daniel Rosenwasser,DanielRosenwasser,2015-06-04T22:24:33.617Z,Microsoft/TypeScript,1664
+Mohamed Hegazy,mhegazy,2015-06-09T05:12:34.319Z,Microsoft/TypeScript,3393
+Micah Zoltu,MicahZoltu,2015-06-11T01:45:38.843Z,Microsoft/TypeScript,3325
+Jari Pennanen,Ciantic,2015-06-11T05:23:32.132Z,Microsoft/TypeScript,3448
+Aleksey Bykov,aleksey-bykov,2015-06-16T15:22:41.636Z,Microsoft/TypeScript,3067
+Aleksey Bykov,aleksey-bykov,2015-06-16T18:34:31.470Z,Microsoft/TypeScript,3523
+Daniel Rosenwasser,DanielRosenwasser,2015-06-18T17:23:32.687Z,Microsoft/TypeScript,2589
+Nelo Mitranim,Mitranim,2015-06-30T08:41:30.789Z,Microsoft/TypeScript,2577
+Jari Pennanen,Ciantic,2015-07-02T08:31:18.108Z,Microsoft/TypeScript,3708
+Micah Zoltu,MicahZoltu,2015-07-05T03:21:13.272Z,Microsoft/TypeScript,2338
+Alexander Fisher,pixelshaded,2015-07-14T18:58:42.983Z,Microsoft/TypeScript,3857
+Tingan Ho,tinganho,2015-07-16T08:11:41.354Z,Microsoft/TypeScript,449
+Ryan Cavanaugh,RyanCavanaugh,2015-07-22T19:51:57.612Z,Microsoft/TypeScript,3192
+Micah Zoltu,MicahZoltu,2015-07-25T19:22:34.522Z,Microsoft/TypeScript,3232
+Micah Zoltu,MicahZoltu,2015-07-25T19:23:38.263Z,Microsoft/TypeScript,3232
+Ryan Cavanaugh,RyanCavanaugh,2015-07-30T22:54:41.570Z,Microsoft/TypeScript,2491
+Lucien Greathouse,LPGhatguy,2015-07-31T19:15:07.699Z,Microsoft/TypeScript,3164
+Nelo Mitranim,Mitranim,2015-08-04T11:56:37.517Z,Microsoft/TypeScript,2577
+Yegor Roganov,roganov,2015-08-11T14:48:35.303Z,Microsoft/TypeScript,1003
+hschmidt99,hschmidt99,2015-08-14T11:01:01.552Z,Microsoft/TypeScript,1537
+Vsevolod Ivanov,wwwsevolod,2015-08-15T18:35:43.365Z,Microsoft/TypeScript,1773
+Mohamed Hegazy,mhegazy,2015-08-19T17:51:00.603Z,Microsoft/TypeScript,3283
+Mohamed Hegazy,mhegazy,2015-08-19T17:51:30.028Z,Microsoft/TypeScript,4352
+Daniel Rosenwasser,DanielRosenwasser,2015-08-21T00:10:25.050Z,Microsoft/TypeScript,2249
+Vsevolod Ivanov,wwwsevolod,2015-08-22T20:49:36.896Z,Microsoft/TypeScript,4364
+Richard Simpson,RichiCoder1,2015-08-27T17:53:26.765Z,Microsoft/TypeScript,3694
+Pedro de la Cruz Jr.,delaman,2015-09-03T19:01:17.927Z,Microsoft/TypeScript,3442
+hschmidt99,hschmidt99,2015-09-11T09:08:52.329Z,Microsoft/TypeScript,2338
+Daniel Rosenwasser,DanielRosenwasser,2015-09-11T23:05:31.507Z,Microsoft/TypeScript,2338
+Gerasimos (Makis) Maropoulos,removed~kataras,2015-09-16T10:17:40.651Z,Microsoft/TypeScript,3622
+Eyal Solnik,eyalsk,2015-09-19T02:08:52.062Z,Microsoft/TypeScript,4870
+Eyal Solnik,eyalsk,2015-09-19T05:47:27.637Z,Microsoft/TypeScript,4871
+Samuel Marks,SamuelMarks,2015-09-21T12:42:47.191Z,Microsoft/TypeScript,4897
+James Brantly,jbrantly,2015-09-21T15:21:56.552Z,Microsoft/TypeScript,4811
+James Brantly,jbrantly,2015-09-21T15:22:26.526Z,Microsoft/TypeScript,4389
+AlecTaylor,AlecTaylor,2015-09-23T14:10:40.154Z,Microsoft/TypeScript,4940
+Cu3PO42,Cu3PO42,2015-09-25T19:31:03.309Z,Microsoft/TypeScript,560
+reliak,reliak,2015-09-27T05:03:55.445Z,Microsoft/TypeScript,596
+James Brantly,jbrantly,2015-10-01T19:27:06.605Z,Microsoft/TypeScript,2022
+York Yao,plantain-00,2015-10-05T00:39:37.166Z,Microsoft/TypeScript,4590
+Martin Vseticka,MartyIX,2015-10-07T14:11:34.452Z,Microsoft/TypeScript,5084
+Martin Vseticka,MartyIX,2015-10-09T18:57:35.787Z,Microsoft/TypeScript,5084
+Eyal Solnik,eyalsk,2015-10-13T15:36:10.762Z,Microsoft/TypeScript,5239
+Daniel Rosenwasser,DanielRosenwasser,2015-10-16T16:45:19.674Z,Microsoft/TypeScript,5208
+Lucien Greathouse,LPGhatguy,2015-10-21T22:28:05.740Z,Microsoft/TypeScript,5357
+Cameron Barre,cjbarre,2015-10-23T17:34:33.896Z,Microsoft/TypeScript,442
+theduke,theduke,2015-10-24T23:55:40.539Z,Microsoft/TypeScript,5395
+Jan Pfitzner,alfrescian,2015-10-28T16:51:06.723Z,Microsoft/TypeScript,5039
+Jan Pfitzner,alfrescian,2015-10-28T16:53:27.390Z,Microsoft/TypeScript,5039
+James Brantly,jbrantly,2015-10-29T13:44:41.452Z,Microsoft/TypeScript,392
+Jason Killian,JKillian,2015-10-29T20:29:21.600Z,Microsoft/TypeScript,2242
+Sebastien Arod,sarod,2015-11-02T08:26:54.901Z,Microsoft/TypeScript,3101
+大事龙,Yunlong2cn,2015-11-03T07:26:15.597Z,Microsoft/TypeScript,2709
+Jason Killian,JKillian,2015-11-06T19:00:42.432Z,Microsoft/TypeScript,4992
+Jason Killian,JKillian,2015-11-06T19:00:42.432Z,Microsoft/TypeScript,2340
+Arnav Singh,Arnavion,2015-12-04T18:56:30.429Z,Microsoft/TypeScript,4448
+Maher Jendoubi,MaherJendoubi,2015-12-05T01:23:25.555Z,Microsoft/TypeScript,2474
+Christopher,ChristopherElliott,2015-12-08T19:31:17.968Z,Microsoft/TypeScript,596
+Jason Killian,JKillian,2015-12-08T19:32:41.533Z,Microsoft/TypeScript,4717
+Ville Vainio,vivainio,2015-12-09T20:13:16.007Z,Microsoft/TypeScript,5090
+Jason Killian,JKillian,2015-12-10T16:22:05.831Z,Microsoft/TypeScript,5185
+A,dizzyone,2015-12-16T09:17:13.088Z,Microsoft/TypeScript,2249
+Daniel Rosenwasser,DanielRosenwasser,2015-12-18T22:17:32.362Z,Microsoft/TypeScript,4666
+Dimitri Rosenberg,rosendi,2015-12-21T10:24:48.140Z,Microsoft/TypeScript,4890
+Dimitri Rosenberg,rosendi,2015-12-21T10:24:48.140Z,Microsoft/TypeScript,2225
+Daniel Rosenwasser,DanielRosenwasser,2015-12-22T22:50:01.726Z,Microsoft/TypeScript,4458
+Gary Roberts,thegaryroberts,2015-12-27T12:32:34.641Z,Microsoft/TypeScript,2242
+Corneliu,corneliutusnea,2015-12-29T07:38:29.328Z,Microsoft/TypeScript,2192
+Jason Killian,JKillian,2016-01-04T22:05:19.316Z,Microsoft/TypeScript,5185
+Daniel Rosenwasser,DanielRosenwasser,2016-01-05T17:51:23.211Z,Microsoft/TypeScript,5501
+Jason Killian,JKillian,2016-01-08T15:30:50.878Z,Microsoft/TypeScript,6018
+Jason Killian,JKillian,2016-01-11T18:05:03.729Z,Microsoft/TypeScript,5332
+Ian Bytchek,ianbytchek,2016-01-14T08:25:56.597Z,Microsoft/TypeScript,3215
+Ian Bytchek,ianbytchek,2016-01-14T08:32:46.493Z,Microsoft/TypeScript,3215
+Tom Enden,tomenden,2016-01-16T10:29:58.679Z,Microsoft/TypeScript,5675
+Popov Max,artaommahe,2016-01-19T23:31:58.885Z,Microsoft/TypeScript,5304
+Popov Max,artaommahe,2016-01-19T23:42:43.773Z,Microsoft/TypeScript,5039
+Bar Ziony,bartzy,2016-01-21T15:18:18.468Z,Microsoft/TypeScript,2242
+Asad Saeeduddin,masaeedu,2016-01-25T20:56:27.802Z,Microsoft/TypeScript,3507
+Asad Saeeduddin,masaeedu,2016-01-25T20:57:35.276Z,Microsoft/TypeScript,592
+Asad Saeeduddin,masaeedu,2016-01-25T21:41:41.064Z,Microsoft/TypeScript,6080
+Mike Stay,metaweta,2016-01-25T21:53:10.115Z,Microsoft/TypeScript,3866
+Remko de Jong,aggenebbisj,2016-01-26T19:43:59.407Z,Microsoft/TypeScript,3150
+Jason Killian,JKillian,2016-01-26T20:59:30.274Z,Microsoft/TypeScript,5595
+Tiago Rodrigues,trodrigues,2016-01-28T09:30:40.061Z,Microsoft/TypeScript,247
+Bar Ziony,bartzy,2016-01-31T14:23:28.214Z,Microsoft/TypeScript,2242
+Tom Enden,tomenden,2016-01-31T17:14:09.600Z,Microsoft/TypeScript,5285
+Axel D.,SetTrend,2016-02-02T14:56:10.407Z,Microsoft/TypeScript,6838
+Cy Brown,cybrown,2016-02-07T17:39:04.844Z,Microsoft/TypeScript,1007
+Vladimir Zotov,rgripper,2016-02-08T12:24:23.326Z,Microsoft/TypeScript,6958
+Dante Castillo Dubón,dantedubon,2016-02-11T22:50:43.498Z,Microsoft/TypeScript,6615
+Attila Egyed,tsm91,2016-02-23T15:03:37.090Z,Microsoft/TypeScript,5039
+Jason Killian,JKillian,2016-02-23T20:27:49.812Z,Microsoft/TypeScript,5039
+Gabriel Halle,ghalle,2016-02-23T20:56:19.067Z,Microsoft/TypeScript,4881
+Gabriel Halle,ghalle,2016-02-23T21:22:30.212Z,Microsoft/TypeScript,4881
+Gabriel Halle,ghalle,2016-02-23T21:29:27.348Z,Microsoft/TypeScript,4881
+Ville Vainio,vivainio,2016-02-24T15:38:59.661Z,Microsoft/TypeScript,5090
+MrAndMrsK,MrAndMrsK,2016-02-24T19:22:37.466Z,Microsoft/TypeScript,6974
+Oisin Grehan,oising,2016-02-29T21:07:09.138Z,Microsoft/TypeScript,7204
+Sean,seanzer,2016-03-01T22:26:03.776Z,Microsoft/TypeScript,486
+Craig Nishina,cnishina,2016-03-02T00:39:11.582Z,Microsoft/TypeScript,7330
+Craig Nishina,cnishina,2016-03-02T01:54:30.207Z,Microsoft/TypeScript,7330
+rborosak,rborosak,2016-03-02T11:00:42.006Z,Microsoft/TypeScript,1664
+Tony Olsson,Souldrinker,2016-03-02T11:52:31.205Z,Microsoft/TypeScript,1564
+Abouzar Kamaee,A-Kamaee,2016-03-03T22:56:39.667Z,Microsoft/TypeScript,2341
+Jeff,Jefftopia,2016-03-04T16:10:10.102Z,Microsoft/TypeScript,6012
+Oisin Grehan,oising,2016-03-07T19:30:05.826Z,Microsoft/TypeScript,7204
+Abouzar Kamaee,A-Kamaee,2016-03-07T22:53:56.640Z,Microsoft/TypeScript,7233
+Baloodevil,baloodevil,2016-03-08T15:47:21.714Z,Microsoft/TypeScript,7233
+David Driscoll,david-driscoll,2016-03-08T21:22:40.236Z,Microsoft/TypeScript,5695
+Daniel Rosenwasser,DanielRosenwasser,2016-03-09T00:12:50.914Z,Microsoft/TypeScript,7148
+Daniel Rosenwasser,DanielRosenwasser,2016-03-09T00:13:36.261Z,Microsoft/TypeScript,7130
+Ville Vainio,vivainio,2016-03-09T19:03:30.159Z,Microsoft/TypeScript,5090
+Damon Casale,damoncasale,2016-03-10T00:43:59.667Z,Microsoft/TypeScript,4612
+Jari Pennanen,Ciantic,2016-03-14T12:39:58.688Z,Microsoft/TypeScript,6627
+Dave Ackerman,dmackerman,2016-03-14T22:51:57.150Z,Microsoft/TypeScript,5039
+Andrew Nambudripad,xornand,2016-03-15T20:46:04.364Z,Microsoft/TypeScript,6725
+Benjamin Flowers,bflow,2016-03-17T06:27:52.420Z,Microsoft/TypeScript,6541
+Benjamin Otto,otbe,2016-03-17T14:43:21.740Z,Microsoft/TypeScript,7426
+Oisin Grehan,oising,2016-03-22T20:39:01.070Z,Microsoft/TypeScript,2338
+Jason Swearingen,jasonswearingen,2016-03-25T16:46:37.002Z,Microsoft/TypeScript,5156
+mikle111,mikle111,2016-03-27T21:52:02.419Z,Microsoft/TypeScript,339
+Yuriy Yazlovytskyy,yazla,2016-03-28T15:47:25.306Z,Microsoft/TypeScript,7566
+KamelJabber,KamelJabber,2016-03-31T11:45:24.287Z,Microsoft/TypeScript,5039
+Jari Pennanen,Ciantic,2016-04-09T11:43:16.769Z,Microsoft/TypeScript,7984
+Brandon Ramsey,brandonramsey,2016-04-09T17:34:08.547Z,Microsoft/TypeScript,4889
+Jason Killian,JKillian,2016-04-11T19:40:07.669Z,Microsoft/TypeScript,7619
+Jason Killian,JKillian,2016-04-14T19:39:32.746Z,Microsoft/TypeScript,7125
+Stabzs,Stabzs,2016-04-20T04:36:12.078Z,Microsoft/TypeScript,6532
+George Nemes,wanderer06,2016-04-20T15:55:34.924Z,Microsoft/TypeScript,1927
+George Nemes,wanderer06,2016-04-20T16:39:22.535Z,Microsoft/TypeScript,6118
+George Nemes,wanderer06,2016-04-20T16:50:56.862Z,Microsoft/TypeScript,1373
+George Nemes,wanderer06,2016-04-20T16:55:18.183Z,Microsoft/TypeScript,6118
+Chris Schreiner,chrisschreiner,2016-04-20T21:11:23.782Z,Microsoft/TypeScript,4590
+George Nemes,wanderer06,2016-04-21T10:14:31.431Z,Microsoft/TypeScript,2709
+Andrei Nemes,simplysh,2016-04-21T13:49:34.640Z,Microsoft/TypeScript,2103
+Herrington Darkholme,HerringtonDarkholme,2016-04-27T12:37:03.934Z,Microsoft/TypeScript,6894
+David Driscoll,david-driscoll,2016-04-27T18:12:39.365Z,Microsoft/TypeScript,7140
+Chris Chilvers,chilversc,2016-04-29T15:39:57.179Z,Microsoft/TypeScript,2521
+Sebastien Dubois,dsebastien,2016-05-03T19:59:45.886Z,Microsoft/TypeScript,5039
+Stefan Sinapov,StefanSinapov,2016-05-10T07:26:48.002Z,Microsoft/TypeScript,8113
+Matt Mazzola,mattmazzola,2016-05-11T00:35:58.702Z,Microsoft/TypeScript,3322
+con-ssc,con-ssc,2016-05-11T10:36:41.149Z,Microsoft/TypeScript,8112
+Xananax,Xananax,2016-05-13T10:12:11.184Z,Microsoft/TypeScript,1360
+Daniel Rosenwasser,DanielRosenwasser,2016-05-17T00:02:34.149Z,Microsoft/TypeScript,4971
+George Nemes,wanderer06,2016-05-18T14:53:53.195Z,Microsoft/TypeScript,2869
+George Nemes,wanderer06,2016-05-19T14:58:15.075Z,Microsoft/TypeScript,842
+George Nemes,wanderer06,2016-05-19T16:22:45.051Z,Microsoft/TypeScript,1373
+George Nemes,wanderer06,2016-05-19T16:24:05.397Z,Microsoft/TypeScript,6118
+electricessence,electricessence,2016-05-19T20:35:10.311Z,Microsoft/TypeScript,8701
+electricessence,electricessence,2016-05-19T21:34:55.416Z,Microsoft/TypeScript,8695
+electricessence,electricessence,2016-05-19T21:36:12.245Z,Microsoft/TypeScript,8701
+Daniel Meza,danielmeza,2016-05-20T17:43:12.567Z,Microsoft/TypeScript,5611
+Meirion Hughes,MeirionHughes,2016-05-28T20:49:05.025Z,Microsoft/TypeScript,2568
+Meirion Hughes,MeirionHughes,2016-05-29T14:58:42.651Z,Microsoft/TypeScript,1544
+Serhii Sol,serhiisol,2016-05-30T15:24:40.170Z,Microsoft/TypeScript,1564
+Brendan Hannemann,unicron,2016-06-02T17:20:26.733Z,Microsoft/TypeScript,7247
+Andrei Nemes,simplysh,2016-06-09T10:32:27.995Z,Microsoft/TypeScript,1564
+Chris Chilvers,chilversc,2016-06-09T11:12:10.841Z,Microsoft/TypeScript,7481
+Andrei Nemes,simplysh,2016-06-09T14:48:10.336Z,Microsoft/TypeScript,5683
+Chris Chilvers,chilversc,2016-06-09T18:53:59.037Z,Microsoft/TypeScript,8910
+George Nemes,wanderer06,2016-06-10T14:58:52.409Z,Microsoft/TypeScript,6118
+electricessence,electricessence,2016-06-10T20:11:41.457Z,Microsoft/TypeScript,7932
+electricessence,electricessence,2016-06-10T20:12:24.790Z,Microsoft/TypeScript,2076
+Sean Larkin,TheLarkInn,2016-06-11T02:01:56.114Z,Microsoft/TypeScript,9042
+debuuu,debuuu,2016-06-14T13:12:00.141Z,Microsoft/TypeScript,8476
+Gerjan,GerjanOnline,2016-06-15T08:03:11.486Z,Microsoft/TypeScript,9163
+Benjamin Otto,otbe,2016-06-15T09:05:04.624Z,Microsoft/TypeScript,9123
+Andrei Nemes,simplysh,2016-06-17T18:06:49.465Z,Microsoft/TypeScript,6532
+Jari Pennanen,Ciantic,2016-06-22T07:02:30.111Z,Microsoft/TypeScript,4889
+Jari Pennanen,Ciantic,2016-06-22T07:23:47.649Z,Microsoft/TypeScript,4889
+Kyle Needham,KyleNeedham,2016-06-28T18:58:01.773Z,Microsoft/TypeScript,5453
+MCKRUZ,MCKRUZ,2016-06-28T20:57:53.170Z,Microsoft/TypeScript,9398
+Pavel Frankov,pfrankov,2016-06-28T21:34:35.526Z,Microsoft/TypeScript,1551
+Pavel Frankov,pfrankov,2016-06-28T21:46:50.118Z,Microsoft/TypeScript,497
+Sean Clayton,sean-clayton,2016-07-03T20:12:39.034Z,Microsoft/TypeScript,2103
+"Meligy, GuruStop.NET",Meligy,2016-07-05T05:15:02.694Z,Microsoft/TypeScript,9512
+Sudheesh Singanamalla,sudheesh001,2016-07-13T07:13:59.648Z,Microsoft/TypeScript,9658
+Michał Miszczyszyn,mmiszy,2016-07-14T00:20:21.336Z,Microsoft/TypeScript,4910
+Lucas Azzola,azz,2016-07-15T00:07:11.571Z,Microsoft/TypeScript,9720
+Yousef Shanawany,AskYous,2016-07-18T18:07:01.229Z,Microsoft/TypeScript,5711
+Gabe Johnson,gabejohnson,2016-07-21T19:33:39.865Z,Microsoft/TypeScript,8986
+Michał Kruk,kruczy,2016-07-27T15:12:10.525Z,Microsoft/TypeScript,9639
+Axel D.,SetTrend,2016-07-28T12:56:24.142Z,Microsoft/TypeScript,10005
+Michael Maier,maiermic,2016-07-29T16:37:20.239Z,Microsoft/TypeScript,9299
+Michael Maier,maiermic,2016-08-05T19:41:43.835Z,Microsoft/TypeScript,5296
+Ed Sinek,esinek,2016-08-08T22:40:15.030Z,Microsoft/TypeScript,3076
+sam-s4s,sam-s4s,2016-08-09T07:31:24.865Z,Microsoft/TypeScript,8518
+Blake Embrey,blakeembrey,2016-08-10T09:35:09.841Z,Microsoft/TypeScript,5683
+Gábor IMRE,igabesz,2016-08-10T15:07:12.158Z,Microsoft/TypeScript,10250
+Cody Casterline,NfNitLoop,2016-08-13T20:39:03.029Z,Microsoft/TypeScript,8496
+Seva Zaikov,Bloomca,2016-08-15T16:03:48.580Z,Microsoft/TypeScript,6615
+Roberto Wesley Overdijk,RWOverdijk,2016-08-16T08:12:53.913Z,Microsoft/TypeScript,3755
+Asad Saeeduddin,masaeedu,2016-08-17T08:03:28.973Z,Microsoft/TypeScript,1336
+Shawn Talbert,ShawnTalbert,2016-08-25T21:53:25.398Z,Microsoft/TypeScript,6751
+Alex,whitecolor,2016-09-06T09:06:49.871Z,Microsoft/TypeScript,1213
+James Henry,JamesHenry,2016-09-06T20:34:44.001Z,Microsoft/TypeScript,10730
+Pier-Luc Gagnon,Nepoxx,2016-09-08T13:19:22.874Z,Microsoft/TypeScript,9407
+sam-s4s,sam-s4s,2016-09-11T23:01:11.736Z,Microsoft/TypeScript,2000
+Shawn Talbert,ShawnTalbert,2016-09-17T01:09:30.507Z,Microsoft/TypeScript,10690
+Gorgi Kosev,spion,2016-09-18T00:19:36.829Z,Microsoft/TypeScript,4433
+Patrick Roza,sickboy,2016-09-18T13:02:13.070Z,Microsoft/TypeScript,2009
+Jari Pennanen,Ciantic,2016-09-20T17:28:14.211Z,Microsoft/TypeScript,11016
+Jari Pennanen,Ciantic,2016-09-21T08:17:48.847Z,Microsoft/TypeScript,11031
+Jari Pennanen,Ciantic,2016-09-21T16:39:19.531Z,Microsoft/TypeScript,11038
+Stephen Solka,trashhalo,2016-09-21T20:10:14.598Z,Microsoft/TypeScript,9739
+Jussi Mattila,jussimattila,2016-09-23T10:11:22.012Z,Microsoft/TypeScript,1564
+John L.,jomcode,2016-09-24T22:32:24.244Z,Microsoft/TypeScript,11013
+Kris Thomsen,kristho91,2016-09-26T13:11:43.755Z,Microsoft/TypeScript,10638
+Lazar Ljubenović,lazarljubenovic,2016-10-06T10:31:32.343Z,Microsoft/TypeScript,1295
+Herrington Darkholme,HerringtonDarkholme,2016-10-09T15:02:53.846Z,Microsoft/TypeScript,11313
+Tom Dale,tomdale,2016-10-10T22:23:30.947Z,Microsoft/TypeScript,5863
+Shawn Talbert,ShawnTalbert,2016-10-12T05:01:49.597Z,Microsoft/TypeScript,8385
+Jeff Hansen,jeffijoe,2016-10-17T08:43:59.260Z,Microsoft/TypeScript,10233
+Sergey Yavnyi,blacktaxi,2016-10-20T00:48:23.077Z,Microsoft/TypeScript,11566
+Aleksandar Milošević,sasxa,2016-10-20T08:51:39.310Z,Microsoft/TypeScript,11233
+Jeff Hansen,jeffijoe,2016-10-20T20:03:05.123Z,Microsoft/TypeScript,4881
+Daniel Tabuenca,dtabuenc,2016-10-27T06:28:48.688Z,Microsoft/TypeScript,9793
+Daniel Tabuenca,dtabuenc,2016-11-03T04:46:42.212Z,Microsoft/TypeScript,1213
+Blake Friedman,blakef,2016-11-04T14:07:02.581Z,Microsoft/TypeScript,6615
+Gorgi Kosev,spion,2016-11-08T13:44:23.114Z,Microsoft/TypeScript,4881
+Steven,stevekane,2016-11-10T18:33:07.283Z,Microsoft/TypeScript,12114
+Pat Sissons,patsissons,2016-11-12T20:15:08.981Z,Microsoft/TypeScript,2103
+Dominic Watson,intellix,2016-11-12T21:42:48.515Z,Microsoft/TypeScript,12203
+Daniel Tabuenca,dtabuenc,2016-11-14T19:12:15.153Z,Microsoft/TypeScript,1213
+Steven,stevekane,2016-11-14T20:35:01.779Z,Microsoft/TypeScript,12114
+Pat Sissons,patsissons,2016-11-15T07:06:53.426Z,Microsoft/TypeScript,9542
+Pat Sissons,patsissons,2016-11-15T21:19:22.014Z,Microsoft/TypeScript,9542
+Steven,stevekane,2016-11-16T20:21:08.397Z,Microsoft/TypeScript,12114
+Daniel Tabuenca,dtabuenc,2016-11-18T16:31:08.356Z,Microsoft/TypeScript,4628
+Tycho Grouwstra,tycho01,2016-11-21T04:32:20.977Z,Microsoft/TypeScript,12114
+Steven,stevekane,2016-11-22T22:46:58.963Z,Microsoft/TypeScript,12448
+Steven,stevekane,2016-11-23T00:13:26.777Z,Microsoft/TypeScript,12448
+Steven,stevekane,2016-11-23T21:04:10.430Z,Microsoft/TypeScript,12448
+Daniel Tabuenca,dtabuenc,2016-11-24T20:51:18.413Z,Microsoft/TypeScript,1542
+Robin Van den Broeck,RobinVdBroeck,2016-11-24T21:45:07.285Z,Microsoft/TypeScript,4948
+Steven,stevekane,2016-11-26T00:52:05.157Z,Microsoft/TypeScript,12509
+Varun Jayaraman,varunjayaraman,2016-11-27T21:27:36.457Z,Microsoft/TypeScript,11224
+Steven,stevekane,2016-11-28T18:31:23.656Z,Microsoft/TypeScript,12528
+Steven,stevekane,2016-11-28T23:22:03.423Z,Microsoft/TypeScript,12528
+Truedrog,Truedrog,2016-12-02T08:59:46.825Z,Microsoft/TypeScript,12609
+Jeff Hansen,jeffijoe,2016-12-06T19:53:00.322Z,Microsoft/TypeScript,12692
+Felix Becker,felixfbecker,2016-12-07T18:54:45.636Z,Microsoft/TypeScript,12718
+Jari Pennanen,Ciantic,2016-12-10T17:19:36.384Z,Microsoft/TypeScript,10522
+Daniel Tabuenca,dtabuenc,2016-12-12T19:30:03.362Z,Microsoft/TypeScript,11034
+Steven,stevekane,2016-12-12T22:02:56.746Z,Microsoft/TypeScript,12861
+c.p.,dehli,2016-12-13T20:13:53.943Z,Microsoft/TypeScript,6606
+Herrington Darkholme,HerringtonDarkholme,2016-12-14T05:34:34.528Z,Microsoft/TypeScript,11936
+Varun Jayaraman,varunjayaraman,2016-12-15T19:06:51.129Z,Microsoft/TypeScript,8944
+Steven,stevekane,2016-12-15T20:53:21.806Z,Microsoft/TypeScript,12955
+Steven,stevekane,2016-12-16T21:18:31.226Z,Microsoft/TypeScript,12955
+Herrington Darkholme,HerringtonDarkholme,2016-12-20T10:43:43.303Z,Microsoft/TypeScript,13049
+Grant Mathews,johnfn,2016-12-21T00:43:11.912Z,Microsoft/TypeScript,13073
+Grant Mathews,johnfn,2016-12-21T02:49:51.692Z,Microsoft/TypeScript,13046
+Romain Lanz,RomainLanz,2017-01-04T14:49:15.514Z,Microsoft/TypeScript,2719
+Ben Herila,bherila,2017-01-06T02:34:48.618Z,Microsoft/TypeScript,9488
+Danila,O4epegb,2017-01-09T18:51:45.377Z,Microsoft/TypeScript,12771
+Daniel Tabuenca,dtabuenc,2017-01-10T07:22:49.148Z,Microsoft/TypeScript,12
+Daniel Tabuenca,dtabuenc,2017-01-10T07:28:24.272Z,Microsoft/TypeScript,13347
+mseddon,mseddon,2017-01-10T11:11:56.859Z,Microsoft/TypeScript,6496
+Ghet,ghetolay,2017-01-12T17:02:16.648Z,Microsoft/TypeScript,7657
+Dominik Moritz,domoritz,2017-01-12T19:18:19.068Z,Microsoft/TypeScript,11956
+Daniel Tabuenca,dtabuenc,2017-01-25T17:50:01.403Z,Microsoft/TypeScript,2361
+Paul Selden,pselden,2017-02-03T15:07:47.851Z,Microsoft/TypeScript,2709
+Daniel Tabuenca,dtabuenc,2017-02-05T00:19:41.108Z,Microsoft/TypeScript,2361
+Jordan Frankfurt,JFrankfurt,2017-02-05T04:24:00.073Z,Microsoft/TypeScript,5453
+Jordan Frankfurt,JFrankfurt,2017-02-05T04:26:58.682Z,Microsoft/TypeScript,10727
+Honza Břečka,honzabrecka,2017-02-09T15:51:16.942Z,Microsoft/TypeScript,13976
+Aliaksei Kuncevič,kuncevic,2017-02-14T03:26:06.392Z,Microsoft/TypeScript,204
+con-ssc,con-ssc,2017-02-14T14:39:25.965Z,Microsoft/TypeScript,7544
+Daniel Tabuenca,dtabuenc,2017-02-14T20:45:06.387Z,Microsoft/TypeScript,5685
+Stephan,stephanjust,2017-02-15T09:10:00.512Z,Microsoft/TypeScript,1706
+hinell,hinell,2017-02-15T19:59:44.424Z,Microsoft/TypeScript,14093
+Daniel Tabuenca,dtabuenc,2017-02-23T09:51:57.893Z,Microsoft/TypeScript,8878
+Daniel Tabuenca,dtabuenc,2017-02-23T18:16:22.334Z,Microsoft/TypeScript,12517
+Daniel Tabuenca,dtabuenc,2017-02-28T00:32:23.387Z,Microsoft/TypeScript,12342
+Daniel Tabuenca,dtabuenc,2017-03-01T17:27:26.386Z,Microsoft/TypeScript,14381
+Paul Koerbitz,paulkoerbitz,2017-03-08T10:42:26.394Z,Microsoft/TypeScript,202
+Gorgi Kosev,spion,2017-03-09T02:42:05.737Z,Microsoft/TypeScript,14551
+Bnaya Peretz,Bnaya,2017-03-09T09:56:18.557Z,Microsoft/TypeScript,14555
+Alexander Abashkin,monolithed,2017-03-12T13:07:12.553Z,Microsoft/TypeScript,14570
+Daniel Tabuenca,dtabuenc,2017-03-16T01:46:37.583Z,Microsoft/TypeScript,4130
+granak,granak,2017-03-16T13:21:17.763Z,Microsoft/TypeScript,12531
+Pat Sissons,patsissons,2017-03-17T20:15:07.949Z,Microsoft/TypeScript,13500
+Daniel Tabuenca,dtabuenc,2017-03-22T19:07:53.830Z,Microsoft/TypeScript,5579
+Jari Pennanen,Ciantic,2017-03-23T20:13:40.419Z,Microsoft/TypeScript,16
+Homa Wong,unional,2017-03-24T16:44:02.875Z,Microsoft/TypeScript,9532
+Homa Wong,unional,2017-03-24T16:44:02.875Z,Microsoft/TypeScript,13897
+Homa Wong,unional,2017-03-24T16:46:16.408Z,Microsoft/TypeScript,12607
+Adrian Hara,adrianhara,2017-03-24T16:47:38.353Z,Microsoft/TypeScript,13897
+Gorgi Kosev,spion,2017-03-24T17:48:56.421Z,Microsoft/TypeScript,3469
+Fabian Lauer,FabianLauer,2017-03-25T08:37:06.436Z,Microsoft/TypeScript,14141
+Homa Wong,unional,2017-03-26T02:51:43.402Z,Microsoft/TypeScript,7398
+Homa Wong,unional,2017-03-26T02:53:48.976Z,Microsoft/TypeScript,8687
+Aaron Beall,aaronbeall,2017-03-27T02:30:49.589Z,Microsoft/TypeScript,9759
+Bnaya Peretz,Bnaya,2017-03-30T15:11:45.382Z,Microsoft/TypeScript,14926
+slikts,slikts,2017-03-31T22:08:54.616Z,Microsoft/TypeScript,3841
+Daniel Tabuenca,dtabuenc,2017-04-02T23:27:46.577Z,Microsoft/TypeScript,12528
+Homa Wong,unional,2017-04-07T22:45:01.439Z,Microsoft/TypeScript,7398
+Nikos,QuantumInformation,2017-04-10T15:56:33.259Z,Microsoft/TypeScript,1263
+Karasu,Karasuni,2017-04-11T15:41:58.482Z,Microsoft/TypeScript,15130
+Homa Wong,unional,2017-04-13T17:58:33.432Z,Microsoft/TypeScript,7398
+slikts,slikts,2017-04-15T13:44:11.633Z,Microsoft/TypeScript,5453
+Brian Jorden,brianjorden,2017-04-15T15:23:52.214Z,Microsoft/TypeScript,7071
+Ádám Lippai,alippai,2017-04-17T17:24:30.356Z,Microsoft/TypeScript,15220
+Nikos,QuantumInformation,2017-04-17T20:20:59.358Z,Microsoft/TypeScript,15228
+Yaroslav Yakovlev,yaroslavya,2017-04-17T23:25:51.561Z,Microsoft/TypeScript,1689
+spacejack,spacejack,2017-04-23T17:21:03.232Z,Microsoft/TypeScript,4183
+Benjamin Otto,otbe,2017-04-27T18:45:45.319Z,Microsoft/TypeScript,15160
+Aaron Beall,aaronbeall,2017-04-28T17:55:12.718Z,Microsoft/TypeScript,7125
+Alex Sherwin,alex-sherwin,2017-04-28T20:42:27.988Z,Microsoft/TypeScript,14734
+Sam Beran,sberan,2017-04-29T14:38:01.230Z,Microsoft/TypeScript,7657
+Lazar Ljubenović,lazarljubenovic,2017-05-01T09:05:17.231Z,Microsoft/TypeScript,212
+Pat Sissons,patsissons,2017-05-01T22:23:11.011Z,Microsoft/TypeScript,7657
+Adrian Leonhard,NaridaL,2017-05-04T21:23:01.071Z,Microsoft/TypeScript,12948
+Adrian Leonhard,NaridaL,2017-05-06T01:52:38.561Z,Microsoft/TypeScript,11559
+Tony Olsson,Souldrinker,2017-05-08T07:44:50.233Z,Microsoft/TypeScript,14529
+Weston Pace,westonpace,2017-05-08T20:56:00.792Z,Microsoft/TypeScript,14116
+Matt Mazzola,mattmazzola,2017-05-12T04:28:36.233Z,Microsoft/TypeScript,11117
+Adrian Leonhard,NaridaL,2017-05-12T17:43:04.946Z,Microsoft/TypeScript,14733
+Adrian Leonhard,NaridaL,2017-05-13T16:40:53.444Z,Microsoft/TypeScript,13723
+Adrian Leonhard,NaridaL,2017-05-15T08:05:22.981Z,Microsoft/TypeScript,14600
+Pat Sissons,patsissons,2017-05-16T06:10:50.998Z,Microsoft/TypeScript,15872
+Adrian Leonhard,NaridaL,2017-05-16T06:42:52.743Z,Microsoft/TypeScript,13922
+Adrian Leonhard,NaridaL,2017-05-16T10:56:24.681Z,Microsoft/TypeScript,2589
+Adrian Leonhard,NaridaL,2017-05-16T15:51:03.702Z,Microsoft/TypeScript,5453
+Kelly Thomas Kline,kellytk,2017-05-17T01:18:39.930Z,Microsoft/TypeScript,15486
+Adrian Leonhard,NaridaL,2017-05-19T16:23:32.880Z,Microsoft/TypeScript,10717
+Adrian Leonhard,NaridaL,2017-05-20T07:45:17.849Z,Microsoft/TypeScript,11127
+Daniel Tabuenca,dtabuenc,2017-05-20T14:52:18.214Z,Microsoft/TypeScript,1213
+Adrian Leonhard,NaridaL,2017-05-23T12:15:57.534Z,Microsoft/TypeScript,13570
+Homa Wong,unional,2017-05-24T07:20:36.413Z,Microsoft/TypeScript,3469
+Adrian Leonhard,NaridaL,2017-05-24T20:17:05.952Z,Microsoft/TypeScript,13557
+Weston Pace,westonpace,2017-05-24T22:03:06.052Z,Microsoft/TypeScript,1394
+Weston Pace,westonpace,2017-05-24T22:09:23.411Z,Microsoft/TypeScript,15104
+Adrian Leonhard,NaridaL,2017-05-25T07:25:29.408Z,Microsoft/TypeScript,11100
+Adrian Leonhard,NaridaL,2017-05-25T07:26:05.100Z,Microsoft/TypeScript,13288
+Adrian Leonhard,NaridaL,2017-05-26T13:12:05.079Z,Microsoft/TypeScript,13829
+Adrian Leonhard,NaridaL,2017-05-26T13:12:05.079Z,Microsoft/TypeScript,12795
+Adrian Leonhard,NaridaL,2017-05-26T13:50:52.940Z,Microsoft/TypeScript,2246
+Adrian Leonhard,NaridaL,2017-05-27T15:28:55.458Z,Microsoft/TypeScript,10178
+Adrian Leonhard,NaridaL,2017-05-30T07:23:21.389Z,Microsoft/TypeScript,10620
+Homa Wong,unional,2017-05-30T08:24:38.997Z,Microsoft/TypeScript,15983
+Evgeniy Labutin,LabEG,2017-05-31T13:12:45.303Z,Microsoft/TypeScript,13288
+Carlos Pérez Gutiérrez,AlgusDark,2017-05-31T14:36:44.781Z,Microsoft/TypeScript,6579
+Adrian Leonhard,NaridaL,2017-06-05T23:02:22.380Z,Microsoft/TypeScript,9127
+Kamran Ayub,kamranayub,2017-06-07T15:00:28.729Z,Microsoft/TypeScript,4183
+Adrian Leonhard,NaridaL,2017-06-07T18:05:23.766Z,Microsoft/TypeScript,6496
+Adrian Leonhard,NaridaL,2017-06-09T14:40:46.861Z,Microsoft/TypeScript,7657
+matrixbot,matrixbot,2017-06-10T17:50:24.277Z,Microsoft/TypeScript,13618
+matrixbot,matrixbot,2017-06-10T17:50:45.171Z,Microsoft/TypeScript,15160
+Ron Zeidman,ronzeidman,2017-06-12T07:40:04.414Z,Microsoft/TypeScript,10509
+Ron Zeidman,ronzeidman,2017-06-12T07:42:01.148Z,Microsoft/TypeScript,2983
+Adrian Leonhard,NaridaL,2017-06-13T00:19:32.546Z,Microsoft/TypeScript,9235
+Christopher Armstrong,radix,2017-06-13T00:20:41.731Z,Microsoft/TypeScript,13778
+Homa Wong,unional,2017-06-13T07:24:17.760Z,Microsoft/TypeScript,7398
+Alyani,notsonotso,2017-06-16T08:36:59.283Z,Microsoft/TypeScript,165
+Nikos,QuantumInformation,2017-06-16T12:07:55.745Z,Microsoft/TypeScript,16577
+Drew R,drew-r,2017-06-16T18:32:49.856Z,Microsoft/TypeScript,12215
+Adrian Leonhard,NaridaL,2017-06-17T16:59:43.270Z,Microsoft/TypeScript,16546
+Adrian Leonhard,NaridaL,2017-06-18T02:52:28.493Z,Microsoft/TypeScript,16
+Adrian Leonhard,NaridaL,2017-06-19T12:29:33.302Z,Microsoft/TypeScript,14936
+Adrian Leonhard,NaridaL,2017-06-22T20:11:29.622Z,Microsoft/TypeScript,4183
+Adrian Leonhard,NaridaL,2017-06-25T19:38:39.685Z,Microsoft/TypeScript,2225
+Adrian Leonhard,NaridaL,2017-06-27T03:51:35.603Z,Microsoft/TypeScript,14833
+Adrian Leonhard,NaridaL,2017-06-27T18:21:33.422Z,Microsoft/TypeScript,16593
+Adrian Leonhard,NaridaL,2017-06-28T11:49:55.268Z,Microsoft/TypeScript,12424
+Adrian Leonhard,NaridaL,2017-06-28T22:33:45.347Z,Microsoft/TypeScript,16593
+Adrian Leonhard,NaridaL,2017-06-29T18:54:39.138Z,Microsoft/TypeScript,16
+Adrian Leonhard,NaridaL,2017-06-29T19:18:07.560Z,Microsoft/TypeScript,16794
+Adrian Leonhard,NaridaL,2017-06-30T08:52:36.272Z,Microsoft/TypeScript,15479
+Matt Mazzola,mattmazzola,2017-07-03T06:45:12.269Z,Microsoft/TypeScript,11117
+Matt Mazzola,mattmazzola,2017-07-03T06:45:58.074Z,Microsoft/TypeScript,11095
+Kelly Thomas Kline,kellytk,2017-07-03T11:50:53.589Z,Microsoft/TypeScript,16
+Sam Vervaeck,samvv,2017-07-03T15:03:03.926Z,Microsoft/TypeScript,9879
+Kunepro,Kunepro,2017-07-07T17:52:39.511Z,Microsoft/TypeScript,9976
+Adrian Leonhard,NaridaL,2017-07-11T14:55:11.312Z,Microsoft/TypeScript,4130
+Adrian Leonhard,NaridaL,2017-07-11T14:55:46.165Z,Microsoft/TypeScript,5453
+Adrian Leonhard,NaridaL,2017-07-11T15:28:32.027Z,Microsoft/TypeScript,613
+Adrian Leonhard,NaridaL,2017-07-13T15:25:13.815Z,Microsoft/TypeScript,12815
+Carlos González,rhyek,2017-07-13T18:57:45.341Z,Microsoft/TypeScript,10642
+Simon Meskens,SimonMeskens,2017-07-15T13:22:17.479Z,Microsoft/TypeScript,17224
+Adrian Leonhard,NaridaL,2017-07-15T18:49:59.745Z,Microsoft/TypeScript,15756
+Simon Meskens,SimonMeskens,2017-07-17T04:27:31.907Z,Microsoft/TypeScript,17238
+Adrian Leonhard,NaridaL,2017-07-17T18:29:43.012Z,Microsoft/TypeScript,10620
+flushentitypacket,flushentitypacket,2017-07-21T15:07:55.421Z,Microsoft/TypeScript,6559
+Adrian Leonhard,NaridaL,2017-07-22T06:27:32.604Z,Microsoft/TypeScript,10360
+Daniel Karp,karptonite,2017-07-24T18:00:32.374Z,Microsoft/TypeScript,6573
+Adrian Leonhard,NaridaL,2017-07-31T21:53:22.703Z,Microsoft/TypeScript,7294
+Aluan Haddad,aluanhaddad,2017-08-02T17:13:38.788Z,Microsoft/TypeScript,16093
+Ádám Lippai,alippai,2017-08-04T16:13:47.298Z,Microsoft/TypeScript,5158
+Adrian Leonhard,NaridaL,2017-08-04T18:02:19.830Z,Microsoft/TypeScript,5331
+Adrian Leonhard,NaridaL,2017-08-05T07:41:56.807Z,Microsoft/TypeScript,6606
+Luke John,luke-john,2017-08-10T03:16:18.968Z,Microsoft/TypeScript,6579
+Adrian Leonhard,NaridaL,2017-08-10T04:25:48.602Z,Microsoft/TypeScript,17070
+pueaau,pueaau,2017-08-17T15:16:14.628Z,Microsoft/TypeScript,8936
+Robert Jackson,rwjblue,2017-08-18T17:18:22.581Z,Microsoft/TypeScript,17897
+Daniel Tabuenca,dtabuenc,2017-08-22T03:25:37.345Z,Microsoft/TypeScript,1213
+Adrian Leonhard,NaridaL,2017-08-22T13:36:38.036Z,Microsoft/TypeScript,14409
+Adrian Leonhard,NaridaL,2017-08-25T10:53:38.962Z,Microsoft/TypeScript,12424
+Alyani,notsonotso,2017-08-29T18:47:00.209Z,Microsoft/TypeScript,12424
+Pat Sissons,patsissons,2017-08-31T20:06:19.654Z,Microsoft/TypeScript,15160
+Lucian Ursu,LucianU,2017-09-01T09:54:11.917Z,Microsoft/TypeScript,7657
+Retsam,Retsam,2017-09-05T19:01:20.326Z,Microsoft/TypeScript,12424
+Pat Sissons,patsissons,2017-09-06T21:13:09.614Z,Microsoft/TypeScript,14294
+Adrian Leonhard,NaridaL,2017-09-11T20:27:32.662Z,Microsoft/TypeScript,12424
+Adrian Leonhard,NaridaL,2017-09-12T16:27:41.064Z,Microsoft/TypeScript,7426
+Adrian Leonhard,NaridaL,2017-09-16T17:34:30.812Z,Microsoft/TypeScript,12424
+Adrian Leonhard,NaridaL,2017-09-17T21:37:54.044Z,Microsoft/TypeScript,11152
+Adrian Leonhard,NaridaL,2017-09-17T21:39:42.380Z,Microsoft/TypeScript,18286
+Evgeniy Timokhov,timocov,2017-09-18T09:46:01.299Z,Microsoft/TypeScript,16037
+Emil Ekberg,emilekberg,2017-09-24T19:26:20.004Z,Microsoft/TypeScript,13086
+Devin Fee,dfee,2017-09-28T09:45:27.639Z,Microsoft/TypeScript,6591
+Adrian Leonhard,NaridaL,2017-10-01T14:05:51.477Z,Microsoft/TypeScript,11498
+Adrian Leonhard,NaridaL,2017-10-01T18:48:16.154Z,Microsoft/TypeScript,4521
+Adrian Leonhard,NaridaL,2017-10-01T21:01:14.551Z,Microsoft/TypeScript,6606
+Sakumatti Luukkonen,sluukkonen,2017-10-02T16:04:05.995Z,Microsoft/TypeScript,17520
+Adrian Leonhard,NaridaL,2017-10-03T23:53:23.773Z,Microsoft/TypeScript,12790
+Adrian Leonhard,NaridaL,2017-10-04T15:25:40.381Z,Microsoft/TypeScript,18562
+Adrian Leonhard,NaridaL,2017-10-07T22:48:49.582Z,Microsoft/TypeScript,19014
+Adrian Leonhard,NaridaL,2017-10-09T09:54:13.567Z,Microsoft/TypeScript,18562
+Adrian Leonhard,NaridaL,2017-10-10T21:09:38.810Z,Microsoft/TypeScript,13557
+Martín Fernández,bilby91,2017-10-10T21:10:57.540Z,Microsoft/TypeScript,13288
+NN,NN---,2017-10-13T11:45:22.163Z,Microsoft/TypeScript,13254
+Matt Mazzola,mattmazzola,2017-10-17T04:47:04.979Z,Microsoft/TypeScript,6615
+Adrian Leonhard,NaridaL,2017-10-17T22:29:37.685Z,Microsoft/TypeScript,13730
+Adrian Leonhard,NaridaL,2017-10-18T09:31:18.718Z,Microsoft/TypeScript,3136
+Andy,andy-ms,2017-10-19T23:14:03.282Z,Microsoft/TypeScript,10717
+Adrian Leonhard,NaridaL,2017-10-23T21:25:06.257Z,Microsoft/TypeScript,1226
+Adrian Leonhard,NaridaL,2017-10-24T20:15:54.817Z,Microsoft/TypeScript,9532
+timm-gs,timm-gs,2017-10-26T12:07:42.377Z,Microsoft/TypeScript,15976
+Ghet,ghetolay,2017-10-31T14:58:11.051Z,Microsoft/TypeScript,15012
+Ádám Lippai,alippai,2017-10-31T15:05:03.203Z,Microsoft/TypeScript,11859
+Ádám Lippai,alippai,2017-10-31T15:05:03.203Z,Microsoft/TypeScript,16219
+Adrian Leonhard,NaridaL,2017-11-01T19:30:53.512Z,Microsoft/TypeScript,11498
+Isao Yagi,isao,2017-11-08T22:50:43.876Z,Microsoft/TypeScript,6018
+Isao Yagi,isao,2017-11-08T22:50:43.876Z,Microsoft/TypeScript,6739
+Adrian Leonhard,NaridaL,2017-11-09T13:34:27.361Z,Microsoft/TypeScript,11498
+Adrian Leonhard,NaridaL,2017-11-10T22:53:40.452Z,Microsoft/TypeScript,19335
+Adrian Leonhard,NaridaL,2017-11-12T00:40:50.664Z,Microsoft/TypeScript,19837
+Ghet,ghetolay,2017-11-14T23:15:38.774Z,Microsoft/TypeScript,18826
+Ghet,ghetolay,2017-11-14T23:24:51.000Z,Microsoft/TypeScript,5579
+Daniel Rosenwasser,DanielRosenwasser,2017-11-14T23:52:08.443Z,Microsoft/TypeScript,16093
+Rhys van der Waerden,rhys-vdw,2017-11-15T05:51:38.897Z,Microsoft/TypeScript,20026
+J.P. Poveda,etsuo,2017-11-17T19:23:18.044Z,Microsoft/TypeScript,4881
+spacejack,spacejack,2017-11-18T21:05:30.284Z,Microsoft/TypeScript,20075
+Adrian Leonhard,NaridaL,2017-11-19T16:40:28.370Z,Microsoft/TypeScript,14600
+Adrian Leonhard,NaridaL,2017-11-26T21:04:18.986Z,Microsoft/TypeScript,20033
+Kris Kaczor,krzkaczor,2017-11-26T21:08:30.770Z,Microsoft/TypeScript,5850
+Adrian Leonhard,NaridaL,2017-11-26T21:11:43.444Z,Microsoft/TypeScript,18562
+Kris Kaczor,krzkaczor,2017-11-26T21:11:47.410Z,Microsoft/TypeScript,7779
+Adrian Leonhard,NaridaL,2017-11-26T21:13:59.187Z,Microsoft/TypeScript,18562
+BehindTheMath,BehindTheMath,2017-11-29T02:26:38.182Z,Microsoft/TypeScript,10939
+BehindTheMath,BehindTheMath,2017-11-30T03:18:13.194Z,Microsoft/TypeScript,17203
+Jonathan Skeate,skeate,2017-12-04T17:38:47.950Z,Microsoft/TypeScript,20075
+Adrian Leonhard,NaridaL,2017-12-04T17:41:19.367Z,Microsoft/TypeScript,3136
+Adrian Leonhard,NaridaL,2017-12-07T14:14:29.702Z,Microsoft/TypeScript,12424
+Cam,trixnz,2017-12-07T21:45:05.089Z,Microsoft/TypeScript,17600
+Frank Paulo Filho,frankpf,2017-12-08T04:34:13.168Z,Microsoft/TypeScript,9299
+Joydip Roy,rjoydip,2017-12-09T17:57:58.847Z,Microsoft/TypeScript,2726
+Jonas Kugelmann,Kuirak_twitter,2017-12-10T13:44:56.985Z,Microsoft/TypeScript,12424
+Grant Mathews,johnfn,2017-12-10T17:43:47.393Z,Microsoft/TypeScript,20075
+Sam Grönblom,sgronblo,2017-12-15T05:31:24.850Z,Microsoft/TypeScript,20715
+dwieeb,dwieeb,2017-12-16T00:26:41.864Z,Microsoft/TypeScript,15247
+BehindTheMath,BehindTheMath,2017-12-17T03:06:45.972Z,Microsoft/TypeScript,20503
+Brian Jorden,brianjorden,2017-12-18T15:58:10.398Z,Microsoft/TypeScript,6229
+Brian Jorden,brianjorden,2017-12-18T16:43:47.064Z,Microsoft/TypeScript,6229
+Brian Jorden,brianjorden,2017-12-18T17:13:51.719Z,Microsoft/TypeScript,6229
+Brian Jorden,brianjorden,2017-12-18T17:22:23.713Z,Microsoft/TypeScript,6229
+Kudzu,czhower,2017-12-20T15:59:05.725Z,Microsoft/TypeScript,7960
+Rhys van der Waerden,rhys-vdw,2017-12-21T00:28:06.548Z,Microsoft/TypeScript,6413
+BehindTheMath,BehindTheMath,2017-12-22T01:50:33.862Z,Microsoft/TypeScript,14400
+Salathiel Genèse Yimga Yimga,SalathielGenese,2018-01-06T00:20:36.975Z,Microsoft/TypeScript,20887
+Grant Mathews,johnfn,2018-01-06T21:32:01.517Z,Microsoft/TypeScript,2983
+Gerrit Birkeland,Gerrit0,2018-01-08T03:04:34.755Z,Microsoft/TypeScript,6319
+Christopher Ng,actcutemonster,2018-01-08T03:42:53.882Z,Microsoft/TypeScript,2103
+J.P. Poveda,etsuo,2018-01-11T18:42:02.540Z,Microsoft/TypeScript,15066
+Andre Coelho,andrecoelho,2018-01-11T21:06:58.036Z,Microsoft/TypeScript,18238
+N.S. Cutler,godenji,2018-01-13T09:54:50.946Z,Microsoft/TypeScript,165
+Alex Luecke,alexluecke,2018-01-15T07:18:43.354Z,Microsoft/TypeScript,21186
+Lucian Ursu,LucianU,2018-01-15T08:25:04.145Z,Microsoft/TypeScript,14701
+Yanchi Toth,yanchith,2018-01-15T13:43:00.531Z,Microsoft/TypeScript,4183
+Adrian Leonhard,NaridaL,2018-01-16T11:45:54.349Z,Microsoft/TypeScript,19467
+Dominic Watson,intellix,2018-01-16T21:36:13.244Z,Microsoft/TypeScript,21211
+N.S. Cutler,godenji,2018-01-17T01:32:05.798Z,Microsoft/TypeScript,202
+Gerrit Birkeland,Gerrit0,2018-01-18T04:58:07.409Z,Microsoft/TypeScript,4183
+spacejack,spacejack,2018-01-21T02:25:18.281Z,Microsoft/TypeScript,4183
+spacejack,spacejack,2018-01-21T02:56:53.656Z,Microsoft/TypeScript,14141
+spacejack,spacejack,2018-01-21T23:50:06.468Z,Microsoft/TypeScript,21316
+Sam Grönblom,sgronblo,2018-01-25T10:46:49.505Z,Microsoft/TypeScript,14409
+Adrian Leonhard,NaridaL,2018-01-27T13:42:23.449Z,Microsoft/TypeScript,18628
+Willian Krueger,wkrueger,2018-01-29T20:41:49.594Z,Microsoft/TypeScript,1260
+AnyhowStep,AnyhowStep,2018-01-31T22:45:36.335Z,Microsoft/TypeScript,524
+eyelidlessness,eyelidlessness,2018-02-01T05:57:35.625Z,Microsoft/TypeScript,11150
+eyelidlessness,eyelidlessness,2018-02-01T05:57:35.625Z,Microsoft/TypeScript,13288
+EliteXXL,EliteXXL,2018-02-01T22:52:46.040Z,Microsoft/TypeScript,14051
+Adrian Leonhard,NaridaL,2018-02-01T23:08:33.091Z,Microsoft/TypeScript,5453
+Salathiel Genèse Yimga Yimga,SalathielGenese,2018-02-01T23:11:07.456Z,Microsoft/TypeScript,5453
+Pat Sissons,patsissons,2018-02-02T02:22:04.048Z,Microsoft/TypeScript,21566
+sam-s4s,sam-s4s,2018-02-05T02:38:15.447Z,Microsoft/TypeScript,1554
+sam-s4s,sam-s4s,2018-02-05T05:36:57.290Z,Microsoft/TypeScript,1554
+Andrew Throener,trainerbill,2018-02-05T20:00:35.890Z,Microsoft/TypeScript,2521
+Thomas Kempel,thomaskempel,2018-02-06T16:47:59.164Z,Microsoft/TypeScript,21673
+Jake,JakeSidSmith,2018-02-06T21:14:43.692Z,Microsoft/TypeScript,4183
+Jake,JakeSidSmith,2018-02-06T21:25:59.257Z,Microsoft/TypeScript,15840
+Jake,JakeSidSmith,2018-02-06T21:28:02.904Z,Microsoft/TypeScript,21156
+Dmitry,agDmitry,2018-02-06T21:40:06.466Z,Microsoft/TypeScript,21316
+Dmitry,agDmitry,2018-02-06T23:41:06.196Z,Microsoft/TypeScript,21316
+Sam Grönblom,sgronblo,2018-02-08T14:15:54.157Z,Microsoft/TypeScript,21496
+Mikhail Busyrev,Busyrev,2018-02-13T13:51:23.530Z,Microsoft/TypeScript,21602
+Jethro Larson,jethrolarson,2018-02-14T19:26:12.648Z,Microsoft/TypeScript,299
+Frank Paulo Filho,frankpf,2018-02-17T00:03:18.208Z,Microsoft/TypeScript,7660
+Frank Paulo Filho,frankpf,2018-02-17T00:23:27.839Z,Microsoft/TypeScript,14116
+Jeongho Nam,samchon,2018-02-18T07:48:46.721Z,Microsoft/TypeScript,21759
+doomleika,doomleika,2018-02-22T10:21:46.045Z,Microsoft/TypeScript,2709
+N.S. Cutler,godenji,2018-02-23T01:21:07.073Z,Microsoft/TypeScript,10727
+Rüdiger Klaehn,rklaehn,2018-02-24T09:21:04.800Z,Microsoft/TypeScript,22154
+Rüdiger Klaehn,rklaehn,2018-02-24T09:35:59.936Z,Microsoft/TypeScript,21316
+Dominic Watson,intellix,2018-02-24T15:15:05.611Z,Microsoft/TypeScript,21316
+Salathiel Genèse Yimga Yimga,SalathielGenese,2018-02-24T15:16:10.760Z,Microsoft/TypeScript,21316
+Oliver Joseph Ash,OliverJAsh,2018-03-05T22:28:26.490Z,Microsoft/TypeScript,22345
+Rene,renewooller,2018-03-06T00:48:19.989Z,Microsoft/TypeScript,8591
+Georgii Dolzhykov,thorn0,2018-03-06T13:09:52.207Z,Microsoft/TypeScript,16
+dlebee,dlebee,2018-03-07T17:28:29.625Z,Microsoft/TypeScript,420
+Ted Driggs,TedDriggs,2018-03-07T17:32:39.102Z,Microsoft/TypeScript,420
+Gerrit Birkeland,Gerrit0,2018-03-14T22:31:12.095Z,Microsoft/TypeScript,4183
+Remy Suen,rcjsuen,2018-03-15T08:49:53.883Z,Microsoft/TypeScript,7294
+Bnaya Peretz,Bnaya,2018-03-16T16:19:22.010Z,Microsoft/TypeScript,10941
+Gerrit Birkeland,Gerrit0,2018-03-19T16:27:48.397Z,Microsoft/TypeScript,16
+jrylan,jrylan,2018-03-19T20:22:35.270Z,Microsoft/TypeScript,18369
+Shanon Jackson,ShanonJackson,2018-03-19T23:00:43.544Z,Microsoft/TypeScript,21699
+Rhys van der Waerden,rhys-vdw,2018-03-21T02:44:01.084Z,Microsoft/TypeScript,21826
+Alberto Zaccagni,lazywithclass,2018-03-22T17:48:38.032Z,Microsoft/TypeScript,21847
+Alberto Zaccagni,lazywithclass,2018-03-23T11:37:25.103Z,Microsoft/TypeScript,22822
+Gerrit Birkeland,Gerrit0,2018-03-27T16:35:25.222Z,Microsoft/TypeScript,17736
+Jake Lazaroff,jakelazaroff,2018-03-28T03:40:55.773Z,Microsoft/TypeScript,9659
+Han Seoul-Oh,laughinghan,2018-03-28T16:02:55.083Z,Microsoft/TypeScript,18581
+Pawel Badenski,pbadenski,2018-03-29T14:23:59.116Z,Microsoft/TypeScript,9584
+Pawel Badenski,pbadenski,2018-03-29T14:24:09.811Z,Microsoft/TypeScript,11732
+Gerrit Birkeland,Gerrit0,2018-03-29T17:05:39.003Z,Microsoft/TypeScript,5453
+Gerrit Birkeland,Gerrit0,2018-04-06T04:39:34.039Z,Microsoft/TypeScript,13604
+Liran Nuna,LiraNuna,2018-04-08T06:36:32.561Z,Microsoft/TypeScript,21609
+Kudzu,czhower,2018-04-12T19:15:14.437Z,Microsoft/TypeScript,20846
+Shawn Talbert,ShawnTalbert,2018-04-15T04:05:33.594Z,Microsoft/TypeScript,16872
+martabrzeszczyk,martabrzeszczyk,2018-04-18T12:38:26.520Z,Microsoft/TypeScript,21316
+Asad Saeeduddin,masaeedu,2018-04-19T02:42:34.396Z,Microsoft/TypeScript,17574
+Rhys van der Waerden,rhys-vdw,2018-04-19T05:47:43.299Z,Microsoft/TypeScript,23532
+Rhys van der Waerden,rhys-vdw,2018-04-19T07:42:01.411Z,Microsoft/TypeScript,10866
+Asad Saeeduddin,masaeedu,2018-04-20T02:48:29.758Z,Microsoft/TypeScript,17715
+Asad Saeeduddin,masaeedu,2018-04-20T02:56:36.597Z,Microsoft/TypeScript,22368
+Asad Saeeduddin,masaeedu,2018-04-20T03:19:39.621Z,Microsoft/TypeScript,17961
+Simon Meskens,SimonMeskens,2018-04-20T03:40:29.499Z,Microsoft/TypeScript,13288
+Aaron Beall,aaronbeall,2018-04-20T20:16:05.642Z,Microsoft/TypeScript,9950
+Simon Meskens,SimonMeskens,2018-04-24T19:59:17.710Z,Microsoft/TypeScript,23665
+Maximilian Tagher,MaxGabriel,2018-04-24T22:42:20.917Z,Microsoft/TypeScript,18995
+Simon Meskens,SimonMeskens,2018-04-24T23:52:22.493Z,Microsoft/TypeScript,23665
+Shawn Talbert,ShawnTalbert,2018-04-26T21:34:50.904Z,Microsoft/TypeScript,10178
+Christopher Dieringer,cdaringe,2018-04-29T23:44:50.650Z,Microsoft/TypeScript,3755
+Christopher Dieringer,cdaringe,2018-04-29T23:55:54.701Z,Microsoft/TypeScript,12936
+Gerrit Birkeland,Gerrit0,2018-05-01T17:20:06.716Z,Microsoft/TypeScript,5453
+Lazar Ljubenović,lazarljubenovic,2018-05-02T09:17:36.012Z,Microsoft/TypeScript,5101
+Matthew Tebbs,matthewtebbs,2018-05-02T20:06:12.612Z,Microsoft/TypeScript,9681
+Simon Meskens,SimonMeskens,2018-05-02T21:37:29.607Z,Microsoft/TypeScript,23838
+Radu-Andrei Szasz,RaduSzasz,2018-05-03T13:31:11.399Z,Microsoft/TypeScript,17594
+martabrzeszczyk,martabrzeszczyk,2018-05-07T13:22:31.360Z,Microsoft/TypeScript,980
+Simon Meskens,SimonMeskens,2018-05-15T01:15:23.826Z,Microsoft/TypeScript,6606
+Kudzu,czhower,2018-05-17T15:30:56.589Z,Microsoft/TypeScript,13163
+Simon Meskens,SimonMeskens,2018-05-20T19:23:35.304Z,Microsoft/TypeScript,22617
+martabrzeszczyk,martabrzeszczyk,2018-05-21T09:53:41.541Z,Microsoft/TypeScript,17288
+Simon Meskens,SimonMeskens,2018-05-23T22:11:25.092Z,Microsoft/TypeScript,6131
+Nufflee,Nufflee,2018-05-24T17:26:54.338Z,Microsoft/TypeScript,24380
+Dominik Moritz,domoritz,2018-06-01T20:32:16.704Z,Microsoft/TypeScript,24588
+AnyhowStep,AnyhowStep,2018-06-05T10:00:22.095Z,Microsoft/TypeScript,24435
+Igor Ovsiannikov,ggarek,2018-06-08T09:41:56.159Z,Microsoft/TypeScript,14306
+martabrzeszczyk,martabrzeszczyk,2018-06-12T16:30:28.615Z,Microsoft/TypeScript,18887
+Dan Kaplun,dbkaplun,2018-06-25T00:47:28.295Z,Microsoft/TypeScript,25184
+Adrian Hara,adrianhara,2018-06-25T12:30:44.489Z,Microsoft/TypeScript,9999
+Daniel,nieltg,2018-06-27T20:46:03.702Z,Microsoft/TypeScript,24068
+Clément Flodrops,mildful,2018-06-28T14:34:11.710Z,Microsoft/TypeScript,9191
+Adrian Leonhard,NaridaL,2018-07-01T18:31:29.603Z,Microsoft/TypeScript,6012
+Konstantin Kostiuk,SET001,2018-07-04T22:59:21.016Z,Microsoft/TypeScript,5453
+Sam A. Horvath-Hunt,SamHH,2018-07-11T12:42:08.893Z,Microsoft/TypeScript,12384
+CyrusNajmabadi,CyrusNajmabadi,2018-07-12T20:00:55.614Z,Microsoft/TypeScript,14051
+Sam A. Horvath-Hunt,SamHH,2018-07-12T22:30:03.390Z,Microsoft/TypeScript,24897
+Ole Ersoy,oleersoy,2018-07-16T18:32:48.511Z,Microsoft/TypeScript,25677
+slikts,slikts,2018-07-18T16:49:46.670Z,Microsoft/TypeScript,6781
+Dávid Kocsis,kocsis1david,2018-07-19T19:01:37.409Z,Microsoft/TypeScript,12295
+Sam A. Horvath-Hunt,SamHH,2018-07-23T08:58:24.958Z,Microsoft/TypeScript,13126
+Shanon Jackson,ShanonJackson,2018-07-26T04:07:30.747Z,Microsoft/TypeScript,9235
+Frédérique Mittelstaedt,gfmio,2018-07-29T02:50:20.115Z,Microsoft/TypeScript,18442
+Dominik Moritz,domoritz,2018-07-30T20:18:23.510Z,Microsoft/TypeScript,25755
+Rhys van der Waerden,rhys-vdw,2018-08-01T07:18:19.674Z,Microsoft/TypeScript,22685
+Tom,traverse,2018-08-07T13:15:16.312Z,Microsoft/TypeScript,10693
+AnyhowStep,AnyhowStep,2018-08-11T03:00:12.009Z,Microsoft/TypeScript,26382
+Nicholas,NicholasThrom,2018-08-13T07:17:14.376Z,Microsoft/TypeScript,14190
+Dominik Moritz,domoritz,2018-08-14T17:38:30.070Z,Microsoft/TypeScript,25755
+Jacob Bogers,Jacob_Bogers_twitter,2018-08-18T19:31:34.440Z,Microsoft/TypeScript,8407
+AnyhowStep,AnyhowStep,2018-08-19T02:53:03.436Z,Microsoft/TypeScript,26228
+Dominik Moritz,domoritz,2018-08-21T18:25:28.299Z,Microsoft/TypeScript,25755
+Sebastian Silbermann,eps1lon,2018-08-24T07:27:48.228Z,Microsoft/TypeScript,13778
+flushentitypacket,flushentitypacket,2018-08-30T20:30:47.319Z,Microsoft/TypeScript,10571
+sinclairzx81,sinclairzx81,2018-08-31T07:00:56.056Z,Microsoft/TypeScript,26806
+ulrichb,ulrichb,2018-08-31T11:57:45.504Z,Microsoft/TypeScript,26058
+Jamee Kim,JameeKim,2018-09-01T11:09:20.502Z,Microsoft/TypeScript,5863
+sinclairzx81,sinclairzx81,2018-09-03T12:00:08.467Z,Microsoft/TypeScript,26806
+sinclairzx81,sinclairzx81,2018-09-03T12:00:32.505Z,Microsoft/TypeScript,23911
+Shanon Jackson,ShanonJackson,2018-09-06T01:56:39.492Z,Microsoft/TypeScript,26931
+sinclairzx81,sinclairzx81,2018-09-07T07:50:05.547Z,Microsoft/TypeScript,12861
+sinclairzx81,sinclairzx81,2018-09-07T08:12:12.800Z,Microsoft/TypeScript,12754
+Dušan Plavák,ddeath,2018-09-13T13:51:13.344Z,Microsoft/TypeScript,2986
+ulrichb,ulrichb,2018-09-25T12:30:53.222Z,Microsoft/TypeScript,27337
+Almenon,Almenon,2018-09-26T05:32:55.132Z,Microsoft/TypeScript,14833
+Jonathan Skeate,skeate,2018-09-28T16:46:16.626Z,Microsoft/TypeScript,24626
+Andrew Bradley,cspotcode,2018-10-01T04:18:14.225Z,Microsoft/TypeScript,19740
+Shobhit Gupta,shobhitg,2018-10-11T05:25:04.593Z,Microsoft/TypeScript,21316
+Ankit,_ankitp_twitter,2018-10-12T21:42:31.680Z,Microsoft/TypeScript,4433
+Matthew Adams,matthewadams,2018-10-22T23:07:16.338Z,Microsoft/TypeScript,16787
+Matthew Adams,matthewadams,2018-10-22T23:07:16.338Z,Microsoft/TypeScript,727
+Matthew Adams,matthewadams,2018-10-22T23:07:16.338Z,Microsoft/TypeScript,311
+Bruce Pascoe,fatcerberus,2018-10-23T18:02:12.332Z,Microsoft/TypeScript,15397
+Aaron Beall,aaronbeall,2018-10-29T20:18:55.411Z,Microsoft/TypeScript,15807
+Archimedes Trajano,trajano,2018-10-30T16:03:16.885Z,Microsoft/TypeScript,17572
+CyrusNajmabadi,CyrusNajmabadi,2018-10-31T05:03:07.420Z,Microsoft/TypeScript,7648
+Bnaya Peretz,Bnaya,2018-11-01T11:39:59.469Z,Microsoft/TypeScript,25705
+Aaron Ross,superhawk610,2018-11-02T04:53:08.466Z,Microsoft/TypeScript,17867
+Jonathan Skeate,skeate,2018-11-08T16:14:38.783Z,Microsoft/TypeScript,20863
+ross francis,rssfrncs,2018-11-14T11:18:47.674Z,Microsoft/TypeScript,24197
+Damien Retzinger,damienwebdev,2018-11-21T14:29:27.847Z,Microsoft/TypeScript,13557
+Rhys van der Waerden,rhys-vdw,2018-11-22T06:48:47.486Z,Microsoft/TypeScript,1863
+Jeremy Banks,jeremyBanks,2018-11-28T15:12:15.176Z,Microsoft/TypeScript,15096
+Jeremy Banks,jeremyBanks,2018-11-28T15:15:12.352Z,Microsoft/TypeScript,25886
+Keith Layne,keithlayne,2018-12-06T15:52:39.142Z,Microsoft/TypeScript,26349
+Matt Goo,moog16,2018-12-06T23:14:27.885Z,Microsoft/TypeScript,13288
+Tõnis Ostrat,tonisostrat,2018-12-11T05:35:22.905Z,Microsoft/TypeScript,8597
+Gerrit Birkeland,Gerrit0,2018-12-28T06:01:35.757Z,Microsoft/TypeScript,16
+Andreas Galazis,agalazis,2018-12-28T09:04:33.918Z,Microsoft/TypeScript,20423
+Titian Cernicova-Dragomir,dragomirtitian,2019-01-03T14:29:27.886Z,Microsoft/TypeScript,7140
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-01-08T11:51:45.690Z,Microsoft/TypeScript,24220
+Titian Cernicova-Dragomir,dragomirtitian,2019-01-11T11:03:18.385Z,Microsoft/TypeScript,18654
+Titian Cernicova-Dragomir,dragomirtitian,2019-01-15T10:12:50.116Z,Microsoft/TypeScript,29382
+David Glasser,glasser,2019-01-17T17:31:30.584Z,Microsoft/TypeScript,6861
+David Glasser,glasser,2019-01-17T18:11:34.387Z,Microsoft/TypeScript,29461
+Aaron Beall,aaronbeall,2019-01-23T03:14:59.104Z,Microsoft/TypeScript,14729
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-01-24T12:25:49.015Z,Microsoft/TypeScript,13975
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-01-24T12:25:49.015Z,Microsoft/TypeScript,13805
+Titian Cernicova-Dragomir,dragomirtitian,2019-01-29T22:07:09.273Z,Microsoft/TypeScript,22605
+Titian Cernicova-Dragomir,dragomirtitian,2019-01-30T21:59:30.834Z,Microsoft/TypeScript,26063
+Antonio Román,kyranet,2019-02-03T12:32:55.669Z,Microsoft/TypeScript,21701
+Aaron Beall,aaronbeall,2019-02-05T20:47:36.792Z,Microsoft/TypeScript,13298
+Clark Bynum,sh3nan1gans,2019-02-05T22:02:14.169Z,Microsoft/TypeScript,29758
+Clark Bynum,sh3nan1gans,2019-02-05T23:10:49.643Z,Microsoft/TypeScript,29758
+Clark Bynum,sh3nan1gans,2019-02-05T23:26:54.752Z,Microsoft/TypeScript,14141
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-02-08T04:45:58.832Z,Microsoft/TypeScript,29658
+Aaron Beall,aaronbeall,2019-02-08T07:00:42.058Z,Microsoft/TypeScript,29510
+Aaron Beall,aaronbeall,2019-02-11T15:00:52.649Z,Microsoft/TypeScript,9950
+AnyhowStep,AnyhowStep,2019-02-12T22:42:22.272Z,Microsoft/TypeScript,29511
+AnyhowStep,AnyhowStep,2019-02-12T22:42:22.272Z,Microsoft/TypeScript,29133
+Endel Dreyer,endel,2019-02-14T01:49:12.032Z,Microsoft/TypeScript,29909
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-02-16T13:53:20.806Z,Microsoft/TypeScript,26058
+Titian Cernicova-Dragomir,dragomirtitian,2019-02-19T14:50:10.418Z,Microsoft/TypeScript,29011
+Titian Cernicova-Dragomir,dragomirtitian,2019-02-21T16:45:07.251Z,Microsoft/TypeScript,8652
+Michael,m-henderson,2019-02-21T19:09:47.934Z,Microsoft/TypeScript,29666
+Michael,m-henderson,2019-02-21T19:30:35.927Z,Microsoft/TypeScript,29666
+Alix Axel,alixaxel,2019-02-23T16:03:22.200Z,Microsoft/TypeScript,24018
+lukasbash,lukasbash,2019-02-25T09:46:19.884Z,Microsoft/TypeScript,14094
+Andrei Alecu,andreialecu,2019-02-27T15:01:36.549Z,Microsoft/TypeScript,25886
+Mateusz Burzyński,Andarist,2019-03-02T09:58:04.866Z,Microsoft/TypeScript,23132
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-03-03T01:21:15.744Z,Microsoft/TypeScript,30194
+Titian Cernicova-Dragomir,dragomirtitian,2019-03-04T11:28:34.528Z,Microsoft/TypeScript,2989
+Titian Cernicova-Dragomir,dragomirtitian,2019-03-04T12:15:16.510Z,Microsoft/TypeScript,29896
+Nathan Shively-Sanders,sandersn,2019-03-06T21:46:38.464Z,Microsoft/TypeScript,26797
+Nathan Shively-Sanders,sandersn,2019-03-06T21:48:09.247Z,Microsoft/TypeScript,29588
+Tural Sadık,tsadigov,2019-03-16T15:56:06.760Z,Microsoft/TypeScript,5395
+Ayplo,Ayplow,2019-03-17T18:46:38.472Z,Microsoft/TypeScript,30453
+Karan Lyons,karanlyons,2019-03-17T22:33:11.478Z,Microsoft/TypeScript,2719
+Alex Sharp,ajsharp,2019-03-19T23:27:39.672Z,Microsoft/TypeScript,29743
+itbrandonsilva,itbrandonsilva,2019-03-22T16:46:13.363Z,Microsoft/TypeScript,22255
+Eduard Jacko,kresli,2019-03-23T18:20:48.825Z,Microsoft/TypeScript,23199
+Shanon Jackson,ShanonJackson,2019-03-23T21:33:09.110Z,Microsoft/TypeScript,13298
+webstrand,webstrand,2019-03-29T15:17:45.967Z,Microsoft/TypeScript,30215
+Karan Lyons,karanlyons,2019-04-01T07:23:55.294Z,Microsoft/TypeScript,21592
+webstrand,webstrand,2019-04-01T19:51:41.970Z,Microsoft/TypeScript,2299
+Shanon Jackson,ShanonJackson,2019-04-01T23:07:31.001Z,Microsoft/TypeScript,30689
+Gareth Jones,G-Rath,2019-04-04T06:41:17.329Z,Microsoft/TypeScript,1394
+Omar Diab,osdiab,2019-04-05T05:35:18.675Z,Microsoft/TypeScript,30663
+Gerrit Birkeland,Gerrit0,2019-04-06T21:14:43.568Z,Microsoft/TypeScript,28663
+Gerrit Birkeland,Gerrit0,2019-04-06T21:15:31.143Z,Microsoft/TypeScript,29435
+Bruce Pascoe,fatcerberus,2019-04-06T21:36:02.186Z,Microsoft/TypeScript,12745
+Gerrit Birkeland,Gerrit0,2019-04-06T21:37:46.075Z,Microsoft/TypeScript,20863
+Gerrit Birkeland,Gerrit0,2019-04-06T21:52:17.294Z,Microsoft/TypeScript,29317
+Karan Lyons,karanlyons,2019-04-07T08:14:02.062Z,Microsoft/TypeScript,30188
+Karan Lyons,karanlyons,2019-04-07T12:25:46.517Z,Microsoft/TypeScript,22368
+Karan Lyons,karanlyons,2019-04-07T12:25:46.517Z,Microsoft/TypeScript,26242
+Karan Lyons,karanlyons,2019-04-07T12:49:41.807Z,Microsoft/TypeScript,17574
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-04-09T21:10:56.824Z,Microsoft/TypeScript,15230
+webstrand,webstrand,2019-04-10T13:57:22.530Z,Microsoft/TypeScript,15300
+Evan Broder,ebroder,2019-04-14T02:10:25.077Z,Microsoft/TypeScript,17071
+Gareth Jones,G-Rath,2019-04-16T07:08:33.122Z,Microsoft/TypeScript,30954
+Gareth Jones,G-Rath,2019-04-16T09:30:03.654Z,Microsoft/TypeScript,11878
+Gareth Jones,G-Rath,2019-04-16T09:30:08.250Z,Microsoft/TypeScript,21759
+Gareth Jones,G-Rath,2019-04-16T10:59:25.778Z,Microsoft/TypeScript,7657
+Gareth Jones,G-Rath,2019-04-16T10:59:31.928Z,Microsoft/TypeScript,20812
+Keith Layne,keithlayne,2019-04-17T02:00:05.209Z,Microsoft/TypeScript,30663
+Gerrit Birkeland,Gerrit0,2019-04-17T03:28:30.864Z,Microsoft/TypeScript,30689
+Simon Meskens,SimonMeskens,2019-04-18T04:18:16.209Z,Microsoft/TypeScript,30215
+Bruce Pascoe,fatcerberus,2019-04-19T05:37:04.627Z,Microsoft/TypeScript,29317
+Hexiann,Hexiann,2019-04-19T15:19:39.218Z,Microsoft/TypeScript,29758
+Keith Layne,keithlayne,2019-04-20T17:10:17.670Z,Microsoft/TypeScript,5453
+Gareth Jones,G-Rath,2019-04-22T02:19:34.588Z,Microsoft/TypeScript,29652
+Simon Meskens,SimonMeskens,2019-04-25T17:06:56.847Z,Microsoft/TypeScript,31099
+Salathiel Genèse Yimga Yimga,SalathielGenese,2019-04-28T21:45:53.314Z,Microsoft/TypeScript,31151
+Bruce Pascoe,fatcerberus,2019-05-01T18:32:26.973Z,Microsoft/TypeScript,29317
+Bruce Pascoe,fatcerberus,2019-05-02T12:47:40.117Z,Microsoft/TypeScript,26255
+Gareth Jones,G-Rath,2019-05-02T20:54:40.604Z,Microsoft/TypeScript,20072
+Bruce Pascoe,fatcerberus,2019-05-03T00:28:18.279Z,Microsoft/TypeScript,4130
+Titian Cernicova-Dragomir,dragomirtitian,2019-05-04T08:27:36.419Z,Microsoft/TypeScript,24897
+Bruce Pascoe,fatcerberus,2019-05-05T17:47:39.110Z,Microsoft/TypeScript,18963
+Titian Cernicova-Dragomir,dragomirtitian,2019-05-06T14:19:50.417Z,Microsoft/TypeScript,30161
+Bruce Pascoe,fatcerberus,2019-05-10T20:30:52.485Z,Microsoft/TypeScript,30663
+Bruce Pascoe,fatcerberus,2019-05-12T05:48:53.274Z,Microsoft/TypeScript,14833
+Eduard Zintz,ezintz,2019-06-01T01:27:28.216Z,Microsoft/TypeScript,19816
+Adam Palaniuk,apalaniuk,2019-06-03T02:09:25.179Z,Microsoft/TypeScript,18369
+Tõnis Ostrat,tonisostrat,2019-06-05T08:23:48.640Z,Microsoft/TypeScript,24220
+Tushar Mathur,tusharmath,2019-06-11T18:20:10.224Z,Microsoft/TypeScript,1394
+marktoujiline,marktoujiline,2019-06-14T18:39:31.643Z,Microsoft/TypeScript,1806
+Bruce Pascoe,fatcerberus,2019-06-19T13:35:20.032Z,Microsoft/TypeScript,21048
+Bruce Pascoe,fatcerberus,2019-07-07T00:19:58.589Z,Microsoft/TypeScript,15480
+Ivan Kopeykin,vankop,2019-07-12T14:56:08.989Z,Microsoft/TypeScript,27931
+Bruce Pascoe,fatcerberus,2019-07-14T13:27:53.361Z,Microsoft/TypeScript,26242
+webstrand,webstrand,2019-07-18T15:07:05.311Z,Microsoft/TypeScript,13347
+Justin Leider,jleider,2019-07-22T21:27:59.935Z,Microsoft/TypeScript,26242
+webstrand,webstrand,2019-08-05T15:37:30.000Z,Microsoft/TypeScript,26242
+AnyhowStep,AnyhowStep,2019-08-07T17:14:12.840Z,Microsoft/TypeScript,2536
+Shanon Jackson,ShanonJackson,2019-08-13T23:45:18.641Z,Microsoft/TypeScript,20846
+Henning Dieterichs,hediet,2019-09-07T15:04:26.396Z,Microsoft/TypeScript,5276
+Karan Lyons,karanlyons,2019-09-08T13:43:58.565Z,Microsoft/TypeScript,12936
+sam-s4s,sam-s4s,2019-09-11T21:43:40.757Z,Microsoft/TypeScript,26242
+Pranshu Jhalani,prranshu,2019-10-07T10:11:38.878Z,Microsoft/TypeScript,8082
+Joe Pea,trusktr,2019-10-08T04:51:39.792Z,Microsoft/TypeScript,20719
+Ghost,ghost~5d338b8ed73408ce4fc68e76,2019-10-09T10:17:56.658Z,Microsoft/TypeScript,21826
+Kudzu,czhower,2019-10-17T17:38:47.775Z,Microsoft/TypeScript,30239
+Emiliano Heyns,retorquere,2019-10-17T22:27:04.020Z,Microsoft/TypeScript,21826
+Xiao Liang,yxliang01,2019-10-19T21:24:14.113Z,Microsoft/TypeScript,20367
+Micah Zoltu,MicahZoltu,2019-10-26T12:42:14.487Z,Microsoft/TypeScript,5453
+Andrew Hodges,betawaffle,2019-10-27T15:31:04.326Z,Microsoft/TypeScript,1108

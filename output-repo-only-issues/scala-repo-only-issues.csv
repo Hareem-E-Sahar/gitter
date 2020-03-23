@@ -1,0 +1,215 @@
+displayName,username,sent,repo,number
+soc,soc,2015-03-25T22:43:20.367Z,scala/scala,4404
+Jon Pretty,propensive,2015-04-19T19:44:49.981Z,scala/scala,4389
+Jon Pretty,propensive,2015-04-19T19:53:10.061Z,scala/scala,4389
+Jason Zaugg,retronym,2015-04-22T05:11:44.370Z,scala/scala,4463
+Jason Zaugg,retronym,2015-04-23T12:39:35.728Z,scala/scala,4465
+Adriaan Moors,adriaanm,2015-05-01T20:26:02.312Z,scala/scala,4483
+Jason Zaugg,retronym,2015-05-04T05:07:17.507Z,scala/scala,4216
+Jason Zaugg,retronym,2015-06-20T20:52:28.863Z,scala/scala,4569
+Jason Zaugg,retronym,2015-06-28T13:20:59.848Z,scala/scala,4588
+Seth Tisue,SethTisue,2015-06-29T12:46:18.073Z,scala/scala,4586
+som-snytt,som-snytt,2015-07-03T17:18:40.124Z,scala/scala,4440
+Jason Zaugg,retronym,2015-07-13T06:54:16.896Z,scala/scala,4625
+som-snytt,som-snytt,2015-07-14T22:10:01.661Z,scala/scala,4563
+Jason Zaugg,retronym,2015-07-16T00:10:43.635Z,scala/scala,2462
+som-snytt,som-snytt,2015-07-18T14:57:16.082Z,scala/scala,4641
+som-snytt,som-snytt,2015-07-27T08:12:44.509Z,scala/scala,3870
+Jason Zaugg,retronym,2015-08-18T22:51:31.758Z,scala/scala,4249
+Jason Zaugg,retronym,2015-08-21T05:06:55.022Z,scala/scala,3192
+Seth Tisue,SethTisue,2015-09-02T22:33:43.777Z,scala/scala,4674
+Jason Zaugg,retronym,2015-09-09T12:02:08.015Z,scala/scala,4725
+Jason Zaugg,retronym,2015-09-16T06:01:41.813Z,scala/scala,4725
+Seth Tisue,SethTisue,2015-09-16T21:40:15.874Z,scala/scala,4725
+soc,soc,2015-09-17T00:21:49.450Z,scala/scala,4747
+Vlad Ureche,VladUreche,2015-09-17T04:35:34.909Z,scala/scala,4748
+Dale Wijnand,dwijnand,2015-09-28T15:16:08.474Z,scala/scala,4557
+Jason Zaugg,retronym,2015-10-10T09:04:18.242Z,scala/scala,4787
+Jason Zaugg,retronym,2015-10-10T09:34:10.772Z,scala/scala,4673
+Seth Tisue,SethTisue,2015-10-20T19:43:16.505Z,scala/scala,4042
+Seth Tisue,SethTisue,2015-10-21T16:07:22.146Z,scala/scala,4042
+Jason Zaugg,retronym,2015-11-19T00:23:45.631Z,scala/scala,1675
+Ichoran,Ichoran,2015-11-29T20:42:46.643Z,scala/scala,4836
+Jason Zaugg,retronym,2015-12-02T00:08:56.628Z,scala/scala,3965
+Tin Pavlinic,triggerNZ,2015-12-02T07:37:50.561Z,scala/scala,4854
+Shane Delmore,ShaneDelmore,2015-12-08T05:00:24.320Z,scala/scala,4878
+som-snytt,som-snytt,2015-12-11T19:19:09.773Z,scala/scala,4841
+Jason Zaugg,retronym,2015-12-22T12:34:49.133Z,scala/scala,4858
+soc,soc,2016-01-04T10:54:21.575Z,scala/scala,4893
+soc,soc,2016-01-16T09:31:44.822Z,scala/scala,4906
+Jason Zaugg,retronym,2016-01-25T06:10:12.155Z,scala/scala,2737
+Seth Tisue,SethTisue,2016-01-27T15:46:18.046Z,scala/scala,4922
+Seth Tisue,SethTisue,2016-02-05T15:51:47.906Z,scala/scala,4042
+soc,soc,2016-02-13T17:21:17.087Z,scala/scala,4958
+Jason Zaugg,retronym,2016-02-17T00:42:01.728Z,scala/scala,4970
+Jason Zaugg,retronym,2016-03-04T04:26:19.105Z,scala/scala,4848
+soc,soc,2016-03-16T17:56:26.050Z,scala/scala,5041
+Viktor Klang (√),viktorklang,2016-04-01T18:06:23.491Z,scala/scala,5056
+FelAl,FelAl,2016-04-07T16:28:49.185Z,scala/scala,5089
+Seth Tisue,SethTisue,2016-04-13T18:01:16.649Z,scala/scala,5064
+soc,soc,2016-04-27T19:30:55.962Z,scala/scala,5135
+Jason Zaugg,retronym,2016-05-01T08:15:32.752Z,scala/scala,3497
+Jason Zaugg,retronym,2016-05-04T11:10:04.096Z,scala/scala,4688
+soc,soc,2016-05-11T19:51:52.255Z,scala/scala,5135
+Jason Zaugg,retronym,2016-05-12T02:08:00.505Z,scala/scala,5099
+Seth Tisue,SethTisue,2016-05-12T19:21:23.744Z,scala/scala,4737
+som-snytt,som-snytt,2016-05-20T21:50:02.504Z,scala/scala,5175
+Jason Zaugg,retronym,2016-05-22T04:42:09.598Z,scala/scala,4379
+Jason Zaugg,retronym,2016-05-29T23:48:21.251Z,scala/scala,5099
+Dale Wijnand,dwijnand,2016-06-24T06:12:51.782Z,scala/scala,5222
+Seth Tisue,SethTisue,2016-08-12T02:07:41.934Z,scala/scala,5141
+soc,soc,2016-08-19T06:35:43.821Z,scala/scala,5352
+Lj Chen,floating-cat,2016-08-23T12:27:53.747Z,scala/scala,5352
+Miles Sabin,milessabin,2016-08-26T16:16:47.529Z,scala/scala,5284
+Seth Tisue,SethTisue,2016-09-14T19:19:31.836Z,scala/scala,5307
+Georgi Krastev,joroKr21,2016-11-21T12:41:26.074Z,scala/scala,5307
+Martijn Hoekstra,martijnhoekstra,2016-11-29T09:50:52.088Z,scala/scala,5516
+Seth Bromberger,sbromberger,2016-12-03T06:27:47.971Z,scala/scala,5576
+Seth Bromberger,sbromberger,2016-12-04T02:17:56.863Z,scala/scala,5576
+som-snytt,som-snytt,2016-12-06T22:49:32.563Z,scala/scala,4306
+som-snytt,som-snytt,2016-12-07T00:00:08.477Z,scala/scala,4660
+Seth Tisue,SethTisue,2016-12-07T00:33:07.428Z,scala/scala,5582
+Jason Zaugg,retronym,2016-12-07T08:37:45.134Z,scala/scala,2793
+Seth Tisue,SethTisue,2016-12-23T22:43:29.309Z,scala/scala,1999
+Seth Tisue,SethTisue,2016-12-24T17:10:39.407Z,scala/scala,5589
+Seth Tisue,SethTisue,2017-01-07T17:26:57.559Z,scala/scala,5603
+Ittai Zeidman,ittaiz,2017-01-12T07:10:32.808Z,scala/scala,5562
+Jason Zaugg,retronym,2017-01-22T09:14:37.462Z,scala/scala,5106
+Seth Tisue,SethTisue,2017-01-23T19:32:15.654Z,scala/scala,5654
+Hanns Holger Rutz,Sciss,2017-02-04T16:35:09.609Z,scala/scala,53113
+som-snytt,som-snytt,2017-02-07T05:20:28.443Z,scala/scala,5629
+Edmund Noble,edmundnoble,2017-02-10T19:40:42.737Z,scala/scala,5238
+Seth Tisue,SethTisue,2017-03-02T21:04:26.540Z,scala/scala,5622
+Alexander Konovalov,alexknvl,2017-03-02T21:32:11.270Z,scala/scala,5310
+Ichoran,Ichoran,2017-03-27T16:31:29.913Z,scala/scala,4544
+Wouter Lammers,WtrLammers_twitter,2017-03-28T11:13:27.739Z,scala/scala,4544
+Seth Tisue,SethTisue,2017-04-06T01:12:27.976Z,scala/scala,5730
+Leif Battermann,battermann,2017-04-06T08:01:54.846Z,scala/scala,5730
+Ghost,ghost~540393fe163965c9bc2018ce,2017-04-08T21:33:35.051Z,scala/scala,5592
+Seth Tisue,SethTisue,2017-04-23T21:10:35.929Z,scala/scala,5327
+Seth Tisue,SethTisue,2017-05-01T03:04:38.271Z,scala/scala,5730
+Merlin Göttlinger,mgttlinger,2017-05-02T09:56:20.498Z,scala/scala,5538
+som-snytt,som-snytt,2017-05-10T17:09:21.246Z,scala/scala,5898
+Jasper Moeys,Jasper-M,2017-05-17T17:25:09.085Z,scala/scala,5796
+Paolo G. Giarrusso,Blaisorblade,2017-05-17T17:32:32.252Z,scala/scala,5913
+Paolo G. Giarrusso,Blaisorblade,2017-05-17T17:43:42.015Z,scala/scala,5913
+Edmund Noble,edmundnoble,2017-05-20T04:44:15.417Z,scala/scala,5915
+Seth Tisue,SethTisue,2017-06-04T07:11:24.303Z,scala/scala,5730
+Harrison Houghton,hrhino,2017-06-29T15:21:54.123Z,scala/scala,5350
+Harrison Houghton,hrhino,2017-06-30T12:07:47.288Z,scala/scala,5816
+Harrison Houghton,hrhino,2017-06-30T17:57:57.252Z,scala/scala,5816
+Harrison Houghton,hrhino,2017-07-07T20:46:40.316Z,scala/scala,5108
+Matt Sicker,jvz,2017-07-10T20:39:01.597Z,scala/scala,5990
+Seth Tisue,SethTisue,2017-07-17T13:41:54.777Z,scala/scala,5606
+Seth Tisue,SethTisue,2017-07-27T17:11:54.818Z,scala/scala,5931
+Harrison Houghton,hrhino,2017-07-29T22:30:46.825Z,scala/scala,4730
+Seth Tisue,SethTisue,2017-08-14T15:58:41.854Z,scala/scala,5310
+Harrison Houghton,hrhino,2017-08-14T16:00:06.953Z,scala/scala,6025
+Harrison Houghton,hrhino,2017-08-16T12:59:42.254Z,scala/scala,5108
+Harrison Houghton,hrhino,2017-08-30T14:29:03.851Z,scala/scala,5983
+som-snytt,som-snytt,2017-09-12T04:00:36.865Z,scala/scala,5657
+Harrison Houghton,hrhino,2017-09-12T19:44:06.104Z,scala/scala,5876
+som-snytt,som-snytt,2017-09-12T19:44:46.401Z,scala/scala,5876
+som-snytt,som-snytt,2017-09-12T21:48:22.671Z,scala/scala,5657
+Alexander Konovalov,alexknvl,2017-09-15T13:39:14.795Z,scala/scala,5538
+Seth Tisue,SethTisue,2017-09-25T22:23:07.578Z,scala/scala,5990
+Stephen Duncan Jr,jrduncans,2017-10-26T01:28:45.068Z,scala/scala,6021
+Francois Armand,fanf,2017-11-08T17:33:32.097Z,scala/scala,5327
+David Dudson,DavidDudson,2017-11-16T03:13:50.163Z,scala/scala,6120
+Martijn Hoekstra,martijnhoekstra,2017-12-06T11:10:14.409Z,scala/scala,5949
+rsoeldner,rsoeldner,2017-12-14T06:21:21.059Z,scala/scala,2305
+som-snytt,som-snytt,2018-01-02T20:52:34.925Z,scala/scala,5657
+Raul Rodriguez,raul782,2018-01-06T06:15:51.599Z,scala/scala,6034
+som-snytt,som-snytt,2018-01-08T02:46:22.780Z,scala/scala,5322
+Ryan Berckmans,ryanberckmans,2018-01-10T12:01:06.938Z,scala/scala,4312
+Harrison Houghton,hrhino,2018-01-17T15:27:47.418Z,scala/scala,4355
+Edmund Noble,edmundnoble,2018-01-25T03:34:22.485Z,scala/scala,2793
+som-snytt,som-snytt,2018-01-26T04:21:51.365Z,scala/scala,4441
+Seth Tisue,SethTisue,2018-02-10T00:46:59.681Z,scala/scala,6315
+Ichoran,Ichoran,2018-02-10T00:51:12.417Z,scala/scala,6315
+Seth Tisue,SethTisue,2018-02-24T00:58:44.517Z,scala/scala,6334
+Seth Tisue,SethTisue,2018-02-24T02:21:44.610Z,scala/scala,5617
+Seth Tisue,SethTisue,2018-02-24T02:25:11.310Z,scala/scala,5744
+eugene yokota,eed3si9n,2018-03-06T23:35:12.516Z,scala/scala,6369
+Nth/April,NthPortal,2018-03-12T07:50:48.565Z,scala/scala,6410
+Seth Tisue,SethTisue,2018-03-13T15:39:46.810Z,scala/scala,6093
+Harrison Houghton,hrhino,2018-03-13T16:35:58.309Z,scala/scala,6093
+Andriy Plokhotnyuk,plokhotnyuk,2018-03-15T11:02:49.616Z,scala/scala,6093
+Seth Tisue,SethTisue,2018-03-17T20:53:23.240Z,scala/scala,6314
+Seth Tisue,SethTisue,2018-03-17T20:53:23.240Z,scala/scala,6412
+Seth Tisue,SethTisue,2018-03-22T02:23:40.426Z,scala/scala,6395
+Matthias Sperl,m-sp,2018-03-25T15:58:21.743Z,scala/scala,6089
+Harrison Houghton,hrhino,2018-03-25T20:15:46.264Z,scala/scala,6247
+Ionuț G. Stan,igstan,2018-04-18T13:18:03.931Z,scala/scala,5246
+Seth Tisue,SethTisue,2018-04-27T16:39:17.515Z,scala/scala,6275
+eugene yokota,eed3si9n,2018-04-30T17:25:59.022Z,scala/scala,6446
+Martijn Hoekstra,martijnhoekstra,2018-05-07T09:11:30.645Z,scala/scala,5350
+Martijn Hoekstra,martijnhoekstra,2018-05-07T09:13:05.730Z,scala/scala,5339
+Seth Tisue,SethTisue,2018-05-07T09:37:03.923Z,scala/scala,5350
+som-snytt,som-snytt,2018-05-07T12:33:46.803Z,scala/scala,6589
+Martijn Hoekstra,martijnhoekstra,2018-05-07T16:40:02.314Z,scala/scala,6589
+Seth Tisue,SethTisue,2018-05-15T20:47:45.329Z,scala/scala,6630
+Seth Tisue,SethTisue,2018-05-18T20:15:51.372Z,scala/scala,6500
+Martijn Hoekstra,martijnhoekstra,2018-05-23T16:03:51.263Z,scala/scala,6582
+Martijn Hoekstra,martijnhoekstra,2018-05-23T16:03:51.263Z,scala/scala,6580
+Martijn Hoekstra,martijnhoekstra,2018-06-11T10:23:22.319Z,scala/scala,6767
+Seth Tisue,SethTisue,2018-06-20T13:31:52.584Z,scala/scala,6703
+Martijn Hoekstra,martijnhoekstra,2018-07-20T13:07:38.458Z,scala/scala,6955
+Seth Tisue,SethTisue,2018-07-29T16:20:30.558Z,scala/scala,6767
+Seth Tisue,SethTisue,2018-08-03T19:39:34.709Z,scala/scala,5294
+Seth Tisue,SethTisue,2018-08-03T19:39:34.709Z,scala/scala,5374
+Martijn Hoekstra,martijnhoekstra,2018-08-09T09:20:51.157Z,scala/scala,6764
+Rob Norris,tpolecat,2018-08-10T18:31:30.199Z,scala/scala,5310
+Harrison Houghton,hrhino,2018-08-13T13:30:46.042Z,scala/scala,6627
+"Justin du Coeur, AKA Mark Waks",jducoeur,2018-08-23T14:14:57.017Z,scala/scala,6610
+Joe Pallas,jpallas,2018-08-24T21:52:47.506Z,scala/scala,6505
+Rob Norris,tpolecat,2018-09-05T18:17:19.694Z,scala/scala,5617
+Matthias Sperl,m-sp,2018-09-25T19:43:51.258Z,scala/scala,6972
+Ryan Williams,ryan-williams,2018-10-13T00:07:21.427Z,scala/scala,6479
+Seth Tisue,SethTisue,2018-10-15T20:54:15.974Z,scala/scala,6745
+som-snytt,som-snytt,2018-11-02T00:15:16.350Z,scala/scala,4554
+Seth Tisue,SethTisue,2018-11-13T20:59:54.575Z,scala/scala,4929
+Seth Tisue,SethTisue,2018-11-13T21:03:03.729Z,scala/scala,5617
+Merlijn van Ittersum,merlijn,2018-12-06T15:58:13.699Z,scala/scala,4544
+Seth Tisue,SethTisue,2018-12-06T19:39:30.077Z,scala/scala,6831
+som-snytt,som-snytt,2018-12-10T21:54:25.880Z,scala/scala,7514
+Edmondo Porcu,edmondo1984,2019-01-31T09:47:30.088Z,scala/scala,6972
+Seth Tisue,SethTisue,2019-02-08T19:27:17.141Z,scala/scala,7660
+som-snytt,som-snytt,2019-02-14T05:02:39.962Z,scala/scala,7724
+som-snytt,som-snytt,2019-02-17T19:09:04.219Z,scala/scala,5391
+Seth Tisue,SethTisue,2019-02-27T01:15:08.158Z,scala/scala,7712
+Seth Tisue,SethTisue,2019-03-05T23:28:56.613Z,scala/scala,7817
+Seth Tisue,SethTisue,2019-03-19T10:22:09.950Z,scala/scala,4216
+som-snytt,som-snytt,2019-03-19T19:56:47.872Z,scala/scala,4372
+zygfryd,zygfryd,2019-03-29T23:51:52.147Z,scala/scala,7743
+Rob Norris,tpolecat,2019-04-09T18:29:21.901Z,scala/scala,6729
+som-snytt,som-snytt,2019-04-10T16:39:02.321Z,scala/scala,4308
+som-snytt,som-snytt,2019-04-10T16:39:02.321Z,scala/scala,4468
+Martijn Hoekstra,martijnhoekstra,2019-04-12T21:37:37.612Z,scala/scala,7843
+Dale Wijnand,dwijnand,2019-04-25T08:51:21.496Z,scala/scala,6989
+Seth Tisue,SethTisue,2019-04-26T23:16:51.025Z,scala/scala,6589
+Seth Tisue,SethTisue,2019-04-29T01:33:12.213Z,scala/scala,7615
+Martijn Hoekstra,martijnhoekstra,2019-04-29T15:19:31.210Z,scala/scala,6589
+Guillaume Martres,smarter,2019-04-29T18:41:04.528Z,scala/scala,8010
+Seth Tisue,SethTisue,2019-05-07T17:42:01.208Z,scala/scala,7663
+som-snytt,som-snytt,2019-05-19T02:39:13.996Z,scala/scala,8072
+Gavin Bisesi,Daenyth,2019-05-23T15:47:13.786Z,scala/scala,7785
+Seth Tisue,SethTisue,2019-06-05T16:02:15.980Z,scala/scala,7470
+Seth Tisue,SethTisue,2019-06-05T16:02:15.980Z,scala/scala,7784
+Seth Tisue,SethTisue,2019-06-05T16:02:57.723Z,scala/scala,6610
+Seth Tisue,SethTisue,2019-06-18T22:25:26.929Z,scala/scala,3169
+Adriaan Moors,adriaanm,2019-06-20T10:18:04.355Z,scala/scala,6589
+João Ferreira,jtjeferreira,2019-07-17T14:49:32.236Z,scala/scala,6888
+OlegYch,OlegYch,2019-07-26T21:25:48.074Z,scala/scala,7916
+Seth Tisue,SethTisue,2019-08-04T21:10:50.757Z,scala/scala,2793
+Seth Tisue,SethTisue,2019-08-13T18:27:29.990Z,scala/scala,7693
+Jasper Moeys,Jasper-M,2019-08-16T15:59:19.912Z,scala/scala,7702
+Martijn Hoekstra,martijnhoekstra,2019-08-27T14:53:07.472Z,scala/scala,8377
+Martijn Hoekstra,martijnhoekstra,2019-09-03T08:57:21.550Z,scala/scala,7728
+Martijn Hoekstra,martijnhoekstra,2019-09-11T11:27:22.694Z,scala/scala,8315
+Seth Tisue,SethTisue,2019-09-11T14:06:11.495Z,scala/scala,2793
+Ryan Peters,sloshy,2019-09-11T14:06:45.106Z,scala/scala,8313
+Seth Tisue,SethTisue,2019-09-17T23:17:11.729Z,scala/scala,7111
+Luis Miguel Mejía Suárez,BalmungSan,2019-09-18T00:27:00.091Z,scala/scala,5876
+Katrix,Katrix,2019-10-07T17:12:44.421Z,scala/scala,6340
+Martijn Hoekstra,martijnhoekstra,2019-11-04T14:49:39.117Z,scala/scala,8373
