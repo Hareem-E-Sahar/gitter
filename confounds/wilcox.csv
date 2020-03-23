@@ -1,0 +1,34 @@
+0,2.2E-16,reject nulll,,0.207,small
+1,0.2523,,no diff,0.121,negligible
+2,1.805E-07,reject nulll,,0.121,negligible
+3,0.0001867,reject nulll,,0.236,small
+4,1.748E-06,reject nulll,,0.152,small
+5,0.0002567,reject nulll,,0.397,medium
+6,2.2E-16,reject nulll,,0.318,small
+7,9.453E-09,reject nulll,,0.45,medium
+8,0.0003792,reject nulll,,0.298,small
+9,0.3853,,no diff,0.117,negligible
+10,1.443E-06,reject nulll,,0.244,small
+11,4.338E-05,reject nulll,,0.297,small
+12,0.01473,,no diff,0.211,small
+13,0.1041,,no diff,0.182,small
+14,3.487E-15,reject null,,0.478,Large
+15,0.001307,reject null,,0.223,small
+,,,,,
+Group,Mann-whitney,Cliffs Delta ,,,
+0,2.2E-16,small,,,
+1,0.2523,negligible,,,
+2,1.805E-07,negligible,,,
+3,0.0001867,small,,,
+4,1.748E-06,small,,,
+5,0.0002567,medium,,,
+6,2.2E-16,small,,,
+7,9.453E-09,medium,,,
+8,0.0003792,small,,,
+9,0.3853,negligible,,,
+10,1.443E-06,small,,,
+11,4.338E-05,small,,,
+12,0.01473,small,,,
+13,0.1041,small,,,
+14,3.487E-15,Large,,,
+15,0.001307,small,,,
