@@ -1,0 +1,604 @@
+~/amber-repo-only-issues.csv
+~/amber_contributors.csv
+Total Issues/Users  250
+Unique displayNames 35
+Unique usernames 35
+Unique Contributors  91
+
+
+No. of 100% matches: 21
+[['Blacksmoke16', 'Blacksmoke16'], ['robacarp', 'robacarp']]
+
+
+[['Aaron Namba', 'Aaron Namba'], ['Andreas Zuber', 'Andreas Zuber'], ['Damian Hamill', 'Damian Hamill'], ['Dru Jensen', 'Dru Jensen'], ['Elias Perez', 'Elias Perez'], ['Faustino Aguilar', 'Faustino Aguilar'], ['Gabriel Engel', 'Gabriel Engel'], ['Hugo Parente Lima', 'Hugo Parente Lima'], ['Isaac Sloan', 'Isaac Sloan'], ['Kevin Elliott', 'Kevin Elliott'], ['Kevin Sjöberg', 'Kevin Sjöberg'], ['Lairan', 'Lairan'], ['Luke Holder', 'Luke Holder'], ['Mark', 'Mark'], ['Nathaniel Suchy', 'Nathaniel Suchy'], ['Nick Franken', 'Nick Franken'], ['Nikolai Ilushko', 'Nikolai Ilushko'], ['Sam Johnson', 'Sam Johnson'], ['Vitalii Elenhaupt', 'Vitalii Elenhaupt']]
+
+
+=== No. of matches 60% or above ===
+No. of matches in User: 0
+No. of matches in Display: 1
+[]
+
+
+[['Elias Perez', 'Elias J. Perez']]
+
+Removed Elias J. Perez from GitHub
+====================================================================================================
+~/angular-repo-only-issues.csv
+~/angular_contributors.csv
+Total Issues/Users  3492
+Unique displayNames 731
+Unique usernames 741
+Unique Contributors  1175
+
+
+No. of 100% matches: 92
+[['alexbyk', 'alexbyk'], ['cexbrayat', 'cexbrayat'], ['choeller', 'choeller'], ['ericmartinezr', 'ericmartinezr'], ['Foxandxss', 'Foxandxss'], ['FrozenPandaz', 'FrozenPandaz'], ['gary-b', 'gary-b'], ['gdi2290', 'gdi2290'], ['ghetolay', 'ghetolay'], ['JoostK', 'JoostK'], ['lazarljubenovic', 'lazarljubenovic'], ['shlomiassaf', 'shlomiassaf'], ['Toxicable', 'Toxicable'], ['tycho01', 'tycho01'], ['Xapuu', 'Xapuu'], ['zhilich', 'zhilich']]
+
+
+[['Adam Bradley', 'Adam Bradley'], ['Ádám Lippai', 'Ádám Lippai'], ['Ajay Ambre', 'Ajay Ambre'], ['Alan Agius', 'Alan Agius'], ['alexbyk', 'alexbyk'], ['Alex Rickabaugh', 'Alex Rickabaugh'], ['Alfonso Presa', 'Alfonso Presa'], ['Aliaksei Kuncevič', 'Aliaksei Kuncevič'], ['André Werlang', 'André Werlang'], ['Anton Moiseev', 'Anton Moiseev'], ['Brandon', 'Brandon'], ['Cédric Exbrayat', 'Cédric Exbrayat'], ['Chuck Jazdzewski', 'Chuck Jazdzewski'], ['Cody Lundquist', 'Cody Lundquist'], ['Connor Wyatt', 'Connor Wyatt'], ['Daniel', 'Daniel'], ['Daniel Karp', 'Daniel Karp'], ['David', 'David'], ['Derek', 'Derek'], ['Diego Barahona', 'Diego Barahona'], ['Dima Kuzmich', 'Dima Kuzmich'], ['Domas Trijonis', 'Domas Trijonis'], ['Dzmitry Shylovich', 'Dzmitry Shylovich'], ['Eliran Eliassy', 'Eliran Eliassy'], ['Emmanuel DEMEY', 'Emmanuel DEMEY'], ['Eudes Petonnet-Vincent', 'Eudes Petonnet-Vincent'], ['Fabian Wiles', 'Fabian Wiles'], ['Felix Itzenplitz', 'Felix Itzenplitz'], ['Florian Knop', 'Florian Knop'], ['Frederik Prijck', 'Frederik Prijck'], ['Gabe Johnson', 'Gabe Johnson'], ['gary-b', 'gary-b'], ['Gion Kunz', 'Gion Kunz'], ['Günter Zöchbauer', 'Günter Zöchbauer'], ['Haydee Rodriguez', 'Haydee Rodriguez'], ['Isaac Park', 'Isaac Park'], ['Jack Twilley', 'Jack Twilley'], ['Jake Garelick', 'Jake Garelick'], ['Jason Jean', 'Jason Jean'], ['Jesús Rodríguez', 'Jesús Rodríguez'], ['Joel Brewer', 'Joel Brewer'], ['John Jelinek IV', 'John Jelinek IV'], ['John Lindquist', 'John Lindquist'], ['Joost Koehoorn', 'Joost Koehoorn'], ['Josef Meier', 'Josef Meier'], ['José Toledo Navarro', 'José Toledo Navarro'], ['Justin DuJardin', 'Justin DuJardin'], ['Maarten Tibau', 'Maarten Tibau'], ['Martin Hobert', 'Martin Hobert'], ['Mashhood Rastgar', 'Mashhood Rastgar'], ['Mathias Raacke', 'Mathias Raacke'], ['Max Ivanov', 'Max Ivanov'], ['Michael', 'Michael'], ['Mike Ryan', 'Mike Ryan'], ['Miško Hevery', 'Miško Hevery'], ['Naomi Black', 'Naomi Black'], ['Pascal Precht', 'Pascal Precht'], ['Patrick', 'Patrick'], ['Paul Spears', 'Paul Spears'], ['Pawel Kozlowski', 'Pawel Kozlowski'], ['Rado Kirov', 'Rado Kirov'], ['Ricardo Varanda', 'Ricardo Varanda'], ['Robert Ferentz', 'Robert Ferentz'], ['Rob Wormald', 'Rob Wormald'], ['Sam Verschueren', 'Sam Verschueren'], ['Sarun Intaralawan', 'Sarun Intaralawan'], ['Sekib Omazic', 'Sekib Omazic'], ['Shlomi Assaf', 'Shlomi Assaf'], ['Suguru Inatomi', 'Suguru Inatomi'], ['Tom', 'Tom'], ['Torgeir Helgevold', 'Torgeir Helgevold'], ['Vamsi V', 'Vamsi V'], ['Wesley Cho', 'Wesley Cho'], ['Wilgert Velinga', 'Wilgert Velinga'], ['William KOZA', 'William KOZA'], ['Yang Lin', 'Yang Lin']]
+
+
+No. of matches in User: 15
+No. of matches in Display: 28
+[['alan-agius4', 'Alan Agius'], ['brandom', 'Brandon'], ['brandonroberts', 'Brandon Roberts'], ['coryrylan', 'Cory Rylan'], ['eliraneliassy', 'Eliran Eliassy'], ['elvisbegovic', 'Elvis Begovic'], ['frederikprijck', 'Frederik Prijck'], ['gabejohnson', 'Gabe Johnson'], ['noamichael', 'Michael'], ['RicardoVaranda', 'Ricardo Varanda'], ['SamVerschueren', 'Sam Verschueren'], ['dsebastien', 'SebastienBtr'], ['tamascsaba', 'Tamas Csaba'], ['vamsivarikuti', 'Vamsi Varikuti'], ['qdouble', 'zdouble']]
+
+
+[['Aliaksei Kuncevič', 'Aliaksei Kuncevic'], ['Benedikt Berger', 'Benedikt Meurer'], ['David Breuer', 'David Reher'], ['Elvis Begović', 'Elvis Begovic'], ['Eric', 'eric'], ['Eric M. Dantas', 'Eric Mendes Dantas'], ['JackySun', 'Jack Sun'], ['Jason Kufrin', 'Jason Kurian'], ['Jesús Rodríguez', 'Jesús Rodríguez'], ['Jesús Rodríguez', 'Jesus Rodriguez'], ['John', 'Jon'], ['Jonathan Samples', 'Jonathan Miles'], ['Jonathan Samples', 'Jonathan Sharpe'], ['Ben Cooper', 'Kevin Cooper'], ['Kevin Yanuk', 'Kevin Yang'], ['Lazar Ljubenović', 'lazarljubenovic'], ['Mark Trostler', 'Mark Ethan Trostler'], ['David', 'meDavid'], ['noamichael', 'Michael'], ['Michael Gerber', 'Michael Goderbauer'], ['Miško Hevery', 'Miško Hevery'], ['Miško Hevery', 'Misko Hevery'], ['Patrick', 'PatrickJS'], ['Sergio', 'Serginho'], ['Simon Ramsay', 'simon-ramsay'], ['Stephan', 'Stepan'], ['William KOZA', 'WilliamKoza'], ['William KOZA', 'William Koza']]
+
+Removed 'JoostK' from GitHub but did not have to change in Gitter because its already uses one name. as matches are between
+username and github and displayname and github.
+Removed Shlomi Assaf from GitHub
+Replaced Aliaksei Kuncevic with Aliaksei Kuncevič' because its in gitter
+Replaced Eric Mendes Dantas with Eric M. Dantas
+Replaced Jack Sun with JackySun
+Replaced eric with Eric
+Replaced Jesus Rodriguez with Jesús Rodríguez
+All git names replaced with gitter names.
+====================================================================================================
+~/appium-repo-only-issues.csv
+~/appium_contributors.csv
+Total Issues/Users  136
+Unique displayNames 81
+Unique usernames 81
+Unique Contributors  340
+
+
+No. of 100% matches: 2
+[['mgmanikandan87', 'mgmanikandan87']]
+
+
+[['Manikandan M G', 'Manikandan M G']]
+
+
+No. of matches in User: 9
+No. of matches in Display: 13
+[['username', 'austenke'], ['shawninder', 'hannes'], ['mikesalvia', 'Muthu Kesavan'], ['bnazaruk', 'navarasu'], ['rakeshramesh', 'Parashuram'], ['PavithraRavichandran', 'PavithraNavaneeth'], ['skhanam', 'shyam'], ['iammike', 'Tamimi'], ['VikyRam', 'vikramvi']]
+
+
+[['Asim Khan', 'Ali Kia'], ['Andrew Zakordonets', 'Andrew Wason'], ['Aaron', 'Arne'], ['Tarun Narula', 'Arun Nat'], ['Michael Collins', 'Michael Elderhorst'], ['Michael Collins', 'Michael Preston'], ['Michael Collins', 'Michael Timblin'], ['Priyank Shah', 'Payman Delshad'], ['Aaron', 'Raza Robson'], ['Simon Gilmurray', 'Simon Boudrias'], ['Simon Gilmurray', 'Simon Granger'], ['Steffen A. L.', 'Steven Hazel'], ['Tim Oien', 'Tim Wang']]
+
+Removed  Manikandan M G from GitHub
+====================================================================================================
+~/aws-sdk-go-repo-only-issues.csv
+~/aws-sdk-go_contributors.csv
+Total Issues/Users  19
+Unique displayNames 16
+Unique usernames 16
+Unique Contributors  226
+
+
+No. of 100% matches: 2
+[['xibz', 'xibz']]
+
+
+[['Jason Del Ponte', 'Jason Del Ponte']]
+
+
+No. of matches in User: 2
+No. of matches in Display: 2
+[['b-dean', 'Ben'], ['jasdel', 'Yandell']]
+
+
+[['Jason Del Ponte', 'Jason Loo'], ['Matt Haines', 'Matt Hurne']]
+
+
+====================================================================================================
+~/bootstrap-repo-only-issues.csv
+~/bootstrap_contributors.csv
+Total Issues/Users  12
+Unique displayNames 10
+Unique usernames 10
+Unique Contributors  1310
+
+
+No. of 100% matches: 3
+[]
+
+
+[['Dominic Watson', 'Dominic Watson'], ['Prateek Goel', 'Prateek Goel'], ['Zlatan Vasović', 'Zlatan Vasović']]
+
+
+No. of matches in User: 3
+No. of matches in Display: 7
+[['PEsteves8', 'Peter West'], ['PEsteves8', 'Steve S']]
+
+
+[ ['Dominic Watson', 'Dominic'], ['Dominic Watson', 'Dominic Barnes'], ['Erol', 'herom'], ['P. Esteves', 'Jan Stevens'], ['P. Esteves', 'Jon Stevens'], ['Prateek Goel', 'Praveen Puglia']]
+
+Removed Dominic,
+Replaced Peter West with PEsteves8
+
+====================================================================================================
+~/corefx-repo-only-issues.csv
+~/corefx_contributors.csv
+Total Issues/Users  218
+Unique displayNames 80
+Unique usernames 80
+Unique Contributors  1067
+
+
+No. of 100% matches: 48
+[['bpschoch', 'bpschoch'], ['Clockwork-Muse', 'Clockwork-Muse'], ['Drawaes', 'Drawaes'], ['EgorBo', 'EgorBo'], ['jacobcarpenter', 'jacobcarpenter'], ['Jlalond', 'Jlalond'], ['jnm2', 'jnm2'], ['joshfree', 'joshfree'], ['MarcoRossignoli', 'MarcoRossignoli'], ['Maxwe11', 'Maxwe11'], ['Page-Not-Found', 'Page-Not-Found'], ['WinCPP', 'WinCPP'], ['Wraith2', 'Wraith2']]
+
+
+[['Adeel Mujahid', 'Adeel Mujahid'], ['Alexander Köplinger', 'Alexander Köplinger'], ['Andrew', 'Andrew'], ['Ben Adams', 'Ben Adams'], ['Bernie Schoch', 'Bernie Schoch'], ['Clinton Ingram', 'Clinton Ingram'], ['Dmitry Turin', 'Dmitry Turin'], ['Edison Henrique Andreassy', 'Edison Henrique Andreassy'], ['Egor Bogatov', 'Egor Bogatov'], ['Eriawan Kusumawardhono', 'Eriawan Kusumawardhono'], ['Eric Mellino', 'Eric Mellino'], ['Filip Navara', 'Filip Navara'], ['Fredrik Høisæther Rasch', 'Fredrik Høisæther Rasch'], ['Geoffrey Huntley', 'Geoffrey Huntley'], ['Ivan Cronyn', 'Ivan Cronyn'], ['Jacob Lalonde', 'Jacob Lalonde'], ['Jan Kotas', 'Jan Kotas'], ['Joel Braun', 'Joel Braun'], ['Jonathan Mezach', 'Jonathan Mezach'], ['Joseph Musser', 'Joseph Musser'], ['Josh Free', 'Josh Free'], ['Kamil Rytarowski', 'Kamil Rytarowski'], ['Karel Zikmund', 'Karel Zikmund'], ['Kelly Leahy', 'Kelly Leahy'], ['Mandar Sahasrabuddhe', 'Mandar Sahasrabuddhe'], ['Manu', 'Manu'], ['Marco Rossignoli', 'Marco Rossignoli'], ['Matt Ellis', 'Matt Ellis'], ['Omair Majid', 'Omair Majid'], ['Oren Novotny', 'Oren Novotny'], ['Paul M Cohen', 'Paul M Cohen'], ['Peter Jas', 'Peter Jas'], ['Stephen A. Imhoff', 'Stephen A. Imhoff'], ['Tanner Gooding', 'Tanner Gooding'], ['Tim Seaward', 'Tim Seaward']]
+
+
+No. of matches in User: 3
+No. of matches in Display: 2
+[['Drawaes', 'drawaes'], ['jasonwilliams200OK', 'jasonwilliams200ok'], ['MikePopoloski', 'Mike Popoloski']]
+
+
+[['Andy Schwartzmeyer', 'Andrew Schwartzmeyer'], ['Dmitry Turin', 'Dmitry Kakurin']]
+
+Removed Jacob Lalonde from GitHub
+Removed Josh Free
+
+====================================================================================================
+~/deeplearning4j-repo-only-issues.csv
+~/deeplearning4j_contributors.csv
+Total Issues/Users  1165
+Unique displayNames 409
+Unique usernames 410
+Unique Contributors  371
+
+
+No. of 100% matches: 69
+[['agibsonccc', 'agibsonccc'], ['AlexDBlack', 'AlexDBlack'], ['crockpotveggies', 'crockpotveggies'], ['EdeMeijer', 'EdeMeijer'], ['eraly', 'eraly'], ['fulltopic', 'fulltopic'], ['jcastaldoFoodEssentials', 'jcastaldoFoodEssentials'], ['jsteggink', 'jsteggink'], ['jxtps', 'jxtps'], ['longzhendong', 'longzhendong'], ['maxpumperla', 'maxpumperla'], ['nyghtowl', 'nyghtowl'], ['raver119', 'raver119'], ['rohanar', 'rohanar'], ['ShamsUlAzeem', 'ShamsUlAzeem'], ['stolsvik', 'stolsvik'], ['tomthetrainer', 'tomthetrainer'], ['turambar', 'turambar']]
+
+
+[['Adam Gibson', 'Adam Gibson'], ['Akshay Sharma', 'Akshay Sharma'], ['Alex Black', 'Alex Black'], ['Anton Khodakivskiy', 'Anton Khodakivskiy'], ['Bastien Enjalbert', 'Bastien Enjalbert'], ['Charles', 'Charles'], ['ChrisN', 'ChrisN'], ['Daniel Lindberg', 'Daniel Lindberg'], ['Dave kale', 'Dave kale'], ['David Kolb', 'David Kolb'], ['Derek Miller', 'Derek Miller'], ['Ede Meijer', 'Ede Meijer'], ['Eduardo Gonzalez', 'Eduardo Gonzalez'], ['Fabien Campagne', 'Fabien Campagne'], ['Firas Dib', 'Firas Dib'], ['Goh Shu-Wei', 'Goh Shu-Wei'], ['Holger Brandl', 'Holger Brandl'], ['Jesse Cochran', 'Jesse Cochran'], ['Joe', 'Joe'], ['Justin Long', 'Justin Long'], ['jxtps', 'jxtps'], ['Kirill Lebedev', 'Kirill Lebedev'], ['Klaus Broelemann', 'Klaus Broelemann'], ['Lei Zhang', 'Lei Zhang'], ['longzhendong', 'longzhendong'], ['Mark Needham', 'Mark Needham'], ['Max Pumperla', 'Max Pumperla'], ['Melanie Warrick', 'Melanie Warrick'], ['Mikhail Zyatin', 'Mikhail Zyatin'], ['Nikolay Ivankov', 'Nikolay Ivankov'], ['Nils Schimmelmann', 'Nils Schimmelmann'], ['Paul Dubs', 'Paul Dubs'], ['Peter Ertl', 'Peter Ertl'], ['Qiao Junlong', 'Qiao Junlong'], ['Rik Nijessen', 'Rik Nijessen'], ['Robert Altena', 'Robert Altena'], ['Romeo Kienzler', 'Romeo Kienzler'], ['Ruben Fiszel', 'Ruben Fiszel'], ['Sadat Anwar', 'Sadat Anwar'], ['Samuel Audet', 'Samuel Audet'], ['Sebastian Nickel', 'Sebastian Nickel'], ['Seth Hendrickson', 'Seth Hendrickson'], ['Shams Ul Azeem', 'Shams Ul Azeem'], ['Shivansh Srivastava', 'Shivansh Srivastava'], ['Spiridonov Andrey', 'Spiridonov Andrey'], ['Steven Lang', 'Steven Lang'], ['Susan Eraly', 'Susan Eraly'], ['Tamás Fenyvesi', 'Tamás Fenyvesi'], ['Tommaso Teofili', 'Tommaso Teofili'], ['Vladimir', 'Vladimir'], ['Xu Zhongxing', 'Xu Zhongxing']]
+
+
+No. of matches in User: 2
+No. of matches in Display: 7
+[['KolyaIvankov', 'Nikolay Ivankov'], ['shiv4nsh', 'Shivansh']]
+
+
+[['Daniel Naber', 'Daniel Lindberg'], ['Dave kale', 'Dave Kale'], ['DaT', 'dmat'], ['Jakub Peschel', 'Jakub.Peschel'], ['Michael Sch.', 'Michael Sch'], ['Sheng Chen', 'Shanghe Chen'], ['Steven Lang', 'Steven Huang']]
+
+Removed Adam Gibson and Alex Black, Ede Meijer,Susan Eraly,Shams Ul Azeem
+Replaced Nikolay Ivankov with KolyaIvankov
+Shivansh with shiv4nsh
+Dave Kale with Dave kale
+dmat with DaT
+Jakub.Peschel with Jakub Peschel
+Michael Sch with Michael Sch.
+Shanghe Chen with Sheng Chen
+
+====================================================================================================
+~/gulp-repo-only-issues.csv
+~/gulp_contributors.csv
+Total Issues/Users  34
+Unique displayNames 28
+Unique usernames 28
+Unique Contributors  238
+
+
+No. of 100% matches: 1
+[]
+
+
+[['Jesse McCarthy', 'Jesse McCarthy']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 1
+[]
+
+
+[['Lim H.', 'Lim H']]
+Replaced Lim H with Lim H.
+====================================================================================================
+~/jTAppleCalendar-repo-only-issues.csv
+~/jtAppleCalendar_contributors.csv
+Total Issues/Users  79
+Unique displayNames 25
+Unique usernames 25
+Unique Contributors  51
+
+
+No. of 100% matches: 2
+[['patchthecode', 'patchthecode']]
+
+
+[['PatchTheCode', 'PatchTheCode']]
+
+
+No. of matches in User: 1
+No. of matches in Display: 0
+[['hemangshah', 'Hemang Shah']]
+
+
+[]
+Removed PatchTheCode
+Replaced Hemang Shah with hemangshah
+====================================================================================================
+~/magento2-repo-only-issues.csv
+~/magento2_contributors.csv
+Total Issues/Users  21
+Unique displayNames 20
+Unique usernames 20
+Unique Contributors  1897
+
+
+No. of 100% matches: 6
+[['chicgeek', 'chicgeek'], ['xhallix', 'xhallix']]
+
+
+[['Laura Kishimoto', 'Laura Kishimoto'], ['Pierre Martin', 'Pierre Martin'], ['Ryan Fowler', 'Ryan Fowler'], ['Serhii', 'Serhii']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 2
+[]
+
+
+[['Ryan Fowler', 'Ryan Zolper'], ['Serhii', 'Sergii']]
+
+Did not replace Sergii with Serhii because their first and second name both are different
+Removed Ryan Zolper and kept Ryan Fowler
+ ====================================================================================================
+~/mailboxer-repo-only-issues.csv
+~/mailboxer_contributors.csv
+Total Issues/Users  3
+Unique displayNames 3
+Unique usernames 3
+Unique Contributors  79
+
+
+No. of 100% matches: 1
+[]
+
+
+[['Justin Coyne', 'Justin Coyne']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 0
+[['StephenKrewson', 'Seth MacPherson'], ['StephenKrewson', 'Stephen Blackstone']]
+
+
+[]
+
+====================================================================================================
+~/material-design-lite-repo-only-issues.csv
+~/material-design-lite_contributors.csv
+Total Issues/Users  42
+Unique displayNames 17
+Unique usernames 17
+Unique Contributors  214
+
+
+No. of 100% matches: 7
+[]
+
+
+[['Addy Osmani', 'Addy Osmani'], ['Andrea Sonny', 'Andrea Sonny'], ['Jonathan Garbee', 'Jonathan Garbee'], ['Pete Johanson', 'Pete Johanson'], ['Sam Saccone', 'Sam Saccone'], ['Surma', 'Surma'], ['Travis Kaufman', 'Travis Kaufman']]
+
+
+No. of matches in User: 1
+No. of matches in Display: 0
+[['petejohanson', 'Peter Johason']]
+
+
+[]
+removed Peter Johason
+====================================================================================================
+~/meteor-repo-only-issues.csv
+~/meteor_contributors.csv
+Total Issues/Users  60
+Unique displayNames 47
+Unique usernames 47
+Unique Contributors  501
+
+
+No. of 100% matches: 3
+[['dr-dimitru', 'dr-dimitru']]
+
+
+[['dr.dimitru', 'dr.dimitru'], ['Simon Fridlund', 'Simon Fridlund']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 0
+[]
+
+
+[]
+removed dr.dimitru from GitHub
+====================================================================================================
+~/monoGame-repo-only-issues.csv
+~/monoGame_contributors.csv
+Total Issues/Users  102
+Unique displayNames 42
+Unique usernames 42
+Unique Contributors  389
+
+
+No. of 100% matches: 23
+[['cra0zy', 'cra0zy'], ['dellis1972', 'dellis1972'], ['groundh0g', 'groundh0g'], ['jamesford42', 'jamesford42'], ['lozzajp', 'lozzajp'], ['nkast', 'nkast'], ['raizam', 'raizam'], ['tomspilman', 'tomspilman']]
+
+
+[['Austin Sojka', 'Austin Sojka'], ['Daniel Sör', 'Daniel Sör'], ['Dean Ellis', 'Dean Ellis'], ['Harry', 'Harry'], ['Henry Lisowski', 'Henry Lisowski'], ['James Ford', 'James Ford'], ['Jesse', 'Jesse'], ['June Rhodes', 'June Rhodes'], ['Linus Juhlin', 'Linus Juhlin'], ['Nikos Kastellanos', 'Nikos Kastellanos'], ['Roman Shapiro', 'Roman Shapiro'], ["Steve 'Sly' Williams", "Steve 'Sly' Williams"], ['Tom Spilman', 'Tom Spilman'], ['Vicente Penades', 'Vicente Penades'], ['Victor Chelaru', 'Victor Chelaru']]
+
+
+No. of matches in User: 3
+No. of matches in Display: 2
+[['dellis1972', 'dellis1992'], ['dellis1972', 'dellsi1972'], ['nkast', 'nKast']]
+
+
+[['Daniel Sör', 'Daniel Sor'], ["Steve 'Sly' Williams", 'Steve Williams']]
+
+
+Removed Dean Ellis, James Ford,Nikos Kastellanos,Tom Spilman from GitHub
+Replaced dellis1992 and nKast
+Replaced Daniel Sor , Steve Williams
+
+====================================================================================================
+~/open-event-attendee-android-repo-only-issues.csv
+~/open-event_contributors.csv
+Total Issues/Users  162
+Unique displayNames 34
+Unique usernames 34
+Unique Contributors  54
+
+
+No. of 100% matches: 21
+[['liveHarshit', 'liveHarshit'], ['mananwason', 'mananwason'], ['nikit19', 'nikit19'], ['pranavpandey1998official', 'pranavpandey1998official'], ['yashk2000', 'yashk2000']]
+
+
+[['Aditya Gupta', 'Aditya Gupta'], ['Aman Bansal', 'Aman Bansal'], ['Anunay Rajhans', 'Anunay Rajhans'], ['Arnav Gupta', 'Arnav Gupta'], ['Govind Dixit', 'Govind Dixit'], ['Harshit Khandelwal', 'Harshit Khandelwal'], ['Harsimar', 'Harsimar'], ['Manan Wason', 'Manan Wason'], ['Mario Behling', 'Mario Behling'], ['Nikit Bhandari', 'Nikit Bhandari'], ['Nishant Mahajan', 'Nishant Mahajan'], ['Rohan Maity', 'Rohan Maity'], ['Shivansh Beohar', 'Shivansh Beohar'], ['Shivansh Tiwari', 'Shivansh Tiwari'], ['Suneet Srivastava', 'Suneet Srivastava'], ['Yash Khare', 'Yash Khare']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 0
+[]
+
+
+[]
+Removed Manan Wason, Nikit Bhandari,Yash Khare from GitHub
+====================================================================================================
+~/perfect-repo-only-issues.csv
+~/perfect_contributors.csv
+Total Issues/Users  14
+Unique displayNames 7
+Unique usernames 7
+Unique Contributors  53
+
+
+No. of 100% matches: 2
+[]
+
+
+[['Ryan Collins', 'Ryan Collins'], ['Takeo Namba', 'Takeo Namba']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 0
+[]
+
+
+[]
+====================================================================================================
+~/react-starter-kit-repo-only-issues.csv
+~/react-starter-kit_contributors.csv
+Total Issues/Users  141
+Unique displayNames 58
+Unique usernames 58
+Unique Contributors  171
+
+
+No. of 100% matches: 10
+[['bravo-kernel', 'bravo-kernel'], ['inian', 'inian'], ['tim-soft', 'tim-soft']]
+
+
+[['Josh Perez', 'Josh Perez'], ['Joshua Robinson', 'Joshua Robinson'], ['Konstantin Tarkus', 'Konstantin Tarkus'], ['Manoj Kumar', 'Manoj Kumar'], ['Pavel Lang', 'Pavel Lang'], ['Phillip McCaffrey', 'Phillip McCaffrey'], ['Vladimir Kutepov', 'Vladimir Kutepov']]
+
+
+No. of matches in User: 4
+No. of matches in Display: 5
+[['Bogdaan', 'Bohdan L'], ['dfrankland', 'Frank Leng'], ['joshuamanns', 'Joshua'], ['joshuamanns', 'Joshua Robinson']]
+
+
+[['Adam Chen Wei', 'Adam W'], ['Frank Anderson', 'Frank Leng'], ['Doug Robertson', 'Joshua Robinson'], ['Andriy Kulak', 'Martin Kubliniak'], ['Vladimir Kutepov', 'Vlad Filippov']]
+
+Replaced Bohdan L, Adam W
+
+
+====================================================================================================
+~/scala-repo-only-issues.csv
+~/scala_contributors.csv
+Total Issues/Users  214
+Unique displayNames 56
+Unique usernames 56
+Unique Contributors  575
+
+
+No. of 100% matches: 25
+[['Ichoran', 'Ichoran'], ['Jasper-M', 'Jasper-M'], ['martijnhoekstra', 'martijnhoekstra'], ['NthPortal', 'NthPortal'], ['triggerNZ', 'triggerNZ']]
+
+
+[['Adriaan Moors', 'Adriaan Moors'], ['Andriy Plokhotnyuk', 'Andriy Plokhotnyuk'], ['Dale Wijnand', 'Dale Wijnand'], ['Edmund Noble', 'Edmund Noble'], ['eugene yokota', 'eugene yokota'], ['Georgi Krastev', 'Georgi Krastev'], ['Guillaume Martres', 'Guillaume Martres'], ['Harrison Houghton', 'Harrison Houghton'], ['Jason Zaugg', 'Jason Zaugg'], ['Jasper Moeys', 'Jasper Moeys'], ['Jon Pretty', 'Jon Pretty'], ['Martijn Hoekstra', 'Martijn Hoekstra'], ['Matthias Sperl', 'Matthias Sperl'], ['Matt Sicker', 'Matt Sicker'], ['Miles Sabin', 'Miles Sabin'], ['Rob Norris', 'Rob Norris'], ['Ryan Williams', 'Ryan Williams'], ['Seth Tisue', 'Seth Tisue'], ['Shane Delmore', 'Shane Delmore'], ['Vlad Ureche', 'Vlad Ureche']]
+
+
+No. of matches in User: 1
+No. of matches in Display: 3
+[['viktorklang', 'Viktor Klang']]
+
+
+[['eugene yokota', 'Eugene Yokota'], ['Guillaume Martres', 'Guillaume Massé'], ['Paolo G. Giarrusso', 'Paolo Giarrusso']]
+
+Removed Martijn Hoekstra
+Replaced Guillaume Massé, Eugene Yokota, Paolo Giarrusso, Viktor Klang
+====================================================================================================
+~/shuup-repo-only-issues.csv
+~/shuup_contributors.csv
+Total Issues/Users  23
+Unique displayNames 13
+Unique usernames 13
+Unique Contributors  56
+
+
+No. of 100% matches: 6
+[['chessbr', 'chessbr'], ['soulilya', 'soulilya']]
+
+
+[['Christian Hess', 'Christian Hess'], ['Gurchet Rai', 'Gurchet Rai'], ['Janne Tammi', 'Janne Tammi'], ['Panu Tulimäki', 'Panu Tulimäki']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 1
+[]
+
+
+[['Gurchet Rai', 'Gurch Rai']]
+
+Removed Christian Hess
+Replaced Gurch Rai with Gurchet Rai
+====================================================================================================
+~/theodinproject-repo-only-issues.csv
+~/theodinproject_contributors.csv
+Total Issues/Users  9
+Unique displayNames 6
+Unique usernames 6
+Unique Contributors  130
+
+
+No. of 100% matches: 5
+[['buoyantair', 'buoyantair'], ['Deetss', 'Deetss']]
+
+
+[['Arun Kumar Mohan', 'Arun Kumar Mohan'], ['Austin', 'Austin'], ['David Chapman', 'David Chapman']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 4
+[]
+
+
+[['Arun Kumar Mohan', 'Arun Kumar'], ['Austin', 'Austin Mason'], ['David Chapman', 'David Kim'], ['Austin', 'Joao Stein']]
+
+Removed Arun Kumar,  Austin Mason
+====================================================================================================
+~/typeScript-repo-only-issues.csv
+~/typeScript_contributors.csv
+Total Issues/Users  751
+Unique displayNames 320
+Unique usernames 320
+Unique Contributors  485
+
+
+No. of 100% matches: 29
+[['andy-ms', 'andy-ms'], ['AnyhowStep', 'AnyhowStep'], ['Arnavion', 'Arnavion']]
+
+
+[['Adrian Leonhard', 'Adrian Leonhard'], ['Aluan Haddad', 'Aluan Haddad'], ['Asad Saeeduddin', 'Asad Saeeduddin'], ['Blake Embrey', 'Blake Embrey'], ['Daniel', 'Daniel'], ['Daniel Rosenwasser', 'Daniel Rosenwasser'], ['Herrington Darkholme', 'Herrington Darkholme'], ['Homa Wong', 'Homa Wong'], ['James Henry', 'James Henry'], ['Jason Killian', 'Jason Killian'], ['Lucien Greathouse', 'Lucien Greathouse'], ['Martin Vseticka', 'Martin Vseticka'], ['Mateusz Burzyński', 'Mateusz Burzyński'], ['Micah Zoltu', 'Micah Zoltu'], ['Michael', 'Michael'], ['Mohamed Hegazy', 'Mohamed Hegazy'], ['Nathan Shively-Sanders', 'Nathan Shively-Sanders'], ['Paul Koerbitz', 'Paul Koerbitz'], ['Rhys van der Waerden', 'Rhys van der Waerden'], ['Ryan Cavanaugh', 'Ryan Cavanaugh'], ['Steven', 'Steven'], ['Sudheesh Singanamalla', 'Sudheesh Singanamalla'], ['Tingan Ho', 'Tingan Ho'], ['Titian Cernicova-Dragomir', 'Titian Cernicova-Dragomir'], ['Tycho Grouwstra', 'Tycho Grouwstra'], ['York Yao', 'York Yao']]
+
+
+No. of matches in User: 1
+No. of matches in Display: 6
+[['CyrusNajmabadi', 'Cyrus Najmabadi']]
+
+
+[['Danila', 'Daniel'], ['Daniel Karp', 'Daniel Król'], ['Daniel Karp', 'Daniel Krom'], ['Evgeniy Timokhov', 'Eugene Timokhov'], ['Mikhail Busyrev', 'Mike Busyrev'], ['Sebastien Arod', 'Sébastien Arod']]
+
+Replaced Cyrus Najmabadi, Eugene Timokhov, Mike Busyrev, Sébastien Arod
+====================================================================================================
+~/vue-repo-only-issues.csv
+~/vue_contributors.csv
+Total Issues/Users  294
+Unique displayNames 205
+Unique usernames 205
+Unique Contributors  407
+
+
+No. of 100% matches: 10
+[]
+
+
+[['Alex', 'Alex'], ['Amir Rustamzadeh', 'Amir Rustamzadeh'], ['Bill Criswell', 'Bill Criswell'], ['Blake Newman', 'Blake Newman'], ['Chris Fritz', 'Chris Fritz'], ['Denis Karabaza', 'Denis Karabaza'], ['Dexter Miguel', 'Dexter Miguel'], ['Nick Messing', 'Nick Messing'], ['Phan An', 'Phan An'], ['Wenlu Wang', 'Wenlu Wang']]
+
+
+No. of matches in User: 1
+No. of matches in Display: 2
+[['Kingwl', 'kingwl']]
+
+
+[['Alexander Hofstede', 'Alexander Eden'], ['Wenlu Wang', 'wenlu.wang']]
+
+Replaced kingwl and wenlu.wang
+====================================================================================================
+~/webdriverio-repo-only-issues.csv
+~/webdriverio_contributors.csv
+Total Issues/Users  775
+Unique displayNames 373
+Unique usernames 374
+Unique Contributors  545
+
+
+No. of 100% matches: 84
+[['christian-bromann', 'christian-bromann'], ['csoete', 'csoete'], ['Eduard-iCH', 'Eduard-iCH'], ['erwinheitzman', 'erwinheitzman'], ['Gilad-WT', 'Gilad-WT'], ['goatsy', 'goatsy'], ['jankcat', 'jankcat'], ['just-boris', 'just-boris'], ['mattc41190', 'mattc41190'], ['patthiel', 'patthiel'], ['ptthuong', 'ptthuong'], ['rostik404', 'rostik404'], ['sbmaxx', 'sbmaxx'], ['StephenABoyd', 'StephenABoyd']]
+
+
+[['Adam Bjerstedt', 'Adam Bjerstedt'], ['Alexander Abashkin', 'Alexander Abashkin'], ['Andrew Stewart Gibson', 'Andrew Stewart Gibson'], ['Andrii Lazebnyi', 'Andrii Lazebnyi'], ['Annemarie', 'Annemarie'], ['Arjan Blok', 'Arjan Blok'], ['Baruch Velez', 'Baruch Velez'], ['Bennie Swart', 'Bennie Swart'], ['Boris Osipov', 'Boris Osipov'], ['Boris Serdiuk', 'Boris Serdiuk'], ['Çağdaş Tülek', 'Çağdaş Tülek'], ['chelsea', 'chelsea'], ['Christian Bromann', 'Christian Bromann'], ['Dan Dascalescu', 'Dan Dascalescu'], ['Dave Taylor', 'Dave Taylor'], ['Dominik Moritz', 'Dominik Moritz'], ['Duc Le', 'Duc Le'], ['Erwin Heitzman', 'Erwin Heitzman'], ['Evan Giordanella', 'Evan Giordanella'], ['Everett Griffiths', 'Everett Griffiths'], ['Eyal Zekaria', 'Eyal Zekaria'], ['FeL', 'FeL'], ['George Crawford', 'George Crawford'], ['Ian Renauld', 'Ian Renauld'], ['Joe Helfrich', 'Joe Helfrich'], ['Joe Marty', 'Joe Marty'], ['John Robinson', 'John Robinson'], ['jonathan terry', 'jonathan terry'], ['Josh Cypher', 'Josh Cypher'], ['Kevin Lamping', 'Kevin Lamping'], ['Kevin McDonnell', 'Kevin McDonnell'], ['Kevin Roulleau', 'Kevin Roulleau'], ['Kimek', 'Kimek'], ['Martti Laine', 'Martti Laine'], ['Matthew Cale', 'Matthew Cale'], ['Meet Mangukiya', 'Meet Mangukiya'], ['Michael Herold', 'Michael Herold'], ['Mike Hemesath', 'Mike Hemesath'], ['Mike Salvia', 'Mike Salvia'], ['Mohan Kumar Selvaraj', 'Mohan Kumar Selvaraj'], ['molsson', 'molsson'], ['Morten Gregersen', 'Morten Gregersen'], ['Mykola Grybyk', 'Mykola Grybyk'], ['Nami Varthakavi', 'Nami Varthakavi'], ['Nikolas Addison', 'Nikolas Addison'], ['Oleksii', 'Oleksii'], ['Olivier Beaulieu', 'Olivier Beaulieu'], ['Pat Thiel', 'Pat Thiel'], ['Rahul Srivastava', 'Rahul Srivastava'], ['Ricardo Barbosa', 'Ricardo Barbosa'], ['Roman Rozhdestvenskiy', 'Roman Rozhdestvenskiy'], ['Roy Sutton', 'Roy Sutton'], ['Saul Shanabrook', 'Saul Shanabrook'], ['Simon Wilson', 'Simon Wilson'], ['Steven Noble', 'Steven Noble'], ['Tadashi Nemoto', 'Tadashi Nemoto'], ['Tally Barak', 'Tally Barak'], ['Thomas Grainger', 'Thomas Grainger'], ['Tim Brust', 'Tim Brust'], ['Tim Watkins', 'Tim Watkins'], ['Tu Huynh', 'Tu Huynh'], ['Uri Goldstein', 'Uri Goldstein'], ['Vyacheslav Slinko', 'Vyacheslav Slinko'], ['Walter Hector Lijo', 'Walter Hector Lijo'], ['Will Brock', 'Will Brock'], ['William T Luce', 'William T Luce'], ['Wim Selles', 'Wim Selles'], ['W. van Kuipers', 'W. van Kuipers'], ['Xu Cao', 'Xu Cao'], ['Yann Verreault', 'Yann Verreault']]
+
+
+No. of matches in User: 5
+No. of matches in Display: 5
+[['emilyrohrbough', 'Emily Rohrbough'], ['mikesalvia', 'Mike Salvia'], ['MortenGregersen', 'Morten Bjerg Gregersen'], ['Vincento89', 'Vincent'], ['wvankuipers', 'W.van Kuipers']]
+
+
+[['Mauricio Giacomello', 'Mauricio Melo'], ['Mike Hemesath', 'Michael Hemesath'], ['Nicholas Roge', 'Nicholas Dobie'], ['Pat Thiel', 'Patrick Thiel'], ['Thomas Gratier', 'Thomas Grainger']]
+
+Removed Christian Bromann, Matthew Cale, Pat Thiel,Roman Rozhdestvenskiy
+Replaced Emily Rohrbough, Mike Salvia, Vincent, Morten Bjerg Gregerse, W.van Kuipers
+and Mauricio Melo, Michael Hemesath, Patrick Thiel,Thomas Grainger
+====================================================================================================
+~/zipkin-repo-only-issues.csv
+~/zipkin_contributors.csv
+Total Issues/Users  902
+Unique displayNames 84
+Unique usernames 84
+Unique Contributors  167
+
+
+No. of 100% matches: 33
+[['adriancole', 'adriancole'], ['cburroughs', 'cburroughs'], ['eirslett', 'eirslett'], ['fedj', 'fedj'], ['jamescway', 'jamescway'], ['zeagord', 'zeagord']]
+
+
+[['Adrian Cole', 'Adrian Cole'], ['Anuraag Agrawal', 'Anuraag Agrawal'], ['Bas van Beek', 'Bas van Beek'], ['Brian Devins-Suresh', 'Brian Devins-Suresh'], ['Dan Grabowski', 'Dan Grabowski'], ['Dave Syer', 'Dave Syer'], ['Dmitry Prokopchenkov', 'Dmitry Prokopchenkov'], ['Eirik Sletteberg', 'Eirik Sletteberg'], ['Frank Yi', 'Frank Yi'], ['Gary Donovan', 'Gary Donovan'], ['Gianluca Arbezzano', 'Gianluca Arbezzano'], ['James Way', 'James Way'], ['Jeanneret Pierre-Hugues', 'Jeanneret Pierre-Hugues'], ['Jordi Polo Carres', 'Jordi Polo Carres'], ['Jorg Heymans', 'Jorg Heymans'], ['José Carlos Chávez', 'José Carlos Chávez'], ['Lance Linder', 'Lance Linder'], ['Prateek Agarwal', 'Prateek Agarwal'], ['Raja Sundaram', 'Raja Sundaram'], ['Semyon Slepov', 'Semyon Slepov'], ['Sergei Egorov', 'Sergei Egorov'], ['Suman Karumuri', 'Suman Karumuri'], ['Tommy Ludwig', 'Tommy Ludwig'], ['Yannick Schutz', 'Yannick Schutz'], ['Yukinari Toyota', 'Yukinari Toyota'], ['Yuri Shkuro', 'Yuri Shkuro'], ['Zoltán Nagy', 'Zoltán Nagy']]
+
+
+No. of matches in User: 0
+No. of matches in Display: 2
+[]
+
+
+[['Naoman Abbas', 'Nomy Abbas'], ['Zoltán Nagy', 'Zoltan Nagy']]
+
+Removed  Adrian Cole,Eirik Sletteberg
+Replaced Nomy Abbas and Zoltan Nagy
+
+====================================================================================================
+Total 77 aliases

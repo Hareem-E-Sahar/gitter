@@ -1,0 +1,177 @@
+~/material-design-lite-repo-only-issues.csv
+Total Issues/Users  42
+Unique  18
+Unique  17
+No. of matches in User: 0
+[]
+====================================================================================================
+~/typeScript-repo-only-issues.csv
+Total Issues/Users  751
+Unique  321
+Unique  320
+No. of matches in User: 3
+[['tomenden', 'Tom Enden', 'tomdale', 'Tom Dale'], ['seanzer', 'Sean', 'sberan', 'Sam Beran'], ['matthewtebbs', 'Matthew Tebbs', 'matthewadams', 'Matthew Adams']]
+
+====================================================================================================
+~/corefx-repo-only-issues.csv
+Total Issues/Users  218
+Unique  81
+Unique  80
+No. of matches in User: 1
+[['joshfree', 'Josh Free', 'joshgarnett', 'Joshua Garnett']]
+====================================================================================================
+~/bootstrap-repo-only-issues.csv
+Total Issues/Users  12
+Unique  11
+Unique  10
+No. of matches in User: 0
+[]
+====================================================================================================
+~/webdriverio-repo-only-issues.csv
+Total Issues/Users  775
+Unique  374
+Unique  374
+No. of matches in User: 4
+[['csoete', 'csoete', 'Croote', 'Croote'], ['jonkemp', 'Jonathan Kemp', 'jonyet', 'jonathan terry'], ['graingert', 'Thomas Grainger', 'simongranger', 'Simon Granger'], ['erwinheitzman', 'Erwin Heitzman', 'ErikHellman', 'Erik Hellman']]
+
+====================================================================================================
+~/gulp-repo-only-issues.csv
+Total Issues/Users  34
+Unique  29
+Unique  28
+No. of matches in User: 0
+[]
+====================================================================================================
+~/amber-repo-only-issues.csv
+Total Issues/Users  250
+Unique  36
+Unique  35
+No. of matches in User: 0
+[]
+====================================================================================================
+~/mailboxer-repo-only-issues.csv
+Total Issues/Users  3
+Unique  4
+Unique  3
+No. of matches in User: 0
+[]
+====================================================================================================
+~/monoGame-repo-only-issues.csv
+Total Issues/Users  102
+Unique  43
+Unique  42
+No. of matches in User: 0
+[]
+====================================================================================================
+~/meteor-repo-only-issues.csv
+Total Issues/Users  60
+Unique  48
+Unique  47
+No. of matches in User: 0
+[]
+====================================================================================================
+~/scala-repo-only-issues.csv
+Total Issues/Users  214
+Unique  57
+Unique  56
+No. of matches in User: 0
+[]
+====================================================================================================
+~/perfect-repo-only-issues.csv
+Total Issues/Users  14
+Unique  8
+Unique  7
+No. of matches in User: 0
+[]
+====================================================================================================
+~/shuup-repo-only-issues.csv
+Total Issues/Users  23
+Unique  14
+Unique  13
+No. of matches in User: 0
+[]
+====================================================================================================
+~/vue-repo-only-issues.csv
+Total Issues/Users  294
+Unique  206
+Unique  205
+No. of matches in User: 2
+[['marcjan', 'Marcin', 'marco-a', 'Marco'], ['g-patel', 'Gaurang Patel', 'ian-patel', 'Ian Patel']]
+====================================================================================================
+~/magento2-repo-only-issues.csv
+Total Issues/Users  21
+Unique  21
+Unique  20
+No. of matches in User: 0
+[]
+====================================================================================================
+~/appium-repo-only-issues.csv
+Total Issues/Users  136
+Unique  82
+Unique  81
+No. of matches in User: 2
+[['Mydsa', 'Mydsa', 'madiska', 'madiska'], ['RatkoD', 'RatkoD', 'RoakyWood', 'Roaky Wood']]
+====================================================================================================
+~/deeplearning4j-repo-only-issues.csv
+Total Issues/Users  1165
+Unique  410
+Unique  410
+No. of matches in User: 11
+[['danielchalef', 'Daniel Chalef', 'danielnaber', 'Daniel Naber'], ['danielchalef', 'Daniel Chalef', 'danielr2e', 'danielr2e'], ['danielnaber', 'Daniel Naber', 'danielr2e', 'danielr2e'], ['danielnaber', 'Daniel Naber', 'bastienjalbert', 'Bastien Enjalbert'], ['rohanar', 'rohanar', 'rawhazard', 'rawhazard'], ['rohanar', 'rohanar', 'tranva', 'tranva'], ['ajdabholkar', 'ajdabholkar', 'abholer', 'abholer'], ['rawhazard', 'rawhazard', 'grayhaired', 'grayhaired'], ['alex-glasman', 'alex-glasman', 'alexpalman', 'alexpalman'], ['reidswanson', 'reidswanson', 'rsantoso', 'Richard Santoso'], ['SanderGielisse', 'Sander Gielisse', 'anderseriksson', 'Anders Eriksson']]
+====================================================================================================
+~/theodinproject-repo-only-issues.csv
+Total Issues/Users  9
+Unique  7
+Unique  6
+No. of matches in User: 0
+[]
+====================================================================================================
+~/open-event-attendee-android-repo-only-issues.csv
+Total Issues/Users  162
+Unique  35
+Unique  34
+No. of matches in User: 0
+[]
+====================================================================================================
+~/aws-sdk-go-repo-only-issues.csv
+Total Issues/Users  19
+Unique  17
+Unique  16
+No. of matches in User: 0
+[]
+====================================================================================================
+~/jTAppleCalendar-repo-only-issues.csv
+Total Issues/Users  79
+Unique  26
+Unique  25
+No. of matches in User: 0
+[]
+====================================================================================================
+~/zipkin-repo-only-issues.csv
+Total Issues/Users  902
+Unique  85
+Unique  84
+No. of matches in User: 0
+[]
+====================================================================================================
+~/react-starter-kit-repo-only-issues.csv
+Total Issues/Users  141
+Unique  59
+Unique  58
+No. of matches in User: 0
+[]
+===========================================================================================================================
+ ~/angular-repo-only-issues.csv
+Total Issues/Users  3492
+Unique  732
+Unique  741
+No. of matches in User: 6
+[['PascalPrecht', 'Pascal Precht', 'pascalwhoop', 'Pascal Brokmeier'], ['chrisber', 'Christian Karl Bernasko', 'ChrisEbner', 'Christian Ebner'], ['madmaxio', 'madmaxio', 'majianxiong', 'majianxiong'], ['antonmoiseev', 'Anton Moiseev', 'pantonis', 'pantonis'], ['robertbrower', 'robertbrower', 'joelbrewer', 'Joel Brewer'], ['DavidTheProgrammer', 'ogarvey', 'andrey-programmist', 'gary-b']]
+
+After Manual Examination
+No. of aliases = 4
+
+['chrisber', 'Christian Karl Bernasko', 'ChrisEbner', 'Christian Ebner']
+['madmaxio', 'madmaxio', 'majianxiong', 'majianxiong']
+['antonmoiseev', 'Anton Moiseev', 'pantonis', 'pantonis']
+['DavidTheProgrammer', 'ogarvey', 'andrey-programmist', 'gary-b']]
