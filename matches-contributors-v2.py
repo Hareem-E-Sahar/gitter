@@ -3,27 +3,28 @@ import csv
 import os
 import Levenshtein as lev
 from collections import Counter
-root = "~/output-repo-only-issues/"
-path = os.path.join(root, "output-repo-only-issues")
+root = "../output-repo-only-issues/"
+path = os.path.join(root, "output-repo-only-issues/")
 gitterfiles = []
 for path, subdirs, files in os.walk(root):
         for name in files:
-            #print(name)
+            print(name)
             if(name.endswith('.csv')):
                 gitterfiles.append(name)
 gitterfiles.sort()
-root2 = "~/git-contributors-aliases-resolved/"
-path2 = os.path.join(root2, "git-contributors-aliases-resolved")
+print(gitterfiles)
+root2 = "../git-contributors-aliases-resolved"
+path2 = os.path.join(root2, "git-contributors-aliases-resolved/")
 githubfiles = []
 for path2, subdirs, files in os.walk(root2):
         for name in files:
-            #print(name)
+            print(name)
             if(name.endswith('.csv')):
                 githubfiles.append(name)
 githubfiles.sort()
-
+print(githubfiles)
  #read the gitter data here, displayname and username
-for i in range(0,24):
+for i in range(0,2):
     gitterpath = os.path.join(path, gitterfiles[i])
     githubpath = os.path.join(path2, githubfiles[i])
     with open(gitterpath,'r') as csvfile:
