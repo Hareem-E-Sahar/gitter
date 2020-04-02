@@ -45,8 +45,9 @@ No. of matches in Display: 28
 
 [['Aliaksei Kuncevič', 'Aliaksei Kuncevic'], ['Benedikt Berger', 'Benedikt Meurer'], ['David Breuer', 'David Reher'], ['Elvis Begović', 'Elvis Begovic'], ['Eric', 'eric'], ['Eric M. Dantas', 'Eric Mendes Dantas'], ['JackySun', 'Jack Sun'], ['Jason Kufrin', 'Jason Kurian'], ['Jesús Rodríguez', 'Jesús Rodríguez'], ['Jesús Rodríguez', 'Jesus Rodriguez'], ['John', 'Jon'], ['Jonathan Samples', 'Jonathan Miles'], ['Jonathan Samples', 'Jonathan Sharpe'], ['Ben Cooper', 'Kevin Cooper'], ['Kevin Yanuk', 'Kevin Yang'], ['Lazar Ljubenović', 'lazarljubenovic'], ['Mark Trostler', 'Mark Ethan Trostler'], ['David', 'meDavid'], ['noamichael', 'Michael'], ['Michael Gerber', 'Michael Goderbauer'], ['Miško Hevery', 'Miško Hevery'], ['Miško Hevery', 'Misko Hevery'], ['Patrick', 'PatrickJS'], ['Sergio', 'Serginho'], ['Simon Ramsay', 'simon-ramsay'], ['Stephan', 'Stepan'], ['William KOZA', 'WilliamKoza'], ['William KOZA', 'William Koza']]
 
-Removed 'JoostK' from GitHub but did not have to change in Gitter because its already uses one name. as matches are between
-username and github and displayname and github.
+Removed 'JoostK' from GitHub but did not have to change in Gitter because its already uses one name.
+As matches are between username and github and displayname and github. Otherwise it will match both
+JoostK and Joost Koehoorn.
 Removed Shlomi Assaf from GitHub
 Replaced Aliaksei Kuncevic with Aliaksei Kuncevič' because its in gitter
 Replaced Eric Mendes Dantas with Eric M. Dantas
@@ -77,7 +78,7 @@ No. of matches in Display: 13
 
 [['Asim Khan', 'Ali Kia'], ['Andrew Zakordonets', 'Andrew Wason'], ['Aaron', 'Arne'], ['Tarun Narula', 'Arun Nat'], ['Michael Collins', 'Michael Elderhorst'], ['Michael Collins', 'Michael Preston'], ['Michael Collins', 'Michael Timblin'], ['Priyank Shah', 'Payman Delshad'], ['Aaron', 'Raza Robson'], ['Simon Gilmurray', 'Simon Boudrias'], ['Simon Gilmurray', 'Simon Granger'], ['Steffen A. L.', 'Steven Hazel'], ['Tim Oien', 'Tim Wang']]
 
-Removed  Manikandan M G from GitHub
+Removed  Manikandan M G from GitHub because mgmanikandan87 exists
 ====================================================================================================
 ~/aws-sdk-go-repo-only-issues.csv
 ~/aws-sdk-go_contributors.csv
@@ -125,9 +126,6 @@ No. of matches in Display: 7
 
 [ ['Dominic Watson', 'Dominic'], ['Dominic Watson', 'Dominic Barnes'], ['Erol', 'herom'], ['P. Esteves', 'Jan Stevens'], ['P. Esteves', 'Jon Stevens'], ['Prateek Goel', 'Praveen Puglia']]
 
-Removed Dominic,
-Replaced Peter West with PEsteves8
-
 ====================================================================================================
 ~/corefx-repo-only-issues.csv
 ~/corefx_contributors.csv
@@ -152,7 +150,7 @@ No. of matches in Display: 2
 [['Andy Schwartzmeyer', 'Andrew Schwartzmeyer'], ['Dmitry Turin', 'Dmitry Kakurin']]
 
 Removed Jacob Lalonde from GitHub
-Removed Josh Free
+Removed Josh Free because joshfree exists
 
 ====================================================================================================
 ~/deeplearning4j-repo-only-issues.csv
@@ -177,7 +175,7 @@ No. of matches in Display: 7
 
 [['Daniel Naber', 'Daniel Lindberg'], ['Dave kale', 'Dave Kale'], ['DaT', 'dmat'], ['Jakub Peschel', 'Jakub.Peschel'], ['Michael Sch.', 'Michael Sch'], ['Sheng Chen', 'Shanghe Chen'], ['Steven Lang', 'Steven Huang']]
 
-Removed Adam Gibson and Alex Black, Ede Meijer,Susan Eraly,Shams Ul Azeem
+Removed Adam Gibson and Alex Black, Ede Meijer,Susan Eraly(eraly matches),Shams Ul Azeem
 Replaced Nikolay Ivankov with KolyaIvankov
 Shivansh with shiv4nsh
 Dave Kale with Dave kale
@@ -257,7 +255,6 @@ No. of matches in Display: 2
 [['Ryan Fowler', 'Ryan Zolper'], ['Serhii', 'Sergii']]
 
 Did not replace Sergii with Serhii because their first and second name both are different
-Removed Ryan Zolper and kept Ryan Fowler
  ====================================================================================================
 ~/mailboxer-repo-only-issues.csv
 ~/mailboxer_contributors.csv
@@ -303,7 +300,7 @@ No. of matches in Display: 0
 
 
 []
-removed Peter Johason
+removed Peter Johason from GitHub
 ====================================================================================================
 ~/meteor-repo-only-issues.csv
 ~/meteor_contributors.csv
@@ -351,9 +348,10 @@ No. of matches in Display: 2
 [['Daniel Sör', 'Daniel Sor'], ["Steve 'Sly' Williams", 'Steve Williams']]
 
 
-Removed Dean Ellis, James Ford,Nikos Kastellanos,Tom Spilman from GitHub
-Replaced dellis1992 and nKast
-Replaced Daniel Sor , Steve Williams
+['dellis1972', 'dellsi1972'],
+Removed Dean Ellis, dellsi1972, James Ford, Nikos Kastellanos, Tom Spilman from GitHub
+Replaced nKast 
+Replaced Steve Williams
 
 ====================================================================================================
 ~/open-event-attendee-android-repo-only-issues.csv
@@ -423,7 +421,7 @@ No. of matches in Display: 5
 
 [['Adam Chen Wei', 'Adam W'], ['Frank Anderson', 'Frank Leng'], ['Doug Robertson', 'Joshua Robinson'], ['Andriy Kulak', 'Martin Kubliniak'], ['Vladimir Kutepov', 'Vlad Filippov']]
 
-Replaced Bohdan L, Adam W
+Replaced Bohdan L with Bogdaan
 
 
 ====================================================================================================
@@ -450,7 +448,7 @@ No. of matches in Display: 3
 [['eugene yokota', 'Eugene Yokota'], ['Guillaume Martres', 'Guillaume Massé'], ['Paolo G. Giarrusso', 'Paolo Giarrusso']]
 
 Removed Martijn Hoekstra
-Replaced Guillaume Massé, Eugene Yokota, Paolo Giarrusso, Viktor Klang
+Replaced Eugene Yokota, Paolo Giarrusso, Viktor Klang
 ====================================================================================================
 ~/shuup-repo-only-issues.csv
 ~/shuup_contributors.csv
@@ -484,7 +482,6 @@ Unique displayNames 6
 Unique usernames 6
 Unique Contributors  130
 
-
 No. of 100% matches: 5
 [['buoyantair', 'buoyantair'], ['Deetss', 'Deetss']]
 
@@ -499,7 +496,7 @@ No. of matches in Display: 4
 
 [['Arun Kumar Mohan', 'Arun Kumar'], ['Austin', 'Austin Mason'], ['David Chapman', 'David Kim'], ['Austin', 'Joao Stein']]
 
-Removed Arun Kumar,  Austin Mason
+Removed Arun Kumar
 ====================================================================================================
 ~/typeScript-repo-only-issues.csv
 ~/typeScript_contributors.csv
@@ -572,8 +569,8 @@ No. of matches in Display: 5
 [['Mauricio Giacomello', 'Mauricio Melo'], ['Mike Hemesath', 'Michael Hemesath'], ['Nicholas Roge', 'Nicholas Dobie'], ['Pat Thiel', 'Patrick Thiel'], ['Thomas Gratier', 'Thomas Grainger']]
 
 Removed Christian Bromann, Matthew Cale, Pat Thiel,Roman Rozhdestvenskiy
-Replaced Emily Rohrbough, Mike Salvia, Vincent, Morten Bjerg Gregerse, W.van Kuipers
-and Mauricio Melo, Michael Hemesath, Patrick Thiel,Thomas Grainger
+Replaced Emily Rohrbough, Mike Salvia, Morten Bjerg Gregerse, W.van Kuipers 
+and Michael Hemesath, Patrick Thiel in GitHub
 ====================================================================================================
 ~/zipkin-repo-only-issues.csv
 ~/zipkin_contributors.csv
@@ -601,4 +598,4 @@ Removed  Adrian Cole,Eirik Sletteberg
 Replaced Nomy Abbas and Zoltan Nagy
 
 ====================================================================================================
-Total 77 aliases
+Total 71 aliases
