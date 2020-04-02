@@ -4,9 +4,10 @@ gitter_random<-read.csv("Gitter_Random.csv",header=TRUE)
 
 pdf("ResolutionTimeBoxplot-logscale.pdf",width=8,height=6)
 ggplot(gitter_random, aes(x=gitter_random$name, y=(gitter_random$resolution_time), fill=(gitter_random$configuration))) +
-  geom_boxplot()  +
-  theme(legend.position = "top",legend.title  = element_blank()) +
-  theme(axis.text.x = element_text(angle = 60,hjust=1), axis.text=element_text(size=14), axis.title =element_text(size=16) )+
+  geom_boxplot()  + theme_light()+
+  theme(legend.position = "top",legend.title  = element_blank(),axis.text.x = element_text(angle = 60,hjust=1), axis.text=element_text(size=14), axis.title =element_text(size=16), 
+        panel.border = element_blank(), panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())+
   xlab("Gitter Chat Rooms") +
   ylab("Resolution Time in Hours (log scale)") + ylim(0, max(gitter_random$resolution_time)) + scale_y_log10()+
   scale_fill_manual(values=c( "bisque2", "cyan3"))
