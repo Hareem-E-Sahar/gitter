@@ -11,3 +11,5 @@ I have also added
 * RQ3 Confounds
 * RQ3 wilcox 
 * RQ3 graphs script
+* RQ4 comment ratio file excluding issues that have zero comments
+* RQ4 boxplot script
